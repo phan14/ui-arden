@@ -1,0 +1,6 @@
+{
+  "name": "Arden Garment Factory",
+  "description": "Xưởng may gia công thời trang Local Brand theo yêu cầu - Arden Garment Factory TP.HCM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
