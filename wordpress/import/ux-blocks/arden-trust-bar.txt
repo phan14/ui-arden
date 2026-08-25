@@ -1,0 +1,8 @@
+[section class="arden-trust-bar" padding="0px"]
+[row]
+[col span="3" span__md="6" span__sm="12"][icon_box title="MOQ LINH HOẠT" icon="icon-box" class="arden-trust-item"]<p>Sản xuất thử từ 30 sản phẩm/mẫu.</p>[/icon_box][/col]
+[col span="3" span__md="6" span__sm="12"][icon_box title="BẢO MẬT NDA" icon="icon-lock" class="arden-trust-item"]<p>Bảo vệ thiết kế và thông tin thương hiệu.</p>[/icon_box][/col]
+[col span="3" span__md="6" span__sm="12"][icon_box title="TIẾN ĐỘ RÕ RÀNG" icon="icon-clock" class="arden-trust-item"]<p>Thống nhất kế hoạch trước khi vào chuyền.</p>[/icon_box][/col]
+[col span="3" span__md="6" span__sm="12"][icon_box title="SẢN XUẤT KHÉP KÍN" icon="icon-checkmark" class="arden-trust-item"]<p>Rập, cắt, may, in thêu, QC và đóng gói.</p>[/icon_box][/col]
+[/row]
+[/section]

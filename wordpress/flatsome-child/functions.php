@@ -10,6 +10,7 @@ defined( 'ABSPATH' ) || exit;
 define( 'ARDEN_CHILD_VERSION', '1.0.0' );
 
 require_once get_stylesheet_directory() . '/inc/template-tags.php';
+require_once get_stylesheet_directory() . '/inc/post-types.php';
 require_once get_stylesheet_directory() . '/inc/shortcodes.php';
 
 /** Enqueue the parent stylesheet and Arden's isolated design layer. */

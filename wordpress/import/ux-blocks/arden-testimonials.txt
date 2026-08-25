@@ -1,0 +1,8 @@
+[section class="arden-section arden-testimonials"]
+[row][col span="12"][ux_text class="arden-section-title"]<p class="arden-eyebrow">ĐÁNH GIÁ TỪ ĐỐI TÁC</p><h2>NHÀ SÁNG LẬP LOCAL BRAND NÓI GÌ VỀ ARDEN?</h2><p>Sự hài lòng và tăng trưởng của khách hàng là minh chứng cho chất lượng sản xuất.</p>[/ux_text][/col][/row]
+[row]
+[col span="4" span__sm="12" class="arden-card arden-testimonial-card"][ux_text]<p class="arden-stars">★★★★★</p><blockquote>NỘI_DUNG_ĐÁNH_GIÁ_ĐÃ_XÁC_NHẬN_01</blockquote><h3>TÊN_NGƯỜI_ĐÁNH_GIÁ_01</h3><p>VAI_TRÒ — THƯƠNG_HIỆU</p>[/ux_text][/col]
+[col span="4" span__sm="12" class="arden-card arden-testimonial-card"][ux_text]<p class="arden-stars">★★★★★</p><blockquote>NỘI_DUNG_ĐÁNH_GIÁ_ĐÃ_XÁC_NHẬN_02</blockquote><h3>TÊN_NGƯỜI_ĐÁNH_GIÁ_02</h3><p>VAI_TRÒ — THƯƠNG_HIỆU</p>[/ux_text][/col]
+[col span="4" span__sm="12" class="arden-card arden-testimonial-card"][ux_text]<p class="arden-stars">★★★★★</p><blockquote>NỘI_DUNG_ĐÁNH_GIÁ_ĐÃ_XÁC_NHẬN_03</blockquote><h3>TÊN_NGƯỜI_ĐÁNH_GIÁ_03</h3><p>VAI_TRÒ — THƯƠNG_HIỆU</p>[/ux_text][/col]
+[/row]
+[/section]

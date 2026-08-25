@@ -33,6 +33,7 @@
 .arden-eyebrow { display: inline-flex; padding: 6px 14px; border: 1px solid #bfdbfe; border-radius: 999px; background: #fff; color: var(--arden-primary); font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .arden-heading { font-weight: 900; line-height: 1.2; text-transform: uppercase; }
 .arden-section-title { max-width: 768px; margin-inline: auto; text-align: center; }
+.arden-section-title--left { margin-inline: 0; text-align: left; }
 .arden-section-title p { color: var(--arden-text-muted); }
 
 .arden-button, .arden-page .button.arden-button { min-height: 44px; padding: 10px 20px; border: 1px solid var(--arden-primary); border-radius: var(--arden-radius-md); background: var(--arden-primary); color: #fff; font-size: 12px; font-weight: 800; letter-spacing: .06em; line-height: 1.35; text-transform: uppercase; transition: .15s ease; }
@@ -55,13 +56,31 @@
 .arden-content-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
 .arden-hero { padding-block: clamp(3rem, 5vw, 4.5rem); background-color: #f8fafc; background-image: radial-gradient(#cbd5e1 1px, transparent 1px); background-size: 20px 20px; }
 .arden-hero .arden-hero__media img { aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--arden-radius-md); }
+.arden-hero__content > .col-inner { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.arden-hero__content > .col-inner > .ux-text, .arden-hero__content > .col-inner > .row { flex: 0 0 100%; }
+.arden-feature-badges .icon-box { min-height: 100%; padding: 12px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); background: #fff; }
+.arden-mini-metrics { text-align: center; }
+.arden-mini-metrics strong { color: var(--arden-primary); font-size: 18px; }
 .arden-trust-bar { padding-block: 32px; background: #fff; }
 .arden-trust-bar .icon-box { padding: 12px; border-radius: var(--arden-radius-md); }
-.arden-services .box, .arden-products .box, .arden-factory .box, .arden-portfolio .box, .arden-testimonials .testimonial-box, .arden-why-choose .icon-box { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
+.arden-services .col-inner, .arden-products .col-inner, .arden-factory .col-inner, .arden-testimonials .col-inner, .arden-why-choose .icon-box { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
+.arden-services .row:first-child .col-inner, .arden-products .row:first-child .col-inner, .arden-factory .row:first-child .col-inner, .arden-testimonials .row:first-child .col-inner, .arden-why-choose .row:first-child .col-inner { border: 0; background: transparent; overflow: visible; }
+.arden-services .img, .arden-products .img, .arden-factory .img { width: 100%; }
+.arden-services .img-inner, .arden-products .img-inner, .arden-factory .img-inner { aspect-ratio: 16 / 10; }
+.arden-services .img img, .arden-products .img img, .arden-factory .img img { width: 100%; height: 100%; object-fit: cover; }
+.arden-services .ux-text, .arden-products .ux-text, .arden-factory .ux-text { padding: 0 20px; }
+.arden-services .button, .arden-products .button, .arden-factory .button { margin: 0 20px 20px; }
 .arden-metrics { padding-block: 32px; }
 .arden-metrics .col + .col { border-left: 1px solid var(--arden-border); }
+.arden-metrics .ux-text { text-align: center; }
+.arden-metrics strong { color: var(--arden-primary); font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 900; }
 .arden-process .icon-box, .arden-capabilities .icon-box { padding: 16px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); background: var(--arden-background-alt); }
+.arden-process__step, .arden-capability-item { height: 100%; }
 .arden-moq .arden-card--popular { border-color: var(--arden-primary); box-shadow: var(--arden-shadow-md); }
+.arden-moq__tier > .col-inner, .arden-testimonial-card > .col-inner { height: 100%; padding: 24px; }
+.arden-stars { color: #f59e0b; letter-spacing: 3px; }
+.arden-factory__cta { padding: 24px; border-radius: var(--arden-radius-lg); background: var(--arden-text); color: #fff; }
+.arden-factory__cta h3 { color: #fff; }
 .arden-faq .accordion-item { margin-bottom: 12px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
 .arden-faq .accordion-title { border: 0; font-weight: 800; text-transform: uppercase; }
 .arden-cta { position: relative; overflow: hidden; background-color: var(--arden-text); background-image: radial-gradient(rgb(56 189 248 / 25%) 1px, transparent 1px); background-size: 24px 24px; color: #fff; text-align: center; }
@@ -80,6 +99,7 @@
   .arden-content-grid { grid-template-columns: 1fr; }
   .arden-hero { padding-block: 3rem; }
   .arden-button, .arden-page .button.arden-button { width: 100%; }
+  .arden-section-title--left { text-align: left; }
   .arden-metrics .col { border-left: 0 !important; }
 }
 

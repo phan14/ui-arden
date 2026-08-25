@@ -15,7 +15,13 @@ function arden_content_grid_shortcode( $atts, $content = null, $tag = '' ) {
 		$tag
 	);
 
-	$post_type = $is_projects && post_type_exists( 'project' ) ? 'project' : 'post';
+	if ( $is_projects && ! post_type_exists( 'project' ) ) {
+		return current_user_can( 'edit_posts' )
+			? '<p class="arden-empty">' . esc_html__( 'Không thể hiển thị dự án: post type project chưa được đăng ký.', 'arden-flatsome-child' ) . '</p>'
+			: '';
+	}
+
+	$post_type = $is_projects ? 'project' : 'post';
 	$args      = array(
 		'post_type'           => $post_type,
 		'post_status'         => 'publish',

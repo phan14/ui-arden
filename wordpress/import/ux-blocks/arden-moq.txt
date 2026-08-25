@@ -1,0 +1,8 @@
+[section class="arden-section arden-section--alt arden-moq"]
+[row][col span="12"][ux_text class="arden-section-title"]<p class="arden-eyebrow">CHÍNH SÁCH MOQ LINH HOẠT</p><h2>SẢN XUẤT CHỈ TỪ 30 ÁO / MẪU — ĐỒNG HÀNH CÙNG BRAND</h2><p>Giảm rào cản tồn kho cho thương hiệu mới. Mọi MOQ, chiết khấu và tiến độ phải được quản trị viên xác nhận.</p>[/ux_text][/col][/row]
+[row]
+[col span="4" span__sm="12" class="arden-card arden-moq__tier"][ux_text]<p class="arden-eyebrow">THỬ NGHIỆM</p><h3>30–99 SẢN PHẨM</h3><p><strong>Chiết khấu:</strong> CẤU_HÌNH_CHIẾT_KHẤU</p><p><strong>Tiến độ:</strong> CẤU_HÌNH_TIẾN_ĐỘ</p><ul><li>Phù hợp kiểm thử thị trường</li><li>Linh hoạt số lượng màu và size</li></ul>[/ux_text][button text="NHẬN TƯ VẤN" link="/bao-gia/" class="arden-button arden-button--outline"][/col]
+[col span="4" span__sm="12" class="arden-card arden-card--popular arden-moq__tier"][ux_text]<p class="arden-eyebrow">PHỔ BIẾN</p><h3>100–299 SẢN PHẨM</h3><p><strong>Chiết khấu:</strong> CẤU_HÌNH_CHIẾT_KHẤU</p><p><strong>Tiến độ:</strong> CẤU_HÌNH_TIẾN_ĐỘ</p><ul><li>Phù hợp bộ sưu tập chính</li><li>Tối ưu chi phí theo sản lượng</li></ul>[/ux_text][button text="NHẬN BÁO GIÁ" link="/bao-gia/" class="arden-button"][/col]
+[col span="4" span__sm="12" class="arden-card arden-moq__tier"][ux_text]<p class="arden-eyebrow">SẢN LƯỢNG</p><h3>300+ SẢN PHẨM</h3><p><strong>Chiết khấu:</strong> CẤU_HÌNH_CHIẾT_KHẤU</p><p><strong>Tiến độ:</strong> CẤU_HÌNH_TIẾN_ĐỘ</p><ul><li>Lập kế hoạch chuyền riêng</li><li>Điều khoản theo hợp đồng</li></ul>[/ux_text][button text="LIÊN HỆ SẢN XUẤT" link="/lien-he/" class="arden-button arden-button--outline"][/col]
+[/row]
+[/section]
