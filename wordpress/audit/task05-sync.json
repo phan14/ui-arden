@@ -1,0 +1,164 @@
+{
+    "AboutPage": {
+        "component": "AboutPage",
+        "id": 81,
+        "slug": "gioi-thieu",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/about-flatsome.txt",
+        "batch": "A"
+    },
+    "ServicesPage": {
+        "component": "ServicesPage",
+        "id": 82,
+        "slug": "dich-vu",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/services-flatsome.txt",
+        "batch": "A"
+    },
+    "TShirtServicePage": {
+        "component": "TShirtServicePage",
+        "id": 83,
+        "slug": "may-ao-thun",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/tshirt-service-flatsome.txt",
+        "batch": "A"
+    },
+    "ShirtServicePage": {
+        "component": "ShirtServicePage",
+        "id": 84,
+        "slug": "may-ao-so-mi",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/shirt-service-flatsome.txt",
+        "batch": "A"
+    },
+    "JacketServicePage": {
+        "component": "JacketServicePage",
+        "id": 85,
+        "slug": "may-ao-khoac",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/jacket-service-flatsome.txt",
+        "batch": "A"
+    },
+    "PantsServicePage": {
+        "component": "PantsServicePage",
+        "id": 86,
+        "slug": "may-quan",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/pants-service-flatsome.txt",
+        "batch": "A"
+    },
+    "ManufacturingPage": {
+        "component": "ManufacturingPage",
+        "id": 87,
+        "slug": "nang-luc-san-xuat",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/manufacturing-flatsome.txt",
+        "batch": "A"
+    },
+    "FAQPage": {
+        "component": "FAQPage",
+        "id": 95,
+        "slug": "faq",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/faq-flatsome.txt",
+        "batch": "B"
+    },
+    "ContactPage": {
+        "component": "ContactPage",
+        "id": 96,
+        "slug": "lien-he",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/contact-flatsome.txt",
+        "batch": "B"
+    },
+    "QuotePage": {
+        "component": "QuotePage",
+        "id": 97,
+        "slug": "bao-gia",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/quote-flatsome.txt",
+        "batch": "B"
+    },
+    "CareersPage": {
+        "component": "CareersPage",
+        "id": 98,
+        "slug": "tuyen-dung",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/careers-flatsome.txt",
+        "batch": "B"
+    },
+    "PoliciesPage": {
+        "component": "PoliciesPage",
+        "id": 99,
+        "slug": "chinh-sach",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/policies-flatsome.txt",
+        "batch": "B"
+    },
+    "FabricGuidePage": {
+        "component": "FabricGuidePage",
+        "id": 100,
+        "slug": "bang-vai",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/fabric-guide-flatsome.txt",
+        "batch": "B"
+    },
+    "TechpackGuidePage": {
+        "component": "TechpackGuidePage",
+        "id": 101,
+        "slug": "huong-dan-techpack",
+        "type": "page",
+        "status": "draft",
+        "source": "wordpress/import/pages/techpack-guide-flatsome.txt",
+        "batch": "B"
+    },
+    "NewsPage": {
+        "component": "NewsPage",
+        "id": 111,
+        "slug": "tin-tuc",
+        "type": "page",
+        "status": "draft",
+        "source": "page-tin-tuc.php",
+        "batch": "C"
+    },
+    "CaseStudyPage": {
+        "component": "CaseStudyPage",
+        "id": 110,
+        "slug": "task05-du-an-kiem-thu",
+        "type": "project",
+        "status": "draft",
+        "source": "Task 05 validation seed",
+        "batch": "C"
+    },
+    "CategoryPage": {
+        "component": "CategoryPage",
+        "id": 3,
+        "slug": "task-05-validation",
+        "type": "category",
+        "status": "taxonomy",
+        "source": "Task 05 validation seed",
+        "batch": "C"
+    },
+    "NewsSeedPost": {
+        "component": "NewsSeedPost",
+        "id": 109,
+        "slug": "task05-bai-viet-kiem-thu",
+        "type": "post",
+        "status": "draft",
+        "source": "Task 05 validation seed",
+        "batch": "C"
+    }
+}

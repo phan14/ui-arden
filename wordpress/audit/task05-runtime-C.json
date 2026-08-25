@@ -1,0 +1,555 @@
+[
+  {
+    "name": "NewsPage",
+    "url": "http://localhost/mytest/?page_id=111&preview=true&arden_validate_drafts=1",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Tin tức & kiến thức may mặc – UI_arden",
+          "h1": [
+            "TIN TỨC & KIẾN THỨC MAY MẶC"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Tin tức & kiến thức may mặc – UI_arden",
+          "h1": [
+            "TIN TỨC & KIẾN THỨC MAY MẶC"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Tin tức & kiến thức may mặc – UI_arden",
+          "h1": [
+            "TIN TỨC & KIẾN THỨC MAY MẶC"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Tin tức & kiến thức may mặc – UI_arden",
+          "h1": [
+            "TIN TỨC & KIẾN THỨC MAY MẶC"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "SinglePost",
+    "url": "http://localhost/mytest/?p=109&preview=true",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Bài viết kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Bài viết kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Bài viết kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Bài viết kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Bài viết kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Bài viết kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Bài viết kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Bài viết kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "ProjectsPage",
+    "url": "http://localhost/mytest/du-an/?arden_validate_drafts=1",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Dự án – UI_arden",
+          "h1": [
+            "DỰ ÁN & BỘ SƯU TẬP ĐÃ GIA CÔNG"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Dự án – UI_arden",
+          "h1": [
+            "DỰ ÁN & BỘ SƯU TẬP ĐÃ GIA CÔNG"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Dự án – UI_arden",
+          "h1": [
+            "DỰ ÁN & BỘ SƯU TẬP ĐÃ GIA CÔNG"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Dự án – UI_arden",
+          "h1": [
+            "DỰ ÁN & BỘ SƯU TẬP ĐÃ GIA CÔNG"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "CaseStudyPage",
+    "url": "http://localhost/mytest/?post_type=project&p=110&preview=true",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Dự án kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Dự án kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Dự án kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Dự án kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Dự án kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Dự án kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 — Dự án kiểm thử giao diện – UI_arden",
+          "h1": [
+            "Task 05 — Dự án kiểm thử giao diện"
+          ],
+          "sections": 1,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "CategoryPage",
+    "url": "http://localhost/mytest/chuyen-muc/task-05-validation/?arden_validate_drafts=1",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 Validation – UI_arden",
+          "h1": [
+            "DANH MỤC: Task 05 Validation"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 Validation – UI_arden",
+          "h1": [
+            "DANH MỤC: Task 05 Validation"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 Validation – UI_arden",
+          "h1": [
+            "DANH MỤC: Task 05 Validation"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Task 05 Validation – UI_arden",
+          "h1": [
+            "DANH MỤC: Task 05 Validation"
+          ],
+          "sections": 2,
+          "cards": 1,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "SearchPage",
+    "url": "http://localhost/mytest/?s=Task+05&arden_validate_drafts=1",
+    "expected": 200,
+    "viewports": {
+      "390": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Kết quả tìm kiếm cho “Task 05” – UI_arden",
+          "h1": [
+            "KẾT QUẢ TÌM KIẾM: Task 05"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 1,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Kết quả tìm kiếm cho “Task 05” – UI_arden",
+          "h1": [
+            "KẾT QUẢ TÌM KIẾM: Task 05"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 1,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Kết quả tìm kiếm cho “Task 05” – UI_arden",
+          "h1": [
+            "KẾT QUẢ TÌM KIẾM: Task 05"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 1,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 200,
+        "pass": true,
+        "data": {
+          "title": "Kết quả tìm kiếm cho “Task 05” – UI_arden",
+          "h1": [
+            "KẾT QUẢ TÌM KIẾM: Task 05"
+          ],
+          "sections": 2,
+          "cards": 2,
+          "images": 0,
+          "forms": 1,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  },
+  {
+    "name": "NotFoundPage",
+    "url": "http://localhost/mytest/task05-route-khong-ton-tai/",
+    "expected": 404,
+    "viewports": {
+      "390": {
+        "status": 404,
+        "pass": true,
+        "data": {
+          "title": "Không tìm thấy trang này – UI_arden",
+          "h1": [
+            "TRANG BẠN TÌM KIẾM KHÔNG TỒN TẠI HOẶC ĐÃ ĐỔI ĐỊA CHỈ"
+          ],
+          "sections": 1,
+          "cards": 0,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "768": {
+        "status": 404,
+        "pass": true,
+        "data": {
+          "title": "Không tìm thấy trang này – UI_arden",
+          "h1": [
+            "TRANG BẠN TÌM KIẾM KHÔNG TỒN TẠI HOẶC ĐÃ ĐỔI ĐỊA CHỈ"
+          ],
+          "sections": 1,
+          "cards": 0,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1024": {
+        "status": 404,
+        "pass": true,
+        "data": {
+          "title": "Không tìm thấy trang này – UI_arden",
+          "h1": [
+            "TRANG BẠN TÌM KIẾM KHÔNG TỒN TẠI HOẶC ĐÃ ĐỔI ĐỊA CHỈ"
+          ],
+          "sections": 1,
+          "cards": 0,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      },
+      "1440": {
+        "status": 404,
+        "pass": true,
+        "data": {
+          "title": "Không tìm thấy trang này – UI_arden",
+          "h1": [
+            "TRANG BẠN TÌM KIẾM KHÔNG TỒN TẠI HOẶC ĐÃ ĐỔI ĐỊA CHỈ"
+          ],
+          "sections": 1,
+          "cards": 0,
+          "images": 0,
+          "forms": 0,
+          "raw": false,
+          "php": false,
+          "overflow": false
+        },
+        "errors": []
+      }
+    }
+  }
+]

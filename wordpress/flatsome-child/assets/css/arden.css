@@ -179,6 +179,24 @@
 .arden-cta h2 { color: #fff; }
 .arden-breadcrumbs { display: flex; gap: 8px; align-items: center; padding-block: 12px; color: var(--arden-text-muted); font-size: 12px; }
 .arden-empty { padding: 16px; border: 1px dashed var(--arden-border); border-radius: var(--arden-radius-md); text-align: center; }
+.arden-404-code { color: var(--arden-primary); font-size: clamp(3.75rem, 8vw, 6rem); font-weight: 900; letter-spacing: -.025em; }
+.arden-404-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--arden-border); }
+.arden-404-links a { padding: 8px; color: #475569; font-size: 12px; font-weight: 500; }
+
+/* Task 05: restore React section spacing over Flatsome's generated 30px inline default. */
+.arden-react-page__section.py-8 { padding-top: 2rem !important; padding-bottom: 2rem !important; }
+.arden-react-page__section.py-10 { padding-top: 2.5rem !important; padding-bottom: 2.5rem !important; }
+.arden-react-page__section.py-12 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
+.arden-react-page__section.py-14 { padding-top: 3.5rem !important; padding-bottom: 3.5rem !important; }
+@media (min-width: 640px) {
+  .arden-react-page__section.sm\:py-10 { padding-top: 2.5rem !important; padding-bottom: 2.5rem !important; }
+  .arden-react-page__section.sm\:py-14 { padding-top: 3.5rem !important; padding-bottom: 3.5rem !important; }
+  .arden-react-page__section.sm\:py-16 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
+  .arden-react-page__section.sm\:py-18 { padding-top: 4.5rem !important; padding-bottom: 4.5rem !important; }
+}
+@media (min-width: 768px) {
+  .arden-react-page__section.md\:py-20 { padding-top: 5rem !important; padding-bottom: 5rem !important; }
+}
 
 /* Forms: native HTML, Flatsome forms, Contact Form 7 and WPForms inherit this layer. */
 .arden-form, .arden-page form { --arden-field-height: 46px; }

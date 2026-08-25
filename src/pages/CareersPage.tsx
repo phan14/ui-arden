@@ -2,6 +2,7 @@ import React from 'react';
 import { PageBannerHeader } from '../components/sections/PageBannerHeader';
 import { CareersSection } from '../components/sections/CareersSection';
 import { CTASection } from '../components/ui/CTASection';
+import { careersData } from '../data/siteData';
 
 export const CareersPage: React.FC = () => {
   return (
@@ -15,7 +16,7 @@ export const CareersPage: React.FC = () => {
       />
 
       {/* 2. Job Openings & Benefits Section */}
-      <CareersSection />
+      <CareersSection jobs={careersData} />
 
       {/* 3. Bottom CTA */}
       <CTASection
