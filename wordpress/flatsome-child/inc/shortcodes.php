@@ -54,10 +54,22 @@ function arden_content_grid_shortcode( $atts, $content = null, $tag = '' ) {
 					<?php endif; ?>
 				</a>
 				<div class="arden-card__body">
-					<p class="arden-card__meta"><?php echo esc_html( get_the_date() ); ?></p>
-					<h3 class="arden-card__title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-					<p class="arden-card__excerpt"><?php echo esc_html( wp_trim_words( get_the_excerpt(), 22 ) ); ?></p>
-					<a class="arden-button arden-button--outline" href="<?php the_permalink(); ?>"><?php esc_html_e( 'Xem chi tiết', 'arden-flatsome-child' ); ?></a>
+					<p class="arden-card__meta">
+						<?php
+						if ( $is_projects ) {
+							echo esc_html__( 'Dự án', 'arden-flatsome-child' );
+						} else {
+							$categories = get_the_category();
+							if ( $categories ) {
+								echo esc_html( $categories[0]->name ) . '<span aria-hidden="true"> · </span>';
+							}
+							echo '<time datetime="' . esc_attr( get_the_date( DATE_W3C ) ) . '">' . esc_html( get_the_date() ) . '</time>';
+						}
+						?>
+					</p>
+					<h3 class="arden-card__title"><a href="<?php echo esc_url( get_permalink() ); ?>"><?php echo esc_html( get_the_title() ); ?></a></h3>
+					<p class="arden-card__excerpt"><?php echo esc_html( wp_trim_words( wp_strip_all_tags( get_the_excerpt() ), 22 ) ); ?></p>
+					<a class="arden-button arden-button--outline" href="<?php echo esc_url( get_permalink() ); ?>"><?php esc_html_e( 'Xem chi tiết', 'arden-flatsome-child' ); ?></a>
 				</div>
 			</article>
 		<?php endwhile; ?>

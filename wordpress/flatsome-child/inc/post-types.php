@@ -28,7 +28,6 @@ function arden_register_project_post_type() {
 			'rewrite'      => array( 'slug' => 'du-an', 'with_front' => false ),
 			'menu_icon'    => 'dashicons-portfolio',
 			'supports'     => array( 'title', 'editor', 'excerpt', 'thumbnail', 'revisions' ),
-			'taxonomies'   => array( 'post_tag' ),
 		),
 	);
 }
