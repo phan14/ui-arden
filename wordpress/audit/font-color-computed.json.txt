@@ -1,0 +1,328 @@
+﻿AUDIT http://localhost:3000/
+{
+  "styles": [
+    {
+      "selector": "body",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "400",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.16px",
+      "color": "oklch(0.208 0.042 265.755)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "borderColor": "oklch(0.208 0.042 265.755)"
+    },
+    {
+      "selector": "main section:nth-of-type(1) h1",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "48px",
+      "lineHeight": "55.2px",
+      "letterSpacing": "-1.2px",
+      "color": "oklch(0.129 0.042 264.695)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.129 0.042 264.695)"
+    },
+    {
+      "selector": "main section:nth-of-type(1) h1 + p",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "400",
+      "fontSize": "16px",
+      "lineHeight": "26px",
+      "letterSpacing": "-0.16px",
+      "color": "oklch(0.446 0.043 257.281)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.446 0.043 257.281)"
+    },
+    {
+      "selector": "main section:nth-of-type(2) h3",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "14px",
+      "lineHeight": "19.25px",
+      "letterSpacing": "-0.35px",
+      "color": "oklch(0.208 0.042 265.755)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.208 0.042 265.755)"
+    },
+    {
+      "selector": "main section:nth-of-type(2) p",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "400",
+      "fontSize": "12px",
+      "lineHeight": "19.5px",
+      "letterSpacing": "-0.16px",
+      "color": "oklch(0.446 0.043 257.281)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.446 0.043 257.281)"
+    },
+    {
+      "selector": "main section:nth-of-type(3) h2",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "36px",
+      "lineHeight": "43.2px",
+      "letterSpacing": "-0.9px",
+      "color": "oklch(0.129 0.042 264.695)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.129 0.042 264.695)"
+    },
+    {
+      "selector": "main section:nth-of-type(3) h3",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "18px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.45px",
+      "color": "oklch(0.208 0.042 265.755)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.208 0.042 265.755)"
+    },
+    {
+      "selector": "main section:nth-of-type(3) article p",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "400",
+      "fontSize": "14px",
+      "lineHeight": "22.75px",
+      "letterSpacing": "-0.16px",
+      "color": "oklch(0.446 0.043 257.281)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.446 0.043 257.281)"
+    },
+    {
+      "selector": "main section:nth-of-type(1) a[href*=\"bao-gia\"]",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "900",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "1.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.379 0.146 265.522)",
+      "borderColor": "oklch(0.379 0.146 265.522)"
+    },
+    {
+      "selector": "main section:nth-of-type(3) article a",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "700",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.6px",
+      "color": "oklch(0.279 0.041 260.031)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "oklch(0.869 0.022 252.894)"
+    },
+    {
+      "selector": "header nav a",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontWeight": "700",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.6px",
+      "color": "oklch(0.379 0.146 265.522)",
+      "backgroundColor": "oklch(0.97 0.014 254.604)",
+      "borderColor": "oklch(0.379 0.146 265.522)"
+    }
+  ],
+  "fontChecks": [
+    [
+      "400 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "500 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "600 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "700 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "800 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "600 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "700 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "800 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "900 16px \"Be Vietnam Pro\"",
+      true
+    ]
+  ]
+}
+AUDIT http://localhost/mytest/
+{
+  "styles": [
+    {
+      "selector": "body",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "400",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.16px",
+      "color": "rgb(15, 23, 42)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "borderColor": "rgb(15, 23, 42)"
+    },
+    {
+      "selector": ".arden-hero h1",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "48px",
+      "lineHeight": "55.2px",
+      "letterSpacing": "-1.2px",
+      "color": "rgb(2, 6, 23)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(2, 6, 23)"
+    },
+    {
+      "selector": ".arden-hero__content > .col-inner > .text:not(.arden-eyebrow) p",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "400",
+      "fontSize": "16px",
+      "lineHeight": "26px",
+      "letterSpacing": "-0.16px",
+      "color": "rgb(71, 85, 105)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(71, 85, 105)"
+    },
+    {
+      "selector": ".arden-trust-bar h3",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "14px",
+      "lineHeight": "19.25px",
+      "letterSpacing": "-0.35px",
+      "color": "rgb(30, 41, 59)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(30, 41, 59)"
+    },
+    {
+      "selector": ".arden-trust-bar p",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "400",
+      "fontSize": "12px",
+      "lineHeight": "19.5px",
+      "letterSpacing": "-0.16px",
+      "color": "rgb(71, 85, 105)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(71, 85, 105)"
+    },
+    {
+      "selector": ".arden-services h2",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "36px",
+      "lineHeight": "43.2px",
+      "letterSpacing": "-0.9px",
+      "color": "rgb(2, 6, 23)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(2, 6, 23)"
+    },
+    {
+      "selector": ".arden-services h3",
+      "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "18px",
+      "lineHeight": "28.0008px",
+      "letterSpacing": "-0.45px",
+      "color": "rgb(30, 41, 59)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(30, 41, 59)"
+    },
+    {
+      "selector": ".arden-services .arden-card__body p",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14px",
+      "lineHeight": "22.75px",
+      "letterSpacing": "-0.16px",
+      "color": "rgb(71, 85, 105)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(71, 85, 105)"
+    },
+    {
+      "selector": ".arden-hero .button",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "900",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "1.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(30, 58, 138)",
+      "borderColor": "rgb(30, 58, 138)"
+    },
+    {
+      "selector": ".arden-services > .section-content > .row:last-child .button",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.6px",
+      "color": "rgb(30, 41, 59)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(203, 213, 225)"
+    },
+    {
+      "selector": "header .nav > li > a",
+      "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.6px",
+      "color": "rgb(15, 23, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(15, 23, 42)"
+    }
+  ],
+  "fontChecks": [
+    [
+      "400 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "500 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "600 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "700 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "800 16px \"Plus Jakarta Sans\"",
+      true
+    ],
+    [
+      "600 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "700 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "800 16px \"Be Vietnam Pro\"",
+      true
+    ],
+    [
+      "900 16px \"Be Vietnam Pro\"",
+      true
+    ]
+  ]
+}

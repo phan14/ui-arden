@@ -1,15 +1,20 @@
 :root {
-  --arden-primary: #0f2744;
-  --arden-primary-hover: #1e3a8a;
+  --arden-navy: #0f172a;
+  --arden-blue: #2563eb;
+  --arden-dark: #0f172a;
+  --arden-gold: #f59e0b;
+  --arden-gold-hover: #d97706;
+  --arden-primary: #1e3a8a;
+  --arden-primary-hover: #1e40af;
   --arden-secondary: #334155;
-  --arden-accent: #d97706;
-  --arden-accent-hover: #b45309;
+  --arden-accent: var(--arden-gold);
+  --arden-accent-hover: var(--arden-gold-hover);
   --arden-success: #059669;
   --arden-background: #ffffff;
   --arden-background-alt: #f8fafc;
   --arden-surface: #ffffff;
   --arden-text: #0f172a;
-  --arden-text-body: #334155;
+  --arden-text-body: #0f172a;
   --arden-text-muted: #64748b;
   --arden-border: #e2e8f0;
   --arden-font-heading: "Be Vietnam Pro", "Plus Jakarta Sans", sans-serif;
@@ -32,11 +37,27 @@
   --arden-focus: 0 0 0 3px rgb(37 99 235 / 30%);
 }
 
-.arden-page { overflow-x: clip; color: var(--arden-text-body); font-family: var(--arden-font-body); letter-spacing: -.01em; }
-.arden-page h1, .arden-page h2, .arden-page h3, .arden-page h4 { color: var(--arden-text); font-family: var(--arden-font-heading); letter-spacing: -.02em; }
+.arden-site { background: #fff; color: var(--arden-text); font-family: var(--arden-font-body) !important; line-height: 1.5; letter-spacing: -.01em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.arden-site :where(p, li, input, textarea, select, button, label, summary, .ux-text, .nav > li > a) { font-family: var(--arden-font-body) !important; }
+.arden-site :where(h1, h2, h3, h4, h5, h6) { font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
+.arden-page { overflow-x: clip; color: var(--arden-text-body); font-family: var(--arden-font-body) !important; letter-spacing: -.01em; }
+.arden-page h1, .arden-page h2, .arden-page h3, .arden-page h4 { color: var(--arden-text); font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
 .arden-page h1 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.15; }
 .arden-page h2 { font-size: clamp(1.65rem, 3vw, 2.25rem); line-height: 1.2; }
 .arden-page h3 { font-size: clamp(.95rem, 1.5vw, 1.15rem); line-height: 1.35; }
+.arden-site .arden-hero h1 { color: #020617; font-size: clamp(1.875rem, 4vw, 3rem); font-weight: 900; line-height: 1.15; letter-spacing: -.025em; }
+.arden-site .arden-section-title h2 { color: #020617; font-weight: 900; letter-spacing: -.025em; }
+.arden-site .arden-trust-bar h3 { color: #1e293b; font-size: 14px; font-weight: 900; line-height: 1.375; letter-spacing: -.025em; }
+.arden-site .arden-trust-bar p { color: #475569; font-size: 12px; line-height: 1.625; }
+.arden-site .arden-services h3 { color: #1e293b; font-size: 18px; font-weight: 900; line-height: 1.5556; letter-spacing: -.025em; }
+.arden-site .arden-services .arden-card__body p { font-size: 14px; line-height: 1.625; }
+.arden-site .arden-services .arden-card__body li { color: #334155; font-size: 12px; line-height: 1.5; }
+.arden-site .arden-products h3, .arden-site .arden-factory h3, .arden-site .arden-capabilities h3, .arden-site .arden-process h3, .arden-site .arden-portfolio h3 { color: #0f172a; font-size: 14px; font-weight: 700; line-height: 1.375; }
+.arden-site .arden-why-choose h3, .arden-site .arden-blog h3 { color: #0f172a; font-size: 16px; font-weight: 700; line-height: 1.375; }
+.arden-site .arden-testimonial-author h3 { color: #0f172a; font-size: 12px; font-weight: 700; line-height: 1.375; }
+.arden-site .arden-section-title > p:not(.arden-eyebrow), .arden-site .arden-hero__content > .col-inner > :where(.ux-text, .text) p { color: #475569; }
+.arden-site .arden-hero__content > .col-inner > :where(.ux-text, .text):not(.arden-eyebrow) p { font-size: 16px; font-weight: 400; line-height: 1.625; letter-spacing: -.01em; }
+.arden-site .arden-card p, .arden-site .arden-card li, .arden-site .arden-services p, .arden-site .arden-products p, .arden-site .arden-factory p, .arden-site .arden-capabilities p, .arden-site .arden-process p, .arden-site .arden-why-choose p, .arden-site .arden-blog p { color: #475569; }
 .arden-page img { max-width: 100%; height: auto; }
 .arden-section { padding-block: var(--arden-section-space); border-bottom: 1px solid var(--arden-border); }
 .arden-section--alt { background: var(--arden-background-alt); }
@@ -46,13 +67,16 @@
 .arden-eyebrow { display: inline-flex; padding: 6px 14px; border: 1px solid #bfdbfe; border-radius: 999px; background: #fff; color: var(--arden-primary); font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .arden-heading { font-weight: 900; line-height: 1.2; text-transform: uppercase; }
 .arden-section-title { max-width: 768px; margin-inline: auto; text-align: center; }
+.arden-section-title h2 { margin-bottom: 14px; font-weight: 900; text-transform: uppercase; }
 .arden-section-title--left { margin-inline: 0; text-align: left; }
 .arden-section-title p { color: var(--arden-text-muted); }
 
-.arden-button, .arden-page .button.arden-button { min-height: 44px; padding: 10px 20px; border: 1px solid var(--arden-primary); border-radius: var(--arden-radius-md); background: var(--arden-primary); color: #fff; font-size: 12px; font-weight: 800; letter-spacing: .06em; line-height: 1.35; text-transform: uppercase; transition: .15s ease; }
+.arden-button, .arden-page .button.arden-button { min-height: 44px; padding: 10px 20px; border: 1px solid #1e3a8a; border-radius: var(--arden-radius-md); background: #1e3a8a; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: .05em; line-height: 16px; text-transform: uppercase; transition: .15s ease; }
+.arden-page .arden-hero .button.arden-button { min-height: 48px; padding: 14px 24px; font-size: 14px; font-weight: 900; line-height: 20px; letter-spacing: .1em; }
 .arden-button:hover, .arden-page .button.arden-button:hover { background: var(--arden-primary-hover); border-color: var(--arden-primary-hover); color: #fff; transform: translateY(-1px); }
-.arden-button--accent, .arden-page .button.arden-button--accent { background: #f59e0b; border-color: #f59e0b; color: var(--arden-text); }
-.arden-button--outline { background: transparent; color: var(--arden-text); border-color: #cbd5e1; }
+.arden-button--accent, .arden-page .button.arden-button--accent { background: var(--arden-gold); border-color: var(--arden-gold); color: #020617; font-weight: 900; }
+.arden-button--accent:hover, .arden-page .button.arden-button--accent:hover { background: var(--arden-gold-hover); border-color: var(--arden-gold-hover); color: #020617; }
+.arden-button--outline, .arden-page .button.arden-button--outline { background: transparent; color: #1e293b; border-color: #cbd5e1; }
 .arden-button--light { background: #fff; color: var(--arden-text); border-color: #fff; }
 
 .arden-page :where(a, button, input, select, textarea, summary):focus-visible,
@@ -62,6 +86,9 @@
 
 .arden-card { overflow: hidden; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: var(--arden-surface); box-shadow: var(--arden-shadow-sm); transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease; }
 .arden-card:hover { border-color: var(--arden-primary); box-shadow: var(--arden-shadow-md); }
+.col.arden-card { overflow: visible; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
+.col.arden-card > .col-inner { height: 100%; overflow: hidden; padding: 24px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: var(--arden-surface); box-shadow: var(--arden-shadow-sm); transition: border-color .2s ease, box-shadow .2s ease; }
+.col.arden-card:hover > .col-inner { border-color: var(--arden-primary); box-shadow: var(--arden-shadow-md); }
 .arden-card__media { display: block; aspect-ratio: 16 / 10; overflow: hidden; background: #f1f5f9; }
 .arden-card__media img { width: 100%; height: 100%; object-fit: cover; transition: transform .3s ease; }
 .arden-card:hover .arden-card__media img { transform: scale(1.05); }
@@ -74,33 +101,78 @@
 
 .arden-content-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
 .arden-blog-grid, .arden-portfolio-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--arden-space-lg); }
-.arden-hero { padding-block: clamp(3rem, 5vw, 4.5rem); background-color: #f8fafc; background-image: radial-gradient(#cbd5e1 1px, transparent 1px); background-size: 20px 20px; }
+.arden-hero { padding-block: clamp(3rem, 5vw, 4.5rem); background: radial-gradient(rgb(203 213 225 / 30%) 1px, transparent 1px), linear-gradient(to bottom, #f8fafc, #f5f9ff 50%, #f1f5f9); background-size: 20px 20px, auto; }
 .arden-hero .arden-hero__media img { aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--arden-radius-md); }
 .arden-hero__content > .col-inner { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .arden-hero__content > .col-inner > .ux-text, .arden-hero__content > .col-inner > .row { flex: 0 0 100%; }
 .arden-feature-badges .icon-box { min-height: 100%; padding: 12px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); background: #fff; }
 .arden-mini-metrics { text-align: center; }
 .arden-mini-metrics strong { color: var(--arden-primary); font-size: 18px; }
+.arden-hero__media > .col-inner { position: relative; padding: 20px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; box-shadow: var(--arden-shadow-md); }
+.arden-hero__caption { position: absolute; right: 32px; bottom: 108px; left: 32px; padding: 10px; border-radius: 8px; background: rgb(15 23 42 / 88%); color: #fff; font-size: 11px; font-weight: 800; text-transform: uppercase; }
+.arden-hero__caption p { margin: 0; }
 .arden-trust-bar { padding-block: 32px; background: #fff; }
-.arden-trust-bar .icon-box { padding: 12px; border-radius: var(--arden-radius-md); }
-.arden-services .col-inner, .arden-products .col-inner, .arden-factory .col-inner, .arden-testimonials .col-inner, .arden-why-choose .icon-box { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
-.arden-services .row:first-child .col-inner, .arden-products .row:first-child .col-inner, .arden-factory .row:first-child .col-inner, .arden-testimonials .row:first-child .col-inner, .arden-why-choose .row:first-child .col-inner { border: 0; background: transparent; overflow: visible; }
-.arden-services .img, .arden-products .img, .arden-factory .img { width: 100%; }
-.arden-services .img-inner, .arden-products .img-inner, .arden-factory .img-inner { aspect-ratio: 16 / 10; }
-.arden-services .img img, .arden-products .img img, .arden-factory .img img { width: 100%; height: 100%; object-fit: cover; }
-.arden-services .ux-text, .arden-products .ux-text, .arden-factory .ux-text { padding: 0 20px; }
-.arden-services .button, .arden-products .button, .arden-factory .button { margin: 0 20px 20px; }
+.arden-trust-bar .icon-box { position: relative; padding: 12px 12px 12px 64px; border-radius: var(--arden-radius-md); }
+.arden-icon { position: absolute; top: 12px; left: 10px; display: grid; width: 44px; height: 44px; place-items: center; border: 1px solid #dbeafe; border-radius: 12px; background: #eff6ff; color: var(--arden-primary); }
+.arden-icon svg { width: 20px; height: 20px; }
+.arden-step-number { float: left; display: grid; width: 36px; height: 36px; margin: 0 12px 10px 0; place-items: center; border-radius: 8px; background: var(--arden-primary); color: #fff; font-size: 11px; font-weight: 800; }
+.arden-process__step h3, .arden-capability-item h3, .arden-services h3, .arden-products h3, .arden-why-choose h3, .arden-factory h3, .arden-testimonial-author h3 { text-transform: uppercase; }
+.arden-trust-item h3 small { display: inline-block; padding: 2px 6px; border: 1px solid #bfdbfe; border-radius: 4px; background: #eff6ff; color: var(--arden-primary); font-size: 9px; }
+.arden-services .col-inner, .arden-products .col-inner, .arden-factory__grid > .col > .col-inner, .arden-testimonials .col-inner, .arden-why-choose .icon-box { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
+.arden-services .row:first-child .col-inner, .arden-products .row:first-child .col-inner, .arden-testimonials .row:first-child .col-inner, .arden-why-choose .row:first-child .col-inner { border: 0; background: transparent; overflow: visible; }
+.arden-services .img, .arden-products .img, .arden-factory__grid .img { width: 100%; }
+.arden-services .img-inner, .arden-products .img-inner, .arden-factory__grid .img-inner { aspect-ratio: 16 / 10; }
+.arden-services .img img, .arden-products .img img, .arden-factory__grid .img img { width: 100%; height: 100%; object-fit: cover; }
+.arden-services .ux-text, .arden-products .ux-text, .arden-factory__grid .ux-text { padding: 0 20px; }
+.arden-services .button, .arden-products .button, .arden-factory__grid .button { margin: 0 20px 20px; }
+.arden-services > .section-content > .row + .row, .arden-products > .section-content > .row + .row { row-gap: 24px; }
+.arden-services .col > .col-inner, .arden-products .col > .col-inner { display: flex; height: 100%; flex-direction: column; }
+.arden-services .col > .col-inner > .ux-text, .arden-products .col > .col-inner > .ux-text { flex: 1; }
+.arden-product-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 24px; padding-bottom: 16px; border-bottom: 1px solid var(--arden-border); }
+.arden-product-tabs span { padding: 9px 14px; border: 1px solid var(--arden-border); border-radius: 999px; background: #fff; color: var(--arden-text-body); font-size: 11px; font-weight: 800; text-transform: uppercase; }
+.arden-product-tabs span:first-child { border-color: var(--arden-primary); background: var(--arden-primary); color: #fff; }
 .arden-metrics { padding-block: 32px; }
 .arden-metrics .col + .col { border-left: 1px solid var(--arden-border); }
 .arden-metrics .ux-text { text-align: center; }
 .arden-metrics strong { color: var(--arden-primary); font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 900; }
 .arden-process .icon-box, .arden-capabilities .icon-box { padding: 16px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); background: var(--arden-background-alt); }
 .arden-process__step, .arden-capability-item { height: 100%; }
+.arden-capabilities .icon-box { display: flex; min-height: 92px; align-items: flex-start; }
+.arden-capability-item h3 { margin-bottom: 5px; font-size: 13px; }
 .arden-moq .arden-card--popular { border-color: var(--arden-primary); box-shadow: var(--arden-shadow-md); }
-.arden-moq__tier > .col-inner, .arden-testimonial-card > .col-inner { height: 100%; padding: 24px; }
+.arden-moq__tier > .col-inner, .arden-testimonial-card > .col-inner { height: 100%; }
 .arden-stars { color: #f59e0b; letter-spacing: 3px; }
+.arden-testimonial-card blockquote { min-height: 112px; margin: 0; border: 0; color: var(--arden-text-body); font-size: 13px; font-style: italic; }
+.arden-testimonial-author { display: flex; gap: 12px; align-items: center; padding-top: 16px; border-top: 1px solid var(--arden-border); }
+.arden-testimonial-author img { width: 40px; height: 40px; border: 1px solid var(--arden-border); border-radius: 999px; object-fit: cover; }
+.arden-testimonial-author h3, .arden-testimonial-author p { margin: 0; }
+.arden-testimonial-author small { color: var(--arden-text-muted); font-size: 10px; }
 .arden-factory__cta { padding: 24px; border-radius: var(--arden-radius-lg); background: var(--arden-text); color: #fff; }
 .arden-factory__cta h3 { color: #fff; }
+.arden-pricing > .section-content > .row:last-child { margin-top: 28px; }
+.arden-calculator { display: grid; grid-template-columns: minmax(0, 7fr) minmax(340px, 5fr); gap: 32px; align-items: stretch; }
+.arden-calculator__controls, .arden-calculator__result { padding: 30px; border-radius: var(--arden-radius-lg); }
+.arden-calculator__controls { border: 1px solid var(--arden-border); background: #fff; box-shadow: var(--arden-shadow-sm); }
+.arden-calculator__label { margin: 0 0 10px; color: var(--arden-text); font-size: 12px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
+.arden-calculator__types { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 28px; }
+.arden-calculator button { min-height: 44px; padding: 9px 12px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); background: var(--arden-background-alt); color: var(--arden-text-body); font-size: 11px; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; cursor: pointer; }
+.arden-calculator button.is-active { border-color: var(--arden-primary); background: var(--arden-primary); color: #fff; }
+.arden-calculator__quantity-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.arden-calculator__quantity-head output { padding: 6px 10px; border: 1px solid #bfdbfe; border-radius: 8px; background: #eff6ff; color: var(--arden-primary); font-size: 12px; font-weight: 800; }
+.arden-calculator input[type="range"] { width: 100%; margin: 12px 0 5px; accent-color: var(--arden-primary); }
+.arden-calculator__scale { display: flex; justify-content: space-between; margin-bottom: 28px; color: var(--arden-text-muted); font-size: 10px; }
+.arden-calculator__print { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.arden-calculator__result { display: flex; flex-direction: column; justify-content: center; background: linear-gradient(145deg, #0f172a, #020617); color: #e2e8f0; box-shadow: var(--arden-shadow-lg); }
+.arden-calculator__result-label { color: #60a5fa; font-size: 11px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.arden-calculator__muted, .arden-calculator__note { color: #94a3b8; font-size: 11px; }
+.arden-calculator__price { margin: 4px 0 8px; color: #fbbf24; font-size: clamp(1.8rem, 3vw, 2.5rem); font-weight: 900; }
+.arden-calculator__price small { color: #fff; font-size: 12px; font-weight: 500; }
+.arden-calculator__total { padding-bottom: 20px; border-bottom: 1px solid #334155; font-size: 12px; }
+.arden-calculator__result ul { margin: 10px 0 22px; list-style: none; }
+.arden-calculator__result li { position: relative; margin-bottom: 9px; padding-left: 22px; font-size: 12px; }
+.arden-calculator__result li::before { position: absolute; left: 0; color: #34d399; content: "✓"; font-weight: 900; }
+.arden-calculator__result .arden-button { align-self: stretch; margin: 0; text-align: center; }
+.arden-calculator__note { margin: 12px 0 0; text-align: center; }
 .arden-faq .accordion-item { margin-bottom: 12px; border: 1px solid var(--arden-border); border-radius: var(--arden-radius-lg); background: #fff; overflow: hidden; }
 .arden-faq .accordion-title { border: 0; font-weight: 800; text-transform: uppercase; }
 .arden-cta { position: relative; overflow: hidden; background-color: var(--arden-text); background-image: radial-gradient(rgb(56 189 248 / 25%) 1px, transparent 1px); background-size: 24px 24px; color: #fff; text-align: center; }
@@ -119,15 +191,17 @@
 .arden-form .required, .arden-page form .required { color: #be123c; }
 
 /* Header Builder support, scoped by the automatic arden-site body class. */
-.arden-site .header-main { border-bottom: 1px solid rgb(226 232 240 / 85%); background: rgb(255 255 255 / 96%); }
-.arden-site .header-logo img { width: auto; max-height: 58px; object-fit: contain; }
-.arden-site .header-wrapper .nav > li > a { color: var(--arden-text); font-size: 13px; font-weight: 700; letter-spacing: .02em; }
+.arden-site .header-main { height: 68px; border-bottom: 1px solid rgb(226 232 240 / 85%); background: rgb(255 255 255 / 96%); }
+.arden-site .header-logo img { width: auto; max-width: 132px; max-height: 42px; object-fit: contain; }
+.arden-site .header-wrapper .nav > li > a { color: var(--arden-text); font-family: var(--arden-font-body) !important; font-size: 12px; font-weight: 700; letter-spacing: .05em; }
+.arden-site .header-wrapper .nav > li { margin: 0 11px; }
+.arden-site .header-button .button, .arden-site .arden-header-cta { min-height: 42px; padding-inline: 18px; border-radius: 12px; background: var(--arden-primary); color: #fff; font-size: 11px; font-weight: 800; }
 .arden-site .header-wrapper .nav > li.active > a, .arden-site .header-wrapper .nav > li > a:hover { color: var(--arden-primary-hover); }
 .arden-site .header-wrapper .nav-dropdown { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); box-shadow: var(--arden-shadow-lg); }
 .arden-site .header-wrapper .nav-dropdown a { padding-block: 10px; font-size: 13px; }
 .arden-site .header-button .button { border-radius: var(--arden-radius-md); }
 .arden-site .header-wrapper.stuck, .arden-site .header-wrapper .stuck { box-shadow: 0 8px 24px rgb(15 23 42 / 8%); }
-.arden-site .header-top { background: var(--arden-text); color: #cbd5e1; font-size: 12px; }
+.arden-site .header-top { min-height: 28px; background: var(--arden-text); color: #cbd5e1; font-size: 11px; }
 .arden-site .mobile-sidebar .nav > li > a { min-height: 44px; }
 
 /* Footer / reusable footer UX Block support. */
@@ -162,6 +236,7 @@
   .arden-content-grid, .arden-blog-grid, .arden-portfolio-grid, .arden-archive-grid, .arden-search-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .arden-metrics .col:nth-child(odd) { border-left: 0; }
   .arden-site .header-wrapper .nav > li > a { font-size: 12px; }
+  .arden-calculator { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 767px) {
@@ -172,8 +247,14 @@
   .arden-button, .arden-page .button.arden-button { width: 100%; }
   .arden-section-title--left { text-align: left; }
   .arden-metrics .col { border-left: 0 !important; }
+  .arden-calculator__controls, .arden-calculator__result { padding: 22px; }
+  .arden-calculator__types { grid-template-columns: repeat(2, 1fr); }
+  .arden-calculator__scale span:nth-child(2), .arden-calculator__scale span:nth-child(3) { display: none; }
+  .arden-calculator__print { grid-template-columns: 1fr; }
   .arden-form :where(button, input[type="submit"]), .arden-page form :where(button, input[type="submit"]) { width: 100%; }
   .arden-footer { padding-bottom: calc(64px + env(safe-area-inset-bottom)); }
+  .arden-site .header-main { height: 60px; }
+  .arden-site .header-logo img { max-width: 124px; max-height: 38px; }
   .arden-mobile-cta { position: fixed; z-index: 9999; right: 0; bottom: 0; left: 0; display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 1px; padding: 8px max(8px, env(safe-area-inset-right)) calc(8px + env(safe-area-inset-bottom)) max(8px, env(safe-area-inset-left)); border-top: 1px solid var(--arden-border); background: rgb(255 255 255 / 96%); box-shadow: 0 -8px 24px rgb(15 23 42 / 10%); }
   .arden-mobile-cta__link { display: flex; min-height: 44px; align-items: center; justify-content: center; border-radius: var(--arden-radius-md); background: var(--arden-primary); color: #fff; font-size: 12px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
   .arden-mobile-cta__link--accent { background: #f59e0b; color: var(--arden-text); }

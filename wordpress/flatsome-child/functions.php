@@ -7,18 +7,18 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ARDEN_THEME_VERSION', '1.1.0' );
+define( 'ARDEN_THEME_VERSION', '1.3.0' );
 
 require_once get_stylesheet_directory() . '/inc/template-tags.php';
 require_once get_stylesheet_directory() . '/inc/post-types.php';
 require_once get_stylesheet_directory() . '/inc/shortcodes.php';
 require_once get_stylesheet_directory() . '/inc/mobile-cta.php';
 
-/** Enqueue Arden's isolated design layer after Flatsome has registered its assets. */
+/** Enqueue Arden's design layer after Flatsome's compiled frontend CSS. */
 function arden_child_enqueue_assets() {
-	/* Flatsome enqueues its own compiled styles. Loading its style.css again duplicates CSS. */
-	wp_enqueue_style( 'arden-child', get_stylesheet_uri(), array(), ARDEN_THEME_VERSION );
-	wp_enqueue_style( 'arden-components', get_stylesheet_directory_uri() . '/assets/css/arden.css', array( 'arden-child' ), ARDEN_THEME_VERSION );
+	/* Flatsome 3.17.x already handles the active child style.css separately. */
+	wp_enqueue_style( 'arden-fonts', 'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap', array(), null );
+	wp_enqueue_style( 'arden-components', get_stylesheet_directory_uri() . '/assets/css/arden.css', array( 'flatsome-main', 'arden-fonts' ), ARDEN_THEME_VERSION );
 }
 add_action( 'wp_enqueue_scripts', 'arden_child_enqueue_assets', 30 );
 
@@ -37,6 +37,7 @@ add_action( 'after_setup_theme', 'arden_child_setup', 20 );
 /** Scope shared Header Builder styles without replacing Flatsome templates. */
 function arden_child_body_classes( $classes ) {
 	$classes[] = 'arden-site';
+	$classes[] = 'arden-page';
 	return $classes;
 }
 add_filter( 'body_class', 'arden_child_body_classes' );

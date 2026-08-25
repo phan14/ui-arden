@@ -2,15 +2,22 @@
 
 Replace each token in UX Builder by opening the Image element and selecting an item from the WordPress Media Library. Never replace tokens with a Windows path.
 
+For local visual verification, child theme 1.3.0 intercepts unresolved `ARDEN_IMAGE_*` values and renders the matching React Unsplash reference image. The token remains in the editable import. Selecting a Media Library image replaces the token with a numeric attachment ID, at which point Flatsome renders the real WordPress image and the fallback is bypassed automatically.
+
 | React reference | WordPress token | Ratio | Suggested alt text | Section |
 |---|---|---:|---|---|
 | Hero showcase — Unsplash `photo-1521572267360-ee0c2909d518` | `ARDEN_IMAGE_HERO` | 4:3 | Xưởng may Arden và khu vực sản xuất | Hero |
 | Service image from `servicesData` — T-shirt | `ARDEN_IMAGE_SERVICE_TSHIRT` | 16:10 | Dịch vụ may áo thun local brand | Services |
 | Service image from `servicesData` — Shirt | `ARDEN_IMAGE_SERVICE_SHIRT` | 16:10 | Dịch vụ may áo sơ mi theo yêu cầu | Services |
 | Service image from `servicesData` — Pants | `ARDEN_IMAGE_SERVICE_PANTS` | 16:10 | Dịch vụ may quần thời trang | Services |
+| Service image from `servicesData` — Jacket | `ARDEN_IMAGE_SERVICE_JACKET` | 16:10 | Dịch vụ may áo khoác và hoodie | Services |
+| Service image from `servicesData` — Local Brand | `ARDEN_IMAGE_SERVICE_LOCALBRAND` | 16:10 | Dịch vụ gia công trọn gói Local Brand | Services |
 | First representative project image | `ARDEN_IMAGE_PRODUCT_01` | 16:10 | Áo thun được sản xuất theo yêu cầu | Products |
 | Second representative project image | `ARDEN_IMAGE_PRODUCT_02` | 16:10 | Áo sơ mi được sản xuất theo yêu cầu | Products |
 | Third representative project image | `ARDEN_IMAGE_PRODUCT_03` | 16:10 | Quần hoặc áo khoác sản xuất tại xưởng | Products |
+| Fourth representative project image | `ARDEN_IMAGE_PRODUCT_04` | 16:10 | Áo sơ mi oversize theo thiết kế | Products |
+| Fifth representative project image | `ARDEN_IMAGE_PRODUCT_05` | 16:10 | Jacket bomber phối màu | Products |
+| Sixth representative project image | `ARDEN_IMAGE_PRODUCT_06` | 16:10 | Đồng phục doanh nghiệp cao cấp | Products |
 | Capabilities showcase — Unsplash `photo-1558769132-cb1aea458c5e` | `ARDEN_IMAGE_CAPABILITIES` | 4:3 | Dây chuyền may công nghiệp tại xưởng | Capabilities |
 | Factory department 1 from `factoryDepartmentsData` | `ARDEN_IMAGE_FACTORY_01` | 16:10 | Phòng rập và may mẫu | Factory UX Block |
 | Factory department 2 from `factoryDepartmentsData` | `ARDEN_IMAGE_FACTORY_02` | 16:10 | Khu vực cắt vải | Factory UX Block |

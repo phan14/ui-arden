@@ -31,6 +31,7 @@ Image tokens and operational `CẤU_HÌNH_*` strings are intentionally visible i
 ## WordPress configuration
 
 - Refresh Settings → Permalinks after first activation if `/du-an/` returns 404.
+- Do not create a normal Page with slug `du-an`; that slug belongs to the Project CPT archive.
 - Add published Projects and Posts with excerpts and featured images.
 - Configure or deliberately leave disabled Appearance → Customize → Arden Mobile CTA.
 - Assign Header and Footer globally; ensure the CTA block appears only once.

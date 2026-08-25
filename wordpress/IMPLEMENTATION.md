@@ -9,7 +9,7 @@ This is a valid Flatsome child-theme foundation and an exact construction bluepr
 1. Install and activate a licensed current version of Flatsome.
 2. Copy `wordpress/flatsome-child` to `wp-content/themes/arden-flatsome-child`, or zip that folder and upload it under Appearance → Themes.
 3. Activate **Arden Flatsome Child**. Confirm Flatsome remains the parent (`Template: flatsome`).
-4. The child automatically loads `style.css` and `assets/css/arden.css`. In Flatsome Theme Options set the content width to 1280px. Configure **Be Vietnam Pro** for headings and **Plus Jakarta Sans** for body text if those fonts are locally hosted or available through the site's approved font setup.
+4. Flatsome loads its compiled frontend CSS and the child `style.css`; the child loads `assets/css/arden.css` afterward. In Flatsome Theme Options set the content width to 1280px. Configure **Be Vietnam Pro** for headings and **Plus Jakarta Sans** for body text if those fonts are locally hosted or available through the site's approved font setup.
 5. Create every block listed in `UX_BLOCKS.md` with native UX Builder elements. Assign each root class and exact slug. Do not paste unverified phone/address/legal data.
 6. Create a page named Home, select Full Width, edit with UX Builder, add page class `arden-page`, and build sections in the order in `UX_BUILDER_HOME.md`.
 7. Insert reusable blocks using the UX Block element or `[block id="slug"]`. Insert `[arden_projects count="6"]` and `[arden_recent_posts count="3"]` into separate Shortcode elements.
