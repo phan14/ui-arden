@@ -1,3 +1,5 @@
+import type { ReactNode } from 'react';
+
 export interface NavItem {
   label: string;
   href: string;
@@ -9,6 +11,7 @@ export interface MetricItem {
   value: string;
   label: string;
   sublabel?: string;
+  iconName?: string;
 }
 
 export interface ServiceItem {
@@ -19,9 +22,15 @@ export interface ServiceItem {
   features: string[];
   image: string;
   badge?: string;
+  moq?: string;
+  time?: string;
+  fabrics?: string[];
+  techniques?: string[];
+  detailUrl?: string;
 }
 
 export interface FactoryCapability {
+  number: string;
   title: string;
   desc: string;
   iconName?: string;
@@ -32,12 +41,19 @@ export interface ProcessStep {
   title: string;
   description: string;
   iconName?: string;
+  badge?: string;
 }
 
 export interface WhyChooseItem {
   title: string;
   description: string;
   iconName?: string;
+  badge?: string;
+}
+
+export interface ProjectSpec {
+  label: string;
+  value: string;
 }
 
 export interface ProjectItem {
@@ -52,7 +68,15 @@ export interface ProjectItem {
   gallery?: string[];
   client?: string;
   time?: string;
-  specs?: { label: string; value: string }[];
+  specs?: ProjectSpec[];
+  description?: string;
+  highlights?: string[];
+}
+
+export interface ArticleAuthor {
+  name: string;
+  role: string;
+  avatar: string;
 }
 
 export interface ArticleItem {
@@ -66,18 +90,30 @@ export interface ArticleItem {
   image: string;
   content?: string;
   featured?: boolean;
+  author?: ArticleAuthor;
+  tags?: string[];
 }
 
 export interface CareerItem {
   id: string;
   title: string;
+  department?: string;
+  location?: string;
   type: string;
   salary: string;
-  experience: string;
-  quantity: number;
-  description: string;
+  experience?: string;
+  quantity?: number;
+  desc?: string;
+  description?: string;
   requirements: string[];
   benefits: string[];
+}
+
+export interface PolicySectionItem {
+  id: string;
+  title: string;
+  iconName?: string;
+  content: string | ReactNode;
 }
 
 export interface PolicyItem {
@@ -89,6 +125,7 @@ export interface PolicyItem {
 }
 
 export interface FAQItem {
+  id?: string;
   question: string;
   answer: string;
   category?: string;
@@ -104,6 +141,37 @@ export interface TestimonialItem {
   productType: string;
   quantity: string;
   rating: number;
+}
+
+export interface PriceEstimate {
+  type: string;
+  name: string;
+  fabric: string;
+  moq: string;
+  priceRange: string;
+  leadTime: string;
+  note: string;
+}
+
+export interface PrintTechniqueItem {
+  id: string;
+  name: string;
+  badge: string;
+  desc: string;
+  pros: string[];
+  suitability: string;
+  minQuantity: string;
+  durability: string;
+}
+
+export interface SizeSpecItem {
+  size: string;
+  length: number;
+  chest: number;
+  shoulder: number;
+  sleeve: number;
+  weight: string;
+  height: string;
 }
 
 export interface QuoteFormData {
@@ -123,4 +191,46 @@ export interface QuoteFormData {
   customerEmail: string;
   brandName?: string;
   address?: string;
+}
+
+export interface TrustBarItem {
+  id: string;
+  iconName: string;
+  title: string;
+  description: string;
+  badge?: string;
+}
+
+export interface MOQTier {
+  id: string;
+  range: string;
+  label: string;
+  discount: string;
+  leadTime: string;
+  benefits: string[];
+  recommendedFor: string;
+  popular?: boolean;
+}
+
+export interface CertificationItem {
+  id: string;
+  name: string;
+  issuer: string;
+  description: string;
+  iconName?: string;
+  badge?: string;
+}
+
+export interface FactoryDepartment {
+  id: string;
+  title: string;
+  capacity: string;
+  equipment: string[];
+  description: string;
+  image: string;
+}
+
+export interface BreadcrumbItem {
+  label: string;
+  href?: string;
 }

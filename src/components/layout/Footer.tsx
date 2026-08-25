@@ -54,27 +54,33 @@ export const Footer: React.FC = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/dich-vu" className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                <Link href="/dich-vu/may-ao-so-mi" className="hover:text-blue-400 transition-colors flex items-center gap-2">
                   <ArrowRight className="w-3 h-3 text-slate-600" />
-                  <span>May áo sơ mi (Oxford, Lụa...)</span>
+                  <span>May áo sơ mi (Oxford, Linen...)</span>
                 </Link>
               </li>
               <li>
-                <Link href="/dich-vu" className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                <Link href="/dich-vu/may-quan" className="hover:text-blue-400 transition-colors flex items-center gap-2">
                   <ArrowRight className="w-3 h-3 text-slate-600" />
                   <span>May quần (Kaki, Jean, Cargo...)</span>
                 </Link>
               </li>
               <li>
-                <Link href="/dich-vu" className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                <Link href="/dich-vu/may-ao-khoac" className="hover:text-blue-400 transition-colors flex items-center gap-2">
                   <ArrowRight className="w-3 h-3 text-slate-600" />
-                  <span>May áo khoác (Bomber, Hoodie...)</span>
+                  <span>May áo khoác (Varsity, Hoodie...)</span>
                 </Link>
               </li>
               <li>
-                <Link href="/dich-vu" className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                <Link href="/bang-vai" className="hover:text-blue-400 transition-colors flex items-center gap-2">
                   <ArrowRight className="w-3 h-3 text-slate-600" />
-                  <span>Gia công Local Brand trọn gói</span>
+                  <span>Bảng phân biệt vải & GSM</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/huong-dan-techpack" className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                  <ArrowRight className="w-3 h-3 text-slate-600" />
+                  <span>Hướng dẫn Techpack & May mẫu</span>
                 </Link>
               </li>
             </ul>

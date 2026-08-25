@@ -6,7 +6,8 @@ import {
   ProjectItem,
   ArticleItem,
   CareerItem,
-  PolicyItem
+  PolicyItem,
+  PriceEstimate
 } from '../types';
 
 export const siteConfig = {
@@ -617,38 +618,51 @@ export const testimonialsData = [
   }
 ];
 
-export const priceEstimates = [
+export const priceEstimates: PriceEstimate[] = [
   {
-    category: 'Áo Thun Oversize / Boxy',
+    type: 'tshirt',
+    name: 'Áo Thun Oversize / Boxy',
     moq: 'Từ 30 sản phẩm',
     fabric: 'Cotton 100% 2C (220-250 GSM)',
     priceRange: '65.000đ - 110.000đ',
     leadTime: '10 - 15 ngày',
-    details: 'Bao gồm công cắt may, in lụa 1-2 màu, ủi hơi và đóng gói túi nilon.'
+    note: 'Bao gồm công cắt may, in lụa 1-2 màu, ủi hơi và đóng gói túi nilon.'
   },
   {
-    category: 'Áo Sơ Mi Thiết Kế',
+    type: 'polo',
+    name: 'Áo Polo Bo Dệt',
+    moq: 'Từ 30 sản phẩm',
+    fabric: 'Cá Sấu CVC / Cotton 100%',
+    priceRange: '85.000đ - 135.000đ',
+    leadTime: '12 - 15 ngày',
+    note: 'Cổ dệt jacquard phối sọc, nẹp cúc may tỉ mỉ, bo tay dệt đồng bộ.'
+  },
+  {
+    type: 'shirt',
+    name: 'Áo Sơ Mi Thiết Kế',
     moq: 'Từ 30 sản phẩm',
     fabric: 'Oxford / Linen / Lụa cát',
     priceRange: '110.000đ - 170.000đ',
     leadTime: '12 - 18 ngày',
-    details: 'May mí cuộn sắc sảo, cổ ép keo không phồng rộp, đóng nút khắc laser.'
+    note: 'May mí cuộn sắc sảo, cổ ép keo không phồng rộp, đóng nút khắc laser.'
   },
   {
-    category: 'Quần Kaki / Cargo Pants',
+    type: 'pants',
+    name: 'Quần Kaki / Cargo Pants',
     moq: 'Từ 50 sản phẩm',
     fabric: 'Kaki thun / Vải dù nhăn / Denim',
     priceRange: '130.000đ - 220.000đ',
     leadTime: '15 - 20 ngày',
-    details: 'May gia cố bọ chịu lực, dây kéo YKK đồng bộ, xử lý wash mềm.'
+    note: 'May gia cố bọ chịu lực, dây kéo YKK đồng bộ, xử lý wash mềm.'
   },
   {
-    category: 'Áo Khoác Bomber / Hoodie',
+    type: 'hoodie',
+    name: 'Áo Khoác / Hoodie',
     moq: 'Từ 30 sản phẩm',
     fabric: 'Nỉ bông 380 GSM / Dù 2 lớp',
     priceRange: '160.000đ - 290.000đ',
     leadTime: '15 - 22 ngày',
-    details: 'Lót lưới/lụa cao cấp, khóa kéo đồng mạ bóng, bo dệt sọc độc quyền.'
+    note: 'Lót lưới/lụa cao cấp, khóa kéo đồng mạ bóng, bo dệt sọc độc quyền.'
   }
 ];
 
@@ -658,5 +672,150 @@ export const sizeChartTshirt = [
   { size: 'L', length: 74, chest: 58, shoulder: 54, sleeve: 23, weight: '68 - 78 kg' },
   { size: 'XL', length: 77, chest: 61, shoulder: 57, sleeve: 24, weight: '78 - 90 kg' },
   { size: 'XXL', length: 80, chest: 64, shoulder: 60, sleeve: 25, weight: '90 - 105 kg' },
+];
+
+export const trustBarData = [
+  {
+    id: 'moq-30',
+    iconName: 'PackageCheck',
+    title: 'MOQ Chỉ Từ 30 Áo/Mẫu',
+    description: 'Hỗ trợ Local Brand mới khởi nghiệp test thị trường an toàn không lo tồn kho.',
+    badge: 'Linh hoạt'
+  },
+  {
+    id: 'nda-protect',
+    iconName: 'ShieldCheck',
+    title: 'Bảo Mật 100% Mẫu (NDA)',
+    description: 'Cam kết bằng văn bản không rò rỉ rập thiết kế hay bán mẫu độc quyền.',
+    badge: 'Cam kết'
+  },
+  {
+    id: 'leadtime-98',
+    iconName: 'Clock',
+    title: 'Tiến Độ Chuẩn Xác 98%',
+    description: 'Bồi thường 1%/ngày nếu chậm tiến độ so với lịch launching cam kết.',
+    badge: 'Đúng hẹn'
+  },
+  {
+    id: 'cad-pattern',
+    iconName: 'Layers',
+    title: 'Tư Vấn Rập CAD Miễn Phí',
+    description: 'Đội ngũ kỹ thuật hỗ trợ nhảy size và tối ưu giác sơ đồ vải tiết kiệm chi phí.',
+    badge: 'Chuyên sâu'
+  }
+];
+
+export const moqTiersData = [
+  {
+    id: 'tier-startup',
+    range: '30 - 50 Áo / Mẫu',
+    label: 'Khởi Nghiệp & Test Mẫu',
+    discount: 'Giá gốc xưởng',
+    leadTime: '10 - 12 ngày',
+    benefits: [
+      'Nhận may từ 30 áo/màu',
+      'Hỗ trợ duyệt mẫu trước khi may hàng loạt',
+      'Đóng gói túi zip in logo tiêu chuẩn',
+      'Tư vấn nguồn vải phù hợp ngân sách'
+    ],
+    recommendedFor: 'Local Brand mới ra mắt BST đầu tiên hoặc kiểm tra phản hồi khách hàng.',
+    popular: false
+  },
+  {
+    id: 'tier-growth',
+    range: '50 - 200 Áo / Mẫu',
+    label: 'Thương Hiệu Tăng Trưởng',
+    discount: 'Chiết khấu 8 - 12%',
+    leadTime: '12 - 15 ngày',
+    benefits: [
+      'Miễn phí 100% chi phí ra rập CAD vi tính',
+      'Tặng kèm may nhãn dệt & thẻ bài thương hiệu',
+      'Ưu tiên xếp chuyền may tiến độ nhanh',
+      'Hỗ trợ chụp hình tiến độ tại xưởng'
+    ],
+    recommendedFor: 'Các Local Brand đã có lượng khách ổn định, launching định kỳ hàng tháng.',
+    popular: true
+  },
+  {
+    id: 'tier-enterprise',
+    range: '200 - 1.000+ Áo',
+    label: 'Sản Xuất Số Lượng Lớn',
+    discount: 'Chiết khấu 15 - 25%',
+    leadTime: '15 - 20 ngày',
+    benefits: [
+      'Dệt nhuộm màu Pantone theo yêu cầu riêng',
+      'Bàn giao toàn quyền bộ rập vi tính gốc',
+      'Hỗ trợ giao hàng phân kỳ theo từng đợt',
+      'Thanh toán linh hoạt theo tiến độ nghiệm thu'
+    ],
+    recommendedFor: 'Doanh nghiệp may đồng phục công ty, chuỗi bán lẻ thời trang & xuất khẩu.',
+    popular: false
+  }
+];
+
+export const certificationsData = [
+  {
+    id: 'iso',
+    name: 'ISO 9001:2015',
+    issuer: 'Tiêu chuẩn quản lý chất lượng',
+    description: 'Hệ thống kiểm soát quy trình may công nghiệp đồng bộ từ nhập vải đến đóng gói.',
+    badge: 'Chất lượng'
+  },
+  {
+    id: 'oeko-tex',
+    name: 'OEKO-TEX 100 Safe Fabric',
+    issuer: 'Kiểm định an toàn dệt may',
+    description: 'Vải cotton và mực in không chứa Formaldehyde hay hóa chất độc hại gây kích ứng da.',
+    badge: 'An toàn'
+  },
+  {
+    id: 'nda',
+    name: 'Hợp Đồng NDA Pháp Lý',
+    issuer: 'Bảo mật thương hiệu',
+    description: 'Điều khoản bảo mật thiết kế, bảng size và hình ảnh rập độc quyền tuyệt đối.',
+    badge: 'Pháp lý'
+  },
+  {
+    id: 'fqc',
+    name: 'Kiểm Hàng FQC 100%',
+    issuer: 'Nghiệm thu xuất xưởng',
+    description: 'Từng sản phẩm được rà kim, cắt chỉ thừa, ủi hơi và kiểm tra thông số trước khi đóng thùng.',
+    badge: 'Kiểm định'
+  }
+];
+
+export const factoryDepartmentsData = [
+  {
+    id: 'dept-cad',
+    title: 'Phòng Phát Triển Mẫu & Rập CAD',
+    capacity: '15 - 20 bộ rập mới / ngày',
+    equipment: ['Phần mềm nhảy size Gerber & Lectra', 'Máy in sơ đồ phun khổ lớn 1m8', 'Bàn số hóa rập mẫu tự động'],
+    description: 'Đội ngũ kỹ thuật rập trên 10 năm kinh nghiệm biến mọi ý tưởng phác thảo thành bộ rập vi tính chuẩn xác đến từng milimet.',
+    image: 'https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=800&q=80'
+  },
+  {
+    id: 'dept-cutting',
+    title: 'Phân Xưởng Trải & Cắt Vải Tự Động',
+    capacity: '3.000 - 5.000 bán thành phẩm / ngày',
+    equipment: ['Bàn trải vải tự động ray trượt', 'Máy cắt vòng đứng công suất lớn', 'Máy xả vải nghỉ 24h khử độ co rút'],
+    description: 'Tất cả cây vải đều được xả nghỉ đạt độ ổn định cấu trúc sợi trước khi cắt nhằm chống vặn sườn và lệch canh sợi khi may.',
+    image: 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80'
+  },
+  {
+    id: 'dept-sewing',
+    title: 'Dây Chuyền May Juki Chuyên Dụng',
+    capacity: '2.500 sản phẩm hoàn thiện / ngày',
+    equipment: ['Máy 1 kim điện tử Juki DDL-9000C', 'Máy vắt sổ Siruba 4 chỉ, 5 chỉ', 'Máy Kansai viền cổ & máy cào bọ gia cố'],
+    description: 'Chuyền may được chuyên môn hóa theo từng dòng sản phẩm: chuyền áo thun, chuyền sơ mi, chuyền quần kaki và chuyền áo khoác.',
+    image: 'https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80'
+  },
+  {
+    id: 'dept-qc',
+    title: 'Khu Vực QC, Ủi Hơi & Đóng Gói Thành Phẩm',
+    capacity: '100% sản phẩm được rà kim & FQC',
+    equipment: ['Máy dò kim loại Hashima điện tử', 'Hệ thống bàn ủi hơi nồi hơi tự động Silver Star', 'Máy đóng gói túi zip & niêm phong thùng'],
+    description: 'Kiểm tra 100% đường may, độ sạch chỉ, thông số đo kích thước và độ phẳng trước khi đóng thùng carton bàn giao.',
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80'
+  }
 ];
 
