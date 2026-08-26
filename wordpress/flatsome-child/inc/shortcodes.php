@@ -134,64 +134,6 @@ function arden_pricing_calculator_shortcode() {
 }
 add_shortcode( 'arden_pricing_calculator', 'arden_pricing_calculator_shortcode' );
 
-/** Source-faithful Home cards; these are intentionally independent of site content records. */
-function arden_home_source_cards_shortcode( $atts, $content = null, $tag = '' ) {
-	$is_blog = 'arden_home_articles' === $tag;
-	$items = $is_blog ? array(
-		array( 'title' => 'Cách chọn xưởng may uy tín cho Local Brand mới bắt đầu', 'meta' => 'Kinh nghiệm đặt may · 20/09/2024 · 6 phút đọc', 'description' => 'Kinh nghiệm chọn xưởng may chất lượng, đúng tiến độ và tối ưu định mức giá thành cho các nhà sáng lập thương hiệu trẻ.', 'image' => 'https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=800&q=80', 'url' => '/tin-tuc/cach-chon-xuong-may-uy-tin-cho-local-brand' ),
-		array( 'title' => 'GSM là gì? Cách chọn định lượng vải phù hợp từng loại sản phẩm', 'meta' => 'Kiến thức vải · 15/09/2024 · 4 phút đọc', 'description' => 'Hướng dẫn chi tiết về chỉ số GSM và các lưu ý vàng khi chọn vải áo thun 220 GSM, 250 GSM hay hoodie 380 GSM.', 'image' => 'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80', 'url' => '/tin-tuc/gsm-la-gi-cach-chon-dinh-luong-vai' ),
-		array( 'title' => 'Quy trình làm mẫu tại xưởng may chuyên nghiệp chuẩn 9 bước', 'meta' => 'Quy trình sản xuất · 12/09/2024 · 5 phút đọc', 'description' => 'Các bước chuẩn bị rập vi tính, may mẫu đối chứng và duyệt thông số trước khi đưa vào sản xuất hàng loạt.', 'image' => 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80', 'url' => '/tin-tuc/quy-trinh-lam-mau-tai-xuong-may-chuyen-nghiep' ),
-	) : array(
-		array( 'title' => 'BST Áo Thun Local Brand ADC', 'meta' => 'Áo Thun', 'description' => 'Vải: Cotton 2 chiều 250 GSM · MOQ: Số lượng: 300+ sp', 'image' => 'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80' ),
-		array( 'title' => 'BST Hoodie Streetwear Mùa Đông', 'meta' => 'Áo Khoác & Hoodie', 'description' => 'Vải: French Terry 380 GSM · MOQ: Số lượng: 300+ sp', 'image' => 'https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80' ),
-		array( 'title' => 'Quần Jean Nam Form Ống Rộng', 'meta' => 'Quần', 'description' => 'Vải: Denim 12oz - Wash Vintage · MOQ: Số lượng: 300+ sp', 'image' => 'https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80' ),
-		array( 'title' => 'Áo Sơ Mi Oversize Casual', 'meta' => 'Áo Sơ Mi', 'description' => 'Vải: Cotton 2 chiều dệt nổi · MOQ: Số lượng: 400+ sp', 'image' => 'https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80' ),
-		array( 'title' => 'Jacket Bomber Phối Màu', 'meta' => 'Áo Khoác', 'description' => 'Vải: Nylon - Lót viền bo dệt · MOQ: Số lượng: 200+ sp', 'image' => 'https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?auto=format&fit=crop&w=800&q=80' ),
-		array( 'title' => 'Đồng Phục Doanh Nghiệp Tech', 'meta' => 'Đồng Phục', 'description' => 'Vải: Poly 2 chiều - Co giãn · MOQ: Số lượng: 1.000+ sp', 'image' => 'https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80' ),
-	);
-	ob_start(); ?>
-	<div class="arden-content-grid <?php echo $is_blog ? 'arden-blog-grid' : 'arden-portfolio-grid'; ?>">
-	<?php foreach ( $items as $item ) : $url = $item['url'] ?? '/du-an/bst-ao-thun-local-brand'; ?>
-		<article class="arden-card arden-content-card"><a class="arden-card__media" href="<?php echo esc_url( home_url( $url ) ); ?>"><img src="<?php echo esc_url( $item['image'] ); ?>" alt="<?php echo esc_attr( $item['title'] ); ?>" loading="lazy"></a><div class="arden-card__body"><p class="arden-card__meta"><?php echo esc_html( $item['meta'] ); ?></p><h3 class="arden-card__title"><?php echo esc_html( $item['title'] ); ?></h3><p class="arden-card__excerpt"><?php echo esc_html( $item['description'] ); ?></p><a class="arden-button arden-button--outline" href="<?php echo esc_url( home_url( $url ) ); ?>"><?php echo esc_html( $is_blog ? 'ĐỌC BÀI VIẾT' : 'XEM THÔNG SỐ & MẪU' ); ?></a></div></article>
-	<?php endforeach; ?>
-	</div><?php return ob_get_clean();
-}
-add_shortcode( 'arden_home_projects', 'arden_home_source_cards_shortcode' );
-add_shortcode( 'arden_home_articles', 'arden_home_source_cards_shortcode' );
-
-/** Render reference-image fallbacks for unresolved UX Builder image tokens. */
-function arden_reference_image_fallback( $return, $tag, $atts ) {
-	if ( 'ux_image' !== $tag || empty( $atts['id'] ) || 0 !== strpos( (string) $atts['id'], 'ARDEN_IMAGE_' ) ) {
-		return $return;
-	}
-	$images = array(
-		'ARDEN_IMAGE_HERO'               => array( 'photo-1521572267360-ee0c2909d518', 'SẢN XUẤT THỜI TRANG THEO YÊU CẦU' ),
-		'ARDEN_IMAGE_SERVICE_TSHIRT'    => array( 'photo-1521572267360-ee0c2909d518', 'May Áo Thun' ),
-		'ARDEN_IMAGE_SERVICE_SHIRT'     => array( 'photo-1596755094514-f87e34085b2c', 'May Áo Sơ Mi' ),
-		'ARDEN_IMAGE_SERVICE_PANTS'     => array( 'photo-1624378439575-d8705ad7ae80', 'May Quần' ),
-		'ARDEN_IMAGE_SERVICE_JACKET'    => array( 'photo-1551028719-00167b16eac5', 'May Áo Khoác' ),
-		'ARDEN_IMAGE_SERVICE_LOCALBRAND'=> array( 'photo-1558769132-cb1aea458c5e', 'Gia Công Local Brand' ),
-		'ARDEN_IMAGE_PRODUCT_01'        => array( 'photo-1503342217505-b0a15ec3261c', 'BST Áo Thun Local Brand ADC' ),
-		'ARDEN_IMAGE_PRODUCT_02'        => array( 'photo-1556905055-8f358a7a47b2', 'BST Hoodie Streetwear Mùa Đông' ),
-		'ARDEN_IMAGE_PRODUCT_03'        => array( 'photo-1541099649105-f69ad21f3246', 'Quần Jean Nam Form Ống Rộng' ),
-		'ARDEN_IMAGE_PRODUCT_04'        => array( 'photo-1602810318383-e386cc2a3ccf', 'Áo Sơ Mi Oversize Casual' ),
-		'ARDEN_IMAGE_PRODUCT_05'        => array( 'photo-1495105787522-5334e3ffa0ef', 'Jacket Bomber Phối Màu' ),
-		'ARDEN_IMAGE_PRODUCT_06'        => array( 'photo-1556905055-8f358a7a47b2', 'Đồng Phục Doanh Nghiệp Tech' ),
-		'ARDEN_IMAGE_CAPABILITIES'      => array( 'photo-1558769132-cb1aea458c5e', 'Nhà xưởng may Arden' ),
-		'ARDEN_IMAGE_FACTORY_01'        => array( 'photo-1558769132-cb1aea458c5e', 'Phòng Phát Triển Mẫu và Rập CAD' ),
-		'ARDEN_IMAGE_FACTORY_02'        => array( 'photo-1581092160607-ee22621dd758', 'Phân Xưởng Trải và Cắt Vải Tự Động' ),
-		'ARDEN_IMAGE_FACTORY_03'        => array( 'photo-1544441893-675973e31985', 'Dây Chuyền May Juki Chuyên Dụng' ),
-		'ARDEN_IMAGE_FACTORY_04'        => array( 'photo-1586528116311-ad8dd3c8310d', 'Khu Vực QC, Ủi Hơi và Đóng Gói Thành Phẩm' ),
-	);
-	if ( empty( $images[ $atts['id'] ] ) ) {
-		return $return;
-	}
-	$image = $images[ $atts['id'] ];
-	$url   = 'https://images.unsplash.com/' . $image[0] . '?auto=format&fit=crop&w=800&q=80';
-	return '<div class="img arden-reference-image" data-image-token="' . esc_attr( $atts['id'] ) . '"><div class="img-inner"><img src="' . esc_url( $url ) . '" alt="' . esc_attr( $image[1] ) . '" loading="lazy"></div></div>';
-}
-add_filter( 'pre_do_shortcode_tag', 'arden_reference_image_fallback', 10, 3 );
-
 /** Small inline decorative icons used by source-faithful UX Blocks. */
 function arden_inline_icon_shortcode( $atts ) {
 	$atts = shortcode_atts( array( 'name' => 'check' ), $atts, 'arden_icon' );

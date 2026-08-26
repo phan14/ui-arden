@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Header desktop dropdown",
+    "pass": false,
+    "detail": {
+      "pass": false,
+      "visibleChildren": 0
+    }
+  },
+  {
+    "name": "Header sticky",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "sticky": true
+    }
+  },
+  {
+    "name": "Mobile menu open/close",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "open": true,
+      "closed": true,
+      "links": 17
+    }
+  },
+  {
+    "name": "FAQ accordion click/keyboard",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 6,
+      "clickOpen": true,
+      "keyboardChanged": true,
+      "label": "FAQ"
+    }
+  },
+  {
+    "name": "Careers accordion click/keyboard",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 4,
+      "clickOpen": true,
+      "keyboardChanged": true,
+      "label": "Careers"
+    }
+  },
+  {
+    "name": "T-Shirt tabs",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 11,
+      "active": true,
+      "label": "T-Shirt"
+    }
+  },
+  {
+    "name": "FAQ tabs",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 5,
+      "active": true,
+      "label": "FAQ"
+    }
+  },
+  {
+    "name": "Policies tabs",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 5,
+      "active": true,
+      "label": "Policies"
+    }
+  },
+  {
+    "name": "Fabric search/filter/empty",
+    "pass": false,
+    "detail": {
+      "pass": false,
+      "total": 0,
+      "shownAfter": 0,
+      "filterCount": 0,
+      "pressed": null
+    }
+  },
+  {
+    "name": "Quote technique selector",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "count": 6,
+      "defaultSelected": true,
+      "changed": true,
+      "ariaPressed": 0
+    }
+  },
+  {
+    "name": "Header search modal",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "exists": true,
+      "modal": 0,
+      "dropdown": 2
+    }
+  },
+  {
+    "name": "CF7 telephone validation",
+    "pass": true,
+    "detail": {
+      "pass": true,
+      "invalid": 1
+    }
+  }
+]

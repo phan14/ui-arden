@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Pages",
+    "url": "/wp-admin/edit.php?post_type=page",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Posts",
+    "url": "/wp-admin/edit.php",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Projects",
+    "url": "/wp-admin/edit.php?post_type=project",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "UX Blocks",
+    "url": "/wp-admin/edit.php?post_type=blocks",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Menus",
+    "url": "/wp-admin/nav-menus.php",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Header/Footer Customizer",
+    "url": "/wp-admin/customize.php",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Media",
+    "url": "/wp-admin/upload.php",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "CF7",
+    "url": "/wp-admin/admin.php?page=wpcf7",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "Page editor",
+    "url": "/wp-admin/post.php?post=81&action=edit",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  },
+  {
+    "name": "UX Builder launch",
+    "url": "/wp-admin/post.php?post=81&action=edit&app=uxbuilder&type=editor",
+    "status": 200,
+    "errors": [],
+    "fatal": false,
+    "title": "Đăng nhập ‹ UI_arden — WordPress"
+  }
+]
