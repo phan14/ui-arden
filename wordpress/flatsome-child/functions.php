@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ARDEN_THEME_VERSION', '2.0.0' );
+define( 'ARDEN_THEME_VERSION', '2.0.1' );
 
 require_once get_stylesheet_directory() . '/inc/template-tags.php';
 require_once get_stylesheet_directory() . '/inc/post-types.php';

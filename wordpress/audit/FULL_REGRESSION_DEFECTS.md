@@ -143,3 +143,19 @@ No fatal, data-loss, security-handler, raw-shortcode or total-runtime blocker wa
 - Sticky Header, mobile menu, FAQ/Careers accordion, T‑Shirt/FAQ/Policies tabs, Header search, Quote selection and CF7 telephone validation pass.
 - Admin Pages, Posts, Projects, UX Blocks, Menus, Customizer, Media, CF7, editor and UX Builder launch return 200 with no fatal/browser exception.
 - All 15 converted Pages remain Draft; `blog_public=0`.
+
+## Task 08.6B execution addendum
+
+This addendum records the partial execution result. The complete 08.5 regression matrix has not been rerun.
+
+| REG | Task 08.6B status | Evidence |
+|---|---|---|
+| REG-001 | **FOCUSED PASS** | Scoped grid adapter targets the rendered `.arden-react-page .row[class*="grid"]`; About, Services, Manufacturing, and Fabric Guide passed HTTP 200, no horizontal overflow, and CSS Grid checks at 1440/1024/768/390. Full visual screenshot comparison remains pending. |
+| REG-002 | **FOCUSED PASS** | Child theme version is 2.0.1; sampled React-derived headings compute at weight 900 across Drafts 83/99/100 at all four widths. Full page computed-style comparison remains pending. |
+| REG-003 | **NOT FIXED** | Draft 83 was synchronized from the corrected import and remains Draft, but authenticated rendering still omits the print-card text and does not expose the complete React-equivalent card/section structure. |
+| REG-004 | **NOT FIXED** | Draft 99 remains Draft and retains existing policy text, but rendered panels still expose generated Vietnamese IDs rather than the five React IDs because the updated JS is not the served runtime copy. Status remains `LEGAL_REVIEW_REQUIRED`. |
+| REG-005 | **NOT FIXED** | Workspace JS contains the confirmed DOM-contract repair, but the served local runtime still returns the old/missing script copy; search, category filtering, combined state, and empty state have not passed runtime validation. |
+| REG-006 | **VERIFIED PASS** | Authenticated 1440px inspection showed menu parent 120 with eight children; hover produced `aria-expanded="true"`, eight visible dropdown links, `pointer-events:auto`, `overflow:visible`, and `z-index:9`. No menu/PHP/CSS change was needed. |
+| REG-007 | **ROUTE FIX APPLIED** | Home 48, Footer block 59, and Draft 82 were synchronized with canonical service routes; Local Brand uses `/dich-vu/#local-brand` and the Services preview exposes `#local-brand`; case-study CTAs use `/du-an/`. Policy fragment validity remains coupled to REG-004. |
+
+Runtime safety constraints remain intact: no publication, indexing enablement, production deployment, ZIP creation, or theme-version change beyond the required 2.0.1 child-theme bump.

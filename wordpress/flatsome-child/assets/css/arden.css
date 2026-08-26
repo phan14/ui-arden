@@ -42,9 +42,11 @@
 .arden-site :where(h1, h2, h3, h4, h5, h6) { font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
 .arden-page { overflow-x: clip; color: var(--arden-text-body); font-family: var(--arden-font-body) !important; letter-spacing: -.01em; }
 .arden-page h1, .arden-page h2, .arden-page h3, .arden-page h4 { color: var(--arden-text); font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
-.arden-page h1 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.15; }
-.arden-page h2 { font-size: clamp(1.65rem, 3vw, 2.25rem); line-height: 1.2; }
-.arden-page h3 { font-size: clamp(.95rem, 1.5vw, 1.15rem); line-height: 1.35; }
+.arden-page h1 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 900 !important; line-height: 1.15; }
+.arden-page h2 { font-size: clamp(1.65rem, 3vw, 2.25rem); font-weight: 900 !important; line-height: 1.2; }
+.arden-page h3, .arden-page h4 { font-weight: 700 !important; }
+.arden-page .font-black { font-weight: 900 !important; }
+.arden-page .font-bold { font-weight: 700 !important; }
 .arden-site .arden-hero h1 { color: #020617; font-size: clamp(1.875rem, 4vw, 3rem); font-weight: 900; line-height: 1.15; letter-spacing: -.025em; }
 .arden-site .arden-section-title h2 { color: #020617; font-weight: 900; letter-spacing: -.025em; }
 .arden-site .arden-trust-bar h3 { color: #1e293b; font-size: 14px; font-weight: 900; line-height: 1.375; letter-spacing: -.025em; }
@@ -63,6 +65,26 @@
 .arden-section--alt { background: var(--arden-background-alt); }
 .arden-section--dark { background: var(--arden-text); color: #fff; }
 .arden-section > .section-content > .row, .arden-container { width: min(calc(100% - 32px), var(--arden-container)); max-width: var(--arden-container); margin-inline: auto; }
+
+/* React-derived row utilities need to override Flatsome's flex row default. */
+.arden-react-page .row[class*="grid"] { display: grid !important; width: 100% !important; max-width: 100%; margin-right: 0 !important; margin-left: 0 !important; }
+.arden-react-page .row.grid-cols-1 { grid-template-columns: repeat(1, minmax(0, 1fr)); }
+.arden-react-page .row.grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.arden-react-page .row.grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.arden-react-page .row.grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (min-width: 640px) {
+  .arden-react-page .row.sm\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .arden-react-page .row.sm\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .arden-react-page .row.sm\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (min-width: 768px) {
+  .arden-react-page .row.md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .arden-react-page .row.md\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1024px) {
+  .arden-react-page .row.lg\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .arden-react-page .row.lg\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
 
 .arden-eyebrow { display: inline-flex; padding: 6px 14px; border: 1px solid #bfdbfe; border-radius: 999px; background: #fff; color: var(--arden-primary); font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .arden-heading { font-weight: 900; line-height: 1.2; text-transform: uppercase; }

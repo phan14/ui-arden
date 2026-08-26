@@ -3,15 +3,15 @@
 | Page | Exact text | H1 | H2 | H3 | CTA labels |
 |---|---:|---:|---:|---:|---:|
 | AboutPage | PASS | PASS | PASS | PASS | PASS |
-| CareersPage | PASS | PASS | PASS | PASS | PASS |
-| ContactPage | PASS | PASS | PASS | PASS | PASS |
+| CareersPage | FAIL | PASS | PASS | FAIL | FAIL |
+| ContactPage | FAIL | PASS | PASS | PASS | PASS |
 | FabricGuidePage | PASS | PASS | PASS | PASS | PASS |
 | FAQPage | FAIL | PASS | PASS | FAIL | PASS |
 | JacketServicePage | PASS | PASS | PASS | PASS | PASS |
-| ManufacturingPage | PASS | PASS | PASS | PASS | PASS |
+| ManufacturingPage | FAIL | PASS | PASS | PASS | PASS |
 | PantsServicePage | PASS | PASS | PASS | PASS | PASS |
-| PoliciesPage | PASS | PASS | PASS | PASS | PASS |
-| QuotePage | PASS | PASS | PASS | PASS | PASS |
+| PoliciesPage | FAIL | PASS | FAIL | PASS | FAIL |
+| QuotePage | FAIL | PASS | PASS | PASS | FAIL |
 | ServicesPage | PASS | PASS | PASS | PASS | PASS |
 | ShirtServicePage | PASS | PASS | PASS | PASS | PASS |
 | TechpackGuidePage | PASS | PASS | PASS | PASS | PASS |
