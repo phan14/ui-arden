@@ -135,10 +135,17 @@
     "pass": true
   },
   "media": {
-    "count": 20,
+    "count": 21,
     "missingAlt": 0,
     "missingDimensions": 0,
     "unsplash": 0,
+    "footerMap": {
+      "id": 203,
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-footer-map.jpg",
+      "alt": "Bản đồ chỉ đường Xưởng May Arden Tân Phú",
+      "width": 400,
+      "height": 273
+    },
     "pass": true
   },
   "uxBuilder": {

@@ -32,7 +32,9 @@ foreach ( $ordered_items as $index => $item ) {
 set_theme_mod( 'topbar_show', true );
 set_theme_mod( 'topbar_elements_left', array( 'html' ) );
 set_theme_mod( 'topbar_elements_right', array( 'html-2' ) );
-set_theme_mod( 'html_topbar_left', 'Thứ 2 - Thứ 7: 8:00 - 17:30 (Chủ nhật: Nghỉ) · 86 Đường S6, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh' );
-set_theme_mod( 'html_topbar_right', '<a href="tel:0901234567">Hotline xưởng: 0901 234 567</a> · <a href="https://zalo.me/0901234567">Zalo tư vấn 24/7</a>' );
+// Flatsome 3.17.7 renders these content keys; html_topbar_* is not consumed.
+set_theme_mod( 'topbar_left', 'Thứ 2 - Thứ 7: 8:00 - 17:30 (Chủ nhật: Nghỉ) · 86 Đường S6, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh' );
+set_theme_mod( 'topbar_right', '<a href="tel:0901234567">Hotline xưởng: 0901 234 567</a> · <a href="https://zalo.me/0901234567">Zalo tư vấn 24/7</a>' );
+set_theme_mod( 'topbar_height', 34 );
 
 echo "HEADER_BUILDER_FIDELITY_CONFIGURED\n";

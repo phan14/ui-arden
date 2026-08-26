@@ -22,3 +22,7 @@ Source of truth: `src/components/layout/Footer.tsx`. Inventory captured before T
 ## Production-data constraint
 
 Phone, address, email, website, hours and social URLs are copied only from the existing React `siteConfig`/Footer conversion. Their presence is for fidelity and does not constitute production verification. Production approval remains required.
+
+## After repair
+
+All listed inventory items are now present in the native `arden-footer` UX Block. The React map placeholder is Media Library attachment 203, not a remote runtime dependency. Four-width focused screenshots confirm desktop 4/3/3/2 proportions, tablet two-column stacking, mobile single-column stacking and no horizontal overflow. The five policy links target the canonical fragments fixed in Task 08.8B.

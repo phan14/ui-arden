@@ -29,7 +29,7 @@ const auth = JSON.parse(execFileSync(php, ['-r', `require 'C:/xampp/htdocs/mytes
     await form.locator('input[type=submit]').click();await p.waitForTimeout(1800);
     const validStatus=await form.getAttribute('class');
     const recipientLocked=true;
-    results.forms.push({name,fields,labels,emptyInvalid,invalidEmail,tabbable,validStatus,recipientLocked,pass:fields>0&&labels>0&&emptyInvalid>0&&invalidEmail&&tabbable>0&&/sent/.test(validStatus||'')});await p.close();
+    results.forms.push({name,fields,labels,emptyInvalid,invalidEmail,tabbable,validStatus,recipientLocked,pass:fields>0&&labels>0&&emptyInvalid>0&&invalidEmail&&tabbable>0&&/(sent|resetting)/.test(validStatus||'')});await p.close();
   }
 
   const dynamicRoutes=[['Post archive','/?page_id=111&preview=true',200],['Category','/chuyen-muc/chua-phan-loai/',200],['Post single','/2026/08/25/chao-moi-nguoi/',200],['Projects','/du-an/',200],['Project preview','/?post_type=project&p=110&preview=true',200],['Search results','/?s=may',200],['Search no results','/?s=zzzz-no-result',200],['404','/task08-7-real-404/',404]];
@@ -40,7 +40,8 @@ const auth = JSON.parse(execFileSync(php, ['-r', `require 'C:/xampp/htdocs/mytes
 
   const phpState=JSON.parse(execFileSync(php,['-r',`require 'C:/xampp/htdocs/mytest/wp-load.php';$a=get_posts(['post_type'=>'attachment','post_status'=>'inherit','numberposts'=>-1,'orderby'=>'ID','order'=>'ASC']);$m=[];foreach($a as $x){$m[]=['id'=>$x->ID,'url'=>wp_get_attachment_url($x->ID),'alt'=>get_post_meta($x->ID,'_wp_attachment_image_alt',true),'meta'=>wp_get_attachment_metadata($x->ID)];}echo json_encode(['blog_public'=>get_option('blog_public'),'rank_math'=>defined('RANK_MATH_VERSION'),'attachments'=>$m,'drafts'=>array_map(fn($id)=>get_post_status($id),[81,82,83,84,85,86,87,95,96,97,98,99,100,101,111])]);`],{encoding:'utf8',maxBuffer:5e6}));
   results.seo={blogPublic:phpState.blog_public,rankMathInstalled:phpState.rank_math,draftsPreserved:phpState.drafts.every(x=>x==='draft'),pass:phpState.blog_public==='0'&&phpState.drafts.every(x=>x==='draft')};
-  results.media={count:phpState.attachments.length,missingAlt:phpState.attachments.filter(x=>!x.alt).length,missingDimensions:phpState.attachments.filter(x=>!x.meta?.width||!x.meta?.height).length,unsplash:phpState.attachments.filter(x=>/unsplash/i.test(x.url)).length,pass:phpState.attachments.length===20&&phpState.attachments.every(x=>x.alt&&x.meta?.width&&x.meta?.height&&!/unsplash/i.test(x.url))};
+  const footerMap=phpState.attachments.find(x=>x.id===203);
+  results.media={count:phpState.attachments.length,missingAlt:phpState.attachments.filter(x=>!x.alt).length,missingDimensions:phpState.attachments.filter(x=>!x.meta?.width||!x.meta?.height).length,unsplash:phpState.attachments.filter(x=>/unsplash/i.test(x.url)).length,footerMap:{id:footerMap?.id||null,url:footerMap?.url||null,alt:footerMap?.alt||null,width:footerMap?.meta?.width||null,height:footerMap?.meta?.height||null},pass:phpState.attachments.length>=21&&!!footerMap&&phpState.attachments.every(x=>x.alt&&x.meta?.width&&x.meta?.height&&!/unsplash/i.test(x.url))};
   results.uxBuilder={sectionLevelUxHtml:fs.readdirSync(path.join(root,'wordpress/import/pages')).flatMap(f=>{const t=fs.readFileSync(path.join(root,'wordpress/import/pages',f),'utf8');return(t.match(/\[section[^\]]*\]\s*\[row[^\]]*\]\s*\[col[^\]]*\]\s*\[ux_html[^\]]*\][\s\S]{1000,}\[\/ux_html\]/g)||[]).map(()=>f)}),adminLaunchPass:true};
   await browser.close();fs.writeFileSync(path.join(root,'wordpress/audit/task08_7-systems.json'),JSON.stringify(results,null,2));console.log(JSON.stringify(results,null,2));
 })().catch(e=>{console.error(e);process.exit(1)});

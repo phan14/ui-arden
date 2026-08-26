@@ -1,23 +1,23 @@
 {
   "pages": 21,
-  "references": 3928,
-  "unique": 817,
+  "references": 4117,
+  "unique": 824,
   "broken": [
     {
       "ref": "http://localhost/mytest/xmlrpc.php",
       "url": "http://localhost/mytest/xmlrpc.php",
+      "status": 405,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/feed/",
+      "url": "http://localhost/mytest/feed/",
       "status": null,
       "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/comments/feed/",
       "url": "http://localhost/mytest/comments/feed/",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F&format=xml",
-      "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F&format=xml",
       "status": null,
       "classification": "broken"
     },
@@ -460,14 +460,8 @@
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
-      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/lien-he",
-      "url": "http://localhost/mytest/lien-he",
+      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=9e132cd5f4",
+      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=9e132cd5f4",
       "status": null,
       "classification": "broken"
     },
@@ -546,6 +540,12 @@
     {
       "ref": "http://localhost/mytest/tin-tuc",
       "url": "http://localhost/mytest/tin-tuc",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/lien-he",
+      "url": "http://localhost/mytest/lien-he",
       "status": null,
       "classification": "broken"
     },
@@ -634,20 +634,56 @@
       "classification": "broken"
     },
     {
-      "ref": "/lien-he/",
-      "url": "http://localhost/lien-he/",
+      "ref": "/",
+      "url": "http://localhost/",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "/bang-vai",
+      "url": "http://localhost/bang-vai",
       "status": 404,
       "classification": "broken"
     },
     {
-      "ref": "/chinh-sach/",
-      "url": "http://localhost/chinh-sach/",
+      "ref": "/huong-dan-techpack",
+      "url": "http://localhost/huong-dan-techpack",
       "status": 404,
       "classification": "broken"
     },
     {
-      "ref": "/tuyen-dung/",
-      "url": "http://localhost/tuyen-dung/",
+      "ref": "/chinh-sach#chung",
+      "url": "http://localhost/chinh-sach#chung",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-bao-mat",
+      "url": "http://localhost/chinh-sach#chinh-sach-bao-mat",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-thanh-toan",
+      "url": "http://localhost/chinh-sach#chinh-sach-thanh-toan",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-doi-tra",
+      "url": "http://localhost/chinh-sach#chinh-sach-doi-tra",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-van-chuyen",
+      "url": "http://localhost/chinh-sach#chinh-sach-van-chuyen",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/tuyen-dung",
+      "url": "http://localhost/tuyen-dung",
       "status": 404,
       "classification": "broken"
     },
@@ -672,6 +708,12 @@
     {
       "ref": "http://localhost/mytest/?p=81",
       "url": "http://localhost/mytest/?p=81",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
       "status": null,
       "classification": "broken"
     },
@@ -856,8 +898,20 @@
       "classification": "broken"
     },
     {
-      "ref": "/",
-      "url": "http://localhost/",
+      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
       "status": null,
       "classification": "broken"
     },
@@ -2670,12 +2724,6 @@
     {
       "ref": "http://localhost/mytest/wp-json/wp/v2/categories/1",
       "url": "http://localhost/mytest/wp-json/wp/v2/categories/1",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
-      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
       "status": null,
       "classification": "broken"
     },
@@ -4505,7 +4553,7 @@
     {
       "ref": "http://localhost/mytest/xmlrpc.php",
       "url": "http://localhost/mytest/xmlrpc.php",
-      "status": null,
+      "status": 405,
       "classification": "broken"
     },
     {
@@ -4545,8 +4593,8 @@
     {
       "ref": "http://localhost/mytest/feed/",
       "url": "http://localhost/mytest/feed/",
-      "status": 200,
-      "classification": "ok"
+      "status": null,
+      "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/comments/feed/",
@@ -4563,8 +4611,8 @@
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F&format=xml",
       "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F&format=xml",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-includes/css/dashicons.min.css?ver=7.1",
@@ -4596,8 +4644,8 @@
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1787731049",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1787731049",
       "status": 200,
       "classification": "ok"
     },
@@ -5105,8 +5153,8 @@
       "classification": "external-or-protocol"
     },
     {
-      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
-      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
+      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=9e132cd5f4",
+      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=9e132cd5f4",
       "status": null,
       "classification": "broken"
     },
@@ -5125,12 +5173,6 @@
       "ref": "#",
       "status": null,
       "classification": "hash-control"
-    },
-    {
-      "ref": "http://localhost/mytest/lien-he",
-      "url": "http://localhost/mytest/lien-he",
-      "status": null,
-      "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/gioi-thieu",
@@ -5207,6 +5249,12 @@
     {
       "ref": "http://localhost/mytest/tin-tuc",
       "url": "http://localhost/mytest/tin-tuc",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/lien-he",
+      "url": "http://localhost/mytest/lien-he",
       "status": null,
       "classification": "broken"
     },
@@ -5427,13 +5475,67 @@
       "classification": "external-or-protocol"
     },
     {
+      "ref": "/",
+      "url": "http://localhost/",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "/bang-vai",
+      "url": "http://localhost/bang-vai",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/huong-dan-techpack",
+      "url": "http://localhost/huong-dan-techpack",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
       "ref": "mailto:info@arden.com.vn",
       "status": null,
       "classification": "external-or-protocol"
     },
     {
-      "ref": "/lien-he/",
-      "url": "http://localhost/lien-he/",
+      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-footer-map.jpg",
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-footer-map.jpg",
+      "status": 200,
+      "classification": "ok"
+    },
+    {
+      "ref": "/chinh-sach#chung",
+      "url": "http://localhost/chinh-sach#chung",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-bao-mat",
+      "url": "http://localhost/chinh-sach#chinh-sach-bao-mat",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-thanh-toan",
+      "url": "http://localhost/chinh-sach#chinh-sach-thanh-toan",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-doi-tra",
+      "url": "http://localhost/chinh-sach#chinh-sach-doi-tra",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/chinh-sach#chinh-sach-van-chuyen",
+      "url": "http://localhost/chinh-sach#chinh-sach-van-chuyen",
+      "status": 404,
+      "classification": "broken"
+    },
+    {
+      "ref": "/tuyen-dung",
+      "url": "http://localhost/tuyen-dung",
       "status": 404,
       "classification": "broken"
     },
@@ -5451,18 +5553,6 @@
       "ref": "https://tiktok.com/@ardenfactory",
       "status": null,
       "classification": "external-or-protocol"
-    },
-    {
-      "ref": "/chinh-sach/",
-      "url": "http://localhost/chinh-sach/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/tuyen-dung/",
-      "url": "http://localhost/tuyen-dung/",
-      "status": 404,
-      "classification": "broken"
     },
     {
       "ref": "#top",
@@ -5517,8 +5607,8 @@
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1.1787728249",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1.1787728249",
       "status": 200,
       "classification": "ok"
     },
@@ -5547,6 +5637,12 @@
       "classification": "ok"
     },
     {
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+      "status": 200,
+      "classification": "ok"
+    },
+    {
       "ref": "http://localhost/mytest/wp-json/wp/v2/pages/81",
       "url": "http://localhost/mytest/wp-json/wp/v2/pages/81",
       "status": null,
@@ -5555,6 +5651,12 @@
     {
       "ref": "http://localhost/mytest/?p=81",
       "url": "http://localhost/mytest/?p=81",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
       "status": null,
       "classification": "broken"
     },
@@ -5739,28 +5841,22 @@
       "classification": "broken"
     },
     {
-      "ref": "/",
-      "url": "http://localhost/",
+      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
       "status": null,
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
-      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
-      "status": 200,
-      "classification": "ok"
-    },
-    {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
-      "status": 200,
-      "classification": "ok"
+      "status": null,
+      "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
-      "status": 200,
-      "classification": "ok"
+      "status": null,
+      "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D82",
@@ -7626,12 +7722,6 @@
     {
       "ref": "http://localhost/mytest/wp-json/wp/v2/categories/1",
       "url": "http://localhost/mytest/wp-json/wp/v2/categories/1",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
-      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
       "status": null,
       "classification": "broken"
     },

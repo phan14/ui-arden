@@ -1,0 +1,4465 @@
+{
+  "generatedAt": "2026-08-26T08:45:57.318Z",
+  "branch": "copilot-task08",
+  "head": "e3bd6e22d00353ebdc6100b4199cefacea998b8d",
+  "themeVersion": "2.0.1",
+  "draftCount": 15,
+  "blogPublic": "0",
+  "routes": 21,
+  "breakpoints": [
+    1440,
+    1024,
+    768,
+    390
+  ],
+  "combinations": 84,
+  "runtimePass": 84,
+  "responsivePass": 81,
+  "visualPass": 81,
+  "overallPass": 81,
+  "interactions": {
+    "total": 84,
+    "passed": 84
+  },
+  "forms": {
+    "total": 2,
+    "passed": 2
+  },
+  "dynamic": {
+    "total": 8,
+    "passed": 8
+  },
+  "media": {
+    "count": 21,
+    "missingAlt": 0,
+    "missingDimensions": 0,
+    "unsplash": 0,
+    "footerMap": {
+      "id": 203,
+      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-footer-map.jpg",
+      "alt": "Bản đồ chỉ đường Xưởng May Arden Tân Phú",
+      "width": 400,
+      "height": 273
+    },
+    "pass": true
+  },
+  "accessibility": {
+    "oneH1": true,
+    "tabs": 5,
+    "panels": 5,
+    "missingAlt": 0,
+    "reducedMotion": true
+  },
+  "seo": {
+    "blogPublic": "0",
+    "rankMathInstalled": false,
+    "draftsPreserved": true,
+    "pass": true
+  },
+  "admin": {
+    "total": 10,
+    "passed": 10
+  },
+  "staticValidation": {
+    "phpLint": "PASS",
+    "typescript": "PASS",
+    "reactBuild": "PASS",
+    "eslint": "N/A",
+    "shortcode": "PASS",
+    "legacyRawImport": "FAIL_APPROVED_NATIVE_NORMALIZATION",
+    "diffCheck": "PASS"
+  },
+  "severity": {
+    "p0": 0,
+    "p1": 3,
+    "p2": 2,
+    "p3": 1
+  },
+  "approvedForTask09": false,
+  "matrix": [
+    {
+      "name": "Home",
+      "width": 1440,
+      "reactPath": "/",
+      "wpPath": "/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9478021978021978,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": false,
+          "images": false,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "color"
+          ],
+          "h2": [
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Home",
+      "width": 1024,
+      "reactPath": "/",
+      "wpPath": "/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9478021978021978,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": false,
+          "images": false,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Home",
+      "width": 768,
+      "reactPath": "/",
+      "wpPath": "/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9478021978021978,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": false,
+          "images": false,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Home",
+      "width": 390,
+      "reactPath": "/",
+      "wpPath": "/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9478021978021978,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": false,
+          "images": false,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ]
+        }
+      }
+    },
+    {
+      "name": "About",
+      "width": 1440,
+      "reactPath": "/gioi-thieu",
+      "wpPath": "/?page_id=81&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "About",
+      "width": 1024,
+      "reactPath": "/gioi-thieu",
+      "wpPath": "/?page_id=81&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "About",
+      "width": 768,
+      "reactPath": "/gioi-thieu",
+      "wpPath": "/?page_id=81&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "About",
+      "width": 390,
+      "reactPath": "/gioi-thieu",
+      "wpPath": "/?page_id=81&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Services",
+      "width": 1440,
+      "reactPath": "/dich-vu",
+      "wpPath": "/?page_id=82&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Services",
+      "width": 1024,
+      "reactPath": "/dich-vu",
+      "wpPath": "/?page_id=82&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Services",
+      "width": 768,
+      "reactPath": "/dich-vu",
+      "wpPath": "/?page_id=82&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Services",
+      "width": 390,
+      "reactPath": "/dich-vu",
+      "wpPath": "/?page_id=82&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "T-Shirt Service",
+      "width": 1440,
+      "reactPath": "/dich-vu/may-ao-thun",
+      "wpPath": "/?page_id=83&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9237472766884531,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "T-Shirt Service",
+      "width": 1024,
+      "reactPath": "/dich-vu/may-ao-thun",
+      "wpPath": "/?page_id=83&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9237472766884531,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "T-Shirt Service",
+      "width": 768,
+      "reactPath": "/dich-vu/may-ao-thun",
+      "wpPath": "/?page_id=83&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9237472766884531,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "T-Shirt Service",
+      "width": 390,
+      "reactPath": "/dich-vu/may-ao-thun",
+      "wpPath": "/?page_id=83&preview=true",
+      "runtime": "PASS",
+      "responsive": "FAIL",
+      "visual": "FAIL",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "FAIL",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 3,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9237472766884531,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Shirt Service",
+      "width": 1440,
+      "reactPath": "/dich-vu/may-ao-so-mi",
+      "wpPath": "/?page_id=84&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Shirt Service",
+      "width": 1024,
+      "reactPath": "/dich-vu/may-ao-so-mi",
+      "wpPath": "/?page_id=84&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Shirt Service",
+      "width": 768,
+      "reactPath": "/dich-vu/may-ao-so-mi",
+      "wpPath": "/?page_id=84&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Shirt Service",
+      "width": 390,
+      "reactPath": "/dich-vu/may-ao-so-mi",
+      "wpPath": "/?page_id=84&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Jacket Service",
+      "width": 1440,
+      "reactPath": "/dich-vu/may-ao-khoac",
+      "wpPath": "/?page_id=85&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Jacket Service",
+      "width": 1024,
+      "reactPath": "/dich-vu/may-ao-khoac",
+      "wpPath": "/?page_id=85&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Jacket Service",
+      "width": 768,
+      "reactPath": "/dich-vu/may-ao-khoac",
+      "wpPath": "/?page_id=85&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Jacket Service",
+      "width": 390,
+      "reactPath": "/dich-vu/may-ao-khoac",
+      "wpPath": "/?page_id=85&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Pants Service",
+      "width": 1440,
+      "reactPath": "/dich-vu/may-quan",
+      "wpPath": "/?page_id=86&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Pants Service",
+      "width": 1024,
+      "reactPath": "/dich-vu/may-quan",
+      "wpPath": "/?page_id=86&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Pants Service",
+      "width": 768,
+      "reactPath": "/dich-vu/may-quan",
+      "wpPath": "/?page_id=86&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Pants Service",
+      "width": 390,
+      "reactPath": "/dich-vu/may-quan",
+      "wpPath": "/?page_id=86&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Manufacturing",
+      "width": 1440,
+      "reactPath": "/nang-luc-san-xuat",
+      "wpPath": "/?page_id=87&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Manufacturing",
+      "width": 1024,
+      "reactPath": "/nang-luc-san-xuat",
+      "wpPath": "/?page_id=87&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Manufacturing",
+      "width": 768,
+      "reactPath": "/nang-luc-san-xuat",
+      "wpPath": "/?page_id=87&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Manufacturing",
+      "width": 390,
+      "reactPath": "/nang-luc-san-xuat",
+      "wpPath": "/?page_id=87&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Projects",
+      "width": 1440,
+      "reactPath": "/du-an",
+      "wpPath": "/du-an/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Projects",
+      "width": 1024,
+      "reactPath": "/du-an",
+      "wpPath": "/du-an/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Projects",
+      "width": 768,
+      "reactPath": "/du-an",
+      "wpPath": "/du-an/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Projects",
+      "width": 390,
+      "reactPath": "/du-an",
+      "wpPath": "/du-an/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Case Study",
+      "width": 1440,
+      "reactPath": "/du-an/bst-ao-thun-local-brand",
+      "wpPath": "/?post_type=project&p=110&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": [
+            "color",
+            "backgroundColor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Case Study",
+      "width": 1024,
+      "reactPath": "/du-an/bst-ao-thun-local-brand",
+      "wpPath": "/?post_type=project&p=110&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": [
+            "color",
+            "backgroundColor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Case Study",
+      "width": 768,
+      "reactPath": "/du-an/bst-ao-thun-local-brand",
+      "wpPath": "/?post_type=project&p=110&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": [
+            "color",
+            "backgroundColor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Case Study",
+      "width": 390,
+      "reactPath": "/du-an/bst-ao-thun-local-brand",
+      "wpPath": "/?post_type=project&p=110&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": [
+            "color",
+            "backgroundColor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "News",
+      "width": 1440,
+      "reactPath": "/tin-tuc",
+      "wpPath": "/?page_id=111&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "News",
+      "width": 1024,
+      "reactPath": "/tin-tuc",
+      "wpPath": "/?page_id=111&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "News",
+      "width": 768,
+      "reactPath": "/tin-tuc",
+      "wpPath": "/?page_id=111&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "News",
+      "width": 390,
+      "reactPath": "/tin-tuc",
+      "wpPath": "/?page_id=111&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Category",
+      "width": 1440,
+      "reactPath": "/chuyen-muc/chua-phan-loai",
+      "wpPath": "/chuyen-muc/chua-phan-loai/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Category",
+      "width": 1024,
+      "reactPath": "/chuyen-muc/chua-phan-loai",
+      "wpPath": "/chuyen-muc/chua-phan-loai/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Category",
+      "width": 768,
+      "reactPath": "/chuyen-muc/chua-phan-loai",
+      "wpPath": "/chuyen-muc/chua-phan-loai/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Category",
+      "width": 390,
+      "reactPath": "/chuyen-muc/chua-phan-loai",
+      "wpPath": "/chuyen-muc/chua-phan-loai/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "color"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Fabric Guide",
+      "width": 1440,
+      "reactPath": "/bang-vai",
+      "wpPath": "/?page_id=100&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Fabric Guide",
+      "width": 1024,
+      "reactPath": "/bang-vai",
+      "wpPath": "/?page_id=100&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Fabric Guide",
+      "width": 768,
+      "reactPath": "/bang-vai",
+      "wpPath": "/?page_id=100&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Fabric Guide",
+      "width": 390,
+      "reactPath": "/bang-vai",
+      "wpPath": "/?page_id=100&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Techpack Guide",
+      "width": 1440,
+      "reactPath": "/huong-dan-techpack",
+      "wpPath": "/?page_id=101&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Techpack Guide",
+      "width": 1024,
+      "reactPath": "/huong-dan-techpack",
+      "wpPath": "/?page_id=101&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Techpack Guide",
+      "width": 768,
+      "reactPath": "/huong-dan-techpack",
+      "wpPath": "/?page_id=101&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Techpack Guide",
+      "width": 390,
+      "reactPath": "/huong-dan-techpack",
+      "wpPath": "/?page_id=101&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "backgroundColor"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "FAQ",
+      "width": 1440,
+      "reactPath": "/faq",
+      "wpPath": "/?page_id=95&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8697478991596639,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": true,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "FAQ",
+      "width": 1024,
+      "reactPath": "/faq",
+      "wpPath": "/?page_id=95&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8697478991596639,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": true,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "FAQ",
+      "width": 768,
+      "reactPath": "/faq",
+      "wpPath": "/?page_id=95&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8697478991596639,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": true,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "FAQ",
+      "width": 390,
+      "reactPath": "/faq",
+      "wpPath": "/?page_id=95&preview=true",
+      "runtime": "PASS",
+      "responsive": "FAIL",
+      "visual": "FAIL",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "FAIL",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 1,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8697478991596639,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": true,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "lineHeight",
+            "letterSpacing",
+            "borderRadius"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Contact",
+      "width": 1440,
+      "reactPath": "/lien-he",
+      "wpPath": "/?page_id=96&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Contact",
+      "width": 1024,
+      "reactPath": "/lien-he",
+      "wpPath": "/?page_id=96&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Contact",
+      "width": 768,
+      "reactPath": "/lien-he",
+      "wpPath": "/?page_id=96&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Contact",
+      "width": 390,
+      "reactPath": "/lien-he",
+      "wpPath": "/?page_id=96&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Quote",
+      "width": 1440,
+      "reactPath": "/bao-gia",
+      "wpPath": "/?page_id=97&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8897058823529411,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Quote",
+      "width": 1024,
+      "reactPath": "/bao-gia",
+      "wpPath": "/?page_id=97&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8897058823529411,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Quote",
+      "width": 768,
+      "reactPath": "/bao-gia",
+      "wpPath": "/?page_id=97&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8897058823529411,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Quote",
+      "width": 390,
+      "reactPath": "/bao-gia",
+      "wpPath": "/?page_id=97&preview=true",
+      "runtime": "PASS",
+      "responsive": "FAIL",
+      "visual": "FAIL",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "FAIL",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 10,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.8897058823529411,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": false
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Careers",
+      "width": 1440,
+      "reactPath": "/tuyen-dung",
+      "wpPath": "/?page_id=98&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9595959595959596,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Careers",
+      "width": 1024,
+      "reactPath": "/tuyen-dung",
+      "wpPath": "/?page_id=98&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9595959595959596,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Careers",
+      "width": 768,
+      "reactPath": "/tuyen-dung",
+      "wpPath": "/?page_id=98&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9595959595959596,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Careers",
+      "width": 390,
+      "reactPath": "/tuyen-dung",
+      "wpPath": "/?page_id=98&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 0.9595959595959596,
+        "structure": {
+          "h1": true,
+          "h2": true,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "Policies",
+      "width": 1440,
+      "reactPath": "/chinh-sach",
+      "wpPath": "/?page_id=99&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": false,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Policies",
+      "width": 1024,
+      "reactPath": "/chinh-sach",
+      "wpPath": "/?page_id=99&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": false,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Policies",
+      "width": 768,
+      "reactPath": "/chinh-sach",
+      "wpPath": "/?page_id=99&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": false,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [],
+          "h2": [
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Policies",
+      "width": 390,
+      "reactPath": "/chinh-sach",
+      "wpPath": "/?page_id=99&preview=true",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "PASS",
+      "structure": "PASS",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": 1,
+        "structure": {
+          "h1": true,
+          "h2": false,
+          "h3": true,
+          "images": true,
+          "buttons": false,
+          "fields": true
+        },
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [
+            "fontSize",
+            "letterSpacing",
+            "color"
+          ],
+          "body": [
+            "fontSize",
+            "lineHeight",
+            "color"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Search",
+      "width": 1440,
+      "reactPath": "/tim-kiem",
+      "wpPath": "/?s=may",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Search",
+      "width": 1024,
+      "reactPath": "/tim-kiem",
+      "wpPath": "/?s=may",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Search",
+      "width": 768,
+      "reactPath": "/tim-kiem",
+      "wpPath": "/?s=may",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Search",
+      "width": 390,
+      "reactPath": "/tim-kiem",
+      "wpPath": "/?s=may",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 200,
+        "expectedStatus": 200,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color"
+          ],
+          "h2": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontWeight",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "card": [
+            "missing"
+          ]
+        }
+      }
+    },
+    {
+      "name": "404",
+      "width": 1440,
+      "reactPath": "/task08-5-invalid",
+      "wpPath": "/task08-5-invalid/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 404,
+        "expectedStatus": 404,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "404",
+      "width": 1024,
+      "reactPath": "/task08-5-invalid",
+      "wpPath": "/task08-5-invalid/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 404,
+        "expectedStatus": 404,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "404",
+      "width": 768,
+      "reactPath": "/task08-5-invalid",
+      "wpPath": "/task08-5-invalid/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 404,
+        "expectedStatus": 404,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    },
+    {
+      "name": "404",
+      "width": 390,
+      "reactPath": "/task08-5-invalid",
+      "wpPath": "/task08-5-invalid/",
+      "runtime": "PASS",
+      "responsive": "PASS",
+      "visual": "PASS",
+      "content": "N/A",
+      "structure": "N/A",
+      "overall": "PASS",
+      "diagnostics": {
+        "status": 404,
+        "expectedStatus": 404,
+        "overflow": false,
+        "clippedControls": 0,
+        "brokenImages": 0,
+        "rawShortcode": false,
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "pageErrors": [],
+        "contentSimilarity": null,
+        "structure": null,
+        "styleDiff": {
+          "h1": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing"
+          ],
+          "h2": [],
+          "body": [
+            "fontWeight",
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "button": [
+            "fontSize",
+            "lineHeight",
+            "letterSpacing",
+            "color",
+            "backgroundColor",
+            "borderRadius"
+          ],
+          "card": []
+        }
+      }
+    }
+  ]
+}

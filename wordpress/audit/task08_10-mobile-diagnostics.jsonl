@@ -1,0 +1,1028 @@
+﻿{
+  "name": "T-Shirt",
+  "innerWidth": 390,
+  "scrollWidth": 390,
+  "clipped": [
+    {
+      "selector": "a",
+      "text": "VẢI CÁ SẤU COTTON / POLY",
+      "rect": {
+        "left": 315.09375,
+        "right": 402.109375,
+        "width": 87.015625
+      },
+      "style": {
+        "width": "87.0156px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "inline-flex",
+        "padding": "8px 16px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "li#tab-vải-cá-sấu-cotton-/-poly",
+        "rect": {
+          "left": 315.09375,
+          "right": 402.109375,
+          "width": 87.015625
+        },
+        "display": "block",
+        "width": "87.0156px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "a",
+      "text": "VẢI INTERLOCK / CHÂN CUA",
+      "rect": {
+        "left": 415.109375,
+        "right": 521.265625,
+        "width": 106.15625
+      },
+      "style": {
+        "width": "106.156px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "inline-flex",
+        "padding": "8px 16px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "li#tab-vải-interlock-/-chân-cua",
+        "rect": {
+          "left": 415.109375,
+          "right": 521.265625,
+          "width": 106.15625
+        },
+        "display": "block",
+        "width": "106.156px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "a",
+      "text": "300 GSM",
+      "rect": {
+        "left": 380.703125,
+        "right": 440.84375,
+        "width": 60.140625
+      },
+      "style": {
+        "width": "60.1406px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "inline-flex",
+        "padding": "8px 16px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "li#tab-300-gsm",
+        "rect": {
+          "left": 380.703125,
+          "right": 440.84375,
+          "width": 60.140625
+        },
+        "display": "block",
+        "width": "60.1406px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    }
+  ],
+  "ancestors": [
+    {
+      "selector": "a",
+      "left": 315.09375,
+      "right": 402.109375,
+      "width": 87.015625,
+      "display": "inline-flex",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "8px 16px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "li#tab-vải-cá-sấu-cotton-/-poly",
+      "left": 315.09375,
+      "right": 402.109375,
+      "width": 87.015625,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px 7px 0px 0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "ul.nav.nav-line.nav-uppercase.nav-size-normal",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "flex",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "auto"
+    },
+    {
+      "selector": "div.tabbed-content.arden-fabric-tabs",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "flex",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.col-inner",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#col-1983703367",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px 15px 30px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#row-77470418",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "flex",
+      "minWidth": "0px",
+      "maxWidth": "1280px",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.section-content.relative",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    }
+  ]
+}
+{
+  "name": "FAQ",
+  "innerWidth": 390,
+  "scrollWidth": 390,
+  "clipped": [
+    {
+      "selector": "a",
+      "text": "HỢP ĐỒNG & THANH TOÁN",
+      "rect": {
+        "left": 342.6875,
+        "right": 421.515625,
+        "width": 78.828125
+      },
+      "style": {
+        "width": "78.8281px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "inline-flex",
+        "padding": "8px 16px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "li#tab-hợp-đồng-&-thanh-toán",
+        "rect": {
+          "left": 342.6875,
+          "right": 421.515625,
+          "width": 78.828125
+        },
+        "display": "block",
+        "width": "78.8281px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    }
+  ],
+  "ancestors": [
+    {
+      "selector": "a",
+      "left": 342.6875,
+      "right": 421.515625,
+      "width": 78.828125,
+      "display": "inline-flex",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "8px 16px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "li#tab-hợp-đồng-&-thanh-toán",
+      "left": 342.6875,
+      "right": 421.515625,
+      "width": 78.828125,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "ul.nav.nav-line.nav-uppercase.nav-size-normal",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "flex",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "auto"
+    },
+    {
+      "selector": "div.tabbed-content.arden-faq-tabs",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "flex",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.col-inner",
+      "left": 15,
+      "right": 375,
+      "width": 360,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#col-1692198794",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "768px",
+      "padding": "0px 15px 30px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#row-34840394",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "flex",
+      "minWidth": "0px",
+      "maxWidth": "1280px",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.section-content.relative",
+      "left": 0,
+      "right": 390,
+      "width": 390,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    }
+  ]
+}
+{
+  "name": "Quote",
+  "innerWidth": 390,
+  "scrollWidth": 390,
+  "clipped": [
+    {
+      "selector": "label",
+      "text": "Loại sản phẩm: Áo thun Oversize / Boxy Áo thun Polo bo dệt Áo sơ mi Oxford / Cuban Quần Short / Carg",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "select.wpcf7-form-control.wpcf7-select",
+      "text": "Áo thun Oversize / Boxy Áo thun Polo bo dệt Áo sơ mi Oxford / Cuban Quần Short / Cargo Pants Áo khoá",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre",
+        "display": "block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Số lượng đặt may dự kiến: 30 - 50 sản phẩm 50 - 100 sản phẩm 100 - 300 sản phẩm 300 - 500 sản phẩm T",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "select.wpcf7-form-control.wpcf7-select",
+      "text": "30 - 50 sản phẩm 50 - 100 sản phẩm 100 - 300 sản phẩm 300 - 500 sản phẩm Trên 500 sản phẩm",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre",
+        "display": "block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Chất liệu vải mong muốn: Cotton 100% 2C (230-250 GSM) Cotton 100% 4C (210-230 GSM) Vải Cá Sấu Cotton",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "select.wpcf7-form-control.wpcf7-select",
+      "text": "Cotton 100% 2C (230-250 GSM) Cotton 100% 4C (210-230 GSM) Vải Cá Sấu Cotton / Poly Vải Oxford / Đũi ",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre",
+        "display": "block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Tình trạng thiết kế & Rập mẫu: yes no need_design",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "select.wpcf7-form-control.wpcf7-select",
+      "text": "yes no need_design",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre",
+        "display": "block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Họ và tên của bạn: *",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required",
+      "text": "",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "normal",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Số điện thoại / Zalo nhận báo giá: *",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "input.wpcf7-form-control.wpcf7-tel.wpcf7-validates-as-required.wpcf7-text",
+      "text": "",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "normal",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Tên thương hiệu / Local Brand (nếu có):",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "input.wpcf7-form-control.wpcf7-text",
+      "text": "",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "normal",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Email tiếp nhận file báo giá:",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "input.wpcf7-form-control.wpcf7-email.wpcf7-text.wpcf7-validates-as-email",
+      "text": "",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "normal",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "label",
+      "text": "Ghi chú chi tiết yêu cầu bổ sung:",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "whiteSpace": "normal",
+        "display": "block",
+        "padding": "0px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "textarea.wpcf7-form-control.wpcf7-textarea",
+      "text": "",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre-wrap",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "span.wpcf7-form-control-wrap",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "0px",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    },
+    {
+      "selector": "input.wpcf7-form-control.wpcf7-submit.has-spinner",
+      "text": "XÁC NHẬN GỬI YÊU CẦU BÁO GIÁ NHANH",
+      "rect": {
+        "left": 16,
+        "right": 415.453125,
+        "width": 399.453125
+      },
+      "style": {
+        "width": "399.453px",
+        "minWidth": "0px",
+        "maxWidth": "100%",
+        "whiteSpace": "pre",
+        "display": "inline-block",
+        "padding": "12px 14px",
+        "boxSizing": "border-box"
+      },
+      "parent": {
+        "selector": "p",
+        "rect": {
+          "left": 16,
+          "right": 415.453125,
+          "width": 399.453125
+        },
+        "display": "block",
+        "width": "399.453px",
+        "minWidth": "auto",
+        "overflowX": "visible",
+        "gap": "normal"
+      }
+    }
+  ],
+  "ancestors": [
+    {
+      "selector": "label",
+      "left": 16,
+      "right": 415.453125,
+      "width": 399.453125,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px 0px 6px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "p",
+      "left": 16,
+      "right": 415.453125,
+      "width": 399.453125,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.arden-cf7-form.arden-cf7-form--quote",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "grid",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "form.wpcf7-form.init",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px 0px 20.8px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#wpcf7-f175-p97-o1",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div.col-inner",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "block",
+      "minWidth": "0px",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#col-497812093",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "block",
+      "minWidth": "auto",
+      "maxWidth": "none",
+      "padding": "0px",
+      "margin": "0px",
+      "overflowX": "visible"
+    },
+    {
+      "selector": "div#row-1383469194",
+      "left": 16,
+      "right": 374,
+      "width": 358,
+      "display": "flex",
+      "minWidth": "0px",
+      "maxWidth": "1280px",
+      "padding": "0px",
+      "margin": "0px 16px",
+      "overflowX": "visible"
+    }
+  ]
+}

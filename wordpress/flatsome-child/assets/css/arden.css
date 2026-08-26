@@ -67,6 +67,7 @@
 .arden-react-page :where(button, .button) { font-family: var(--arden-font-body) !important; }
 .arden-react-page :where(p, li, button, .button, input, select, textarea) { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important; }
 .arden-react-page :where(h1, h2) { color: oklch(0.129 0.042 264.695) !important; }
+.arden-react-page :where(.bg-slate-900, .arden-cta, .arden-section--dark) :where(h1, h2, h3, h4) { color: #fff !important; }
 .arden-pilot.arden-page-banner h1 { line-height: 1.25; letter-spacing: -.025em; }
 .arden-react-page .ux-text[class*="text-"] :where(p, h1, h2, h3, h4, h5, h6, li) { color: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; letter-spacing: inherit !important; }
 .arden-react-page .tracking-tight { letter-spacing: -.025em !important; }
@@ -268,7 +269,91 @@
 .arden-site .header-button .button { border-radius: var(--arden-radius-md); }
 .arden-site .header-wrapper.stuck, .arden-site .header-wrapper .stuck { box-shadow: 0 8px 24px rgb(15 23 42 / 8%); }
 .arden-site .header-top { min-height: 28px; background: var(--arden-text); color: #cbd5e1; font-size: 11px; }
+.arden-site .header-top { height: 34px; min-height: 34px; border-bottom: 1px solid #1e293b; background: #0f172a; }
+.arden-site .header-top .flex-row { width: min(calc(100% - 64px), 1280px); max-width: 1280px; }
+.arden-site .header-top :where(.html_topbar_left, .html_topbar_right) { color: #cbd5e1; font: 400 11px/16px var(--arden-font-body); letter-spacing: 0; text-transform: none; }
+.arden-site .header-top .html_topbar_left::before { margin-right: 6px; color: #fbbf24; content: "◷"; }
+.arden-site .header-top .html_topbar_left { display: flex; align-items: center; }
+.arden-site .header-top .html_topbar_right { display: flex; align-items: center; gap: 8px; }
+.arden-site .header-top .html_topbar_right a:first-child { color: #fff; font-weight: 700; }
+.arden-site .header-top .html_topbar_right a:first-child::before { margin-right: 5px; color: #fbbf24; content: "☎"; }
+.arden-site .header-top .html_topbar_right a:last-child { color: #60a5fa; font-weight: 500; }
+.arden-site .header-top .html_topbar_right a:last-child::before { margin-right: 5px; content: "▢"; }
+.arden-site .header-main .header-inner { width: min(calc(100% - 64px), 1280px); max-width: 1280px; }
 .arden-site .mobile-sidebar .nav > li > a { min-height: 44px; }
+
+/* Task 08.9: React-faithful native Policies composition. Interaction remains Flatsome tabs. */
+.arden-react-page--policies > .section:first-of-type {
+  background-color: #f8fafc;
+  background-image: radial-gradient(#cbd5e1 1px, transparent 1px), linear-gradient(to bottom, #f8fafc, rgb(239 246 255 / 30%), rgb(241 245 249 / 80%));
+  background-size: 20px 20px, auto;
+  background-position: 0 0, 0 0;
+}
+.arden-react-page--policies > .section:first-of-type .section-content > .row,
+.arden-react-page--policies > .section:nth-of-type(2) .section-content > .row,
+.arden-react-page--policies > .section:nth-of-type(3) .section-content > .row { width: min(calc(100% - 64px), 1280px); max-width: 1280px; }
+.arden-react-page--policies > .section:first-of-type .col-inner > .ux-text > p,
+.arden-react-page--policies > .section:nth-of-type(3) .col-inner > .ux-text:first-of-type p {
+  display: inline-flex; align-items: center; gap: 6px; margin: 20px 0 8px; padding: 6px 12px; border: 1px solid #bedbff; border-radius: 999px; background: rgb(255 255 255 / 80%); color: #1e3a8a; font-size: 12px; font-weight: 700; line-height: 16px; letter-spacing: .05em; text-transform: uppercase;
+}
+.arden-react-page--policies > .section:first-of-type .col-inner > .ux-text > p::before,
+.arden-react-page--policies > .section:nth-of-type(3) .col-inner > .ux-text:first-of-type p::before { color: #2563eb; content: "✣"; }
+.arden-react-page--policies .arden-policy-tabs { display: grid; grid-template-columns: minmax(0, 4fr) minmax(0, 8fr); gap: 40px; align-items: start; }
+.arden-react-page--policies .arden-policy-tabs > .nav { display: flex; flex-direction: column; gap: 8px; width: 100%; margin: 0; border: 0; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li { width: 100%; margin: 0; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li > a { display: flex; min-height: 48px; align-items: center; width: 100%; padding: 14px; border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; color: #334155; font-size: 12px; font-weight: 700; line-height: 16px; letter-spacing: .05em; text-align: left; text-transform: uppercase; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li > a::before { width: 18px; flex: 0 0 18px; margin-right: 10px; color: #64748b; font-size: 15px; text-align: center; content: "□"; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li:nth-child(2) > a::before { content: "♙"; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li:nth-child(3) > a::before { content: "▭"; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li:nth-child(4) > a::before { content: "↻"; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li:nth-child(5) > a::before { content: "▱"; }
+.arden-react-page--policies .arden-policy-tabs > .nav > li.active > a,
+.arden-react-page--policies .arden-policy-tabs > .nav > li > a[aria-selected="true"] { border-color: #1e3a8a; background: #1e3a8a; color: #fff; box-shadow: 0 1px 2px rgb(0 0 0 / 5%); }
+.arden-react-page--policies .arden-policy-tabs > .nav > li.active > a::before,
+.arden-react-page--policies .arden-policy-tabs > .nav > li > a[aria-selected="true"]::before { color: #fbbf24; }
+.arden-react-page--policies .arden-policy-tabs > .tab-panels { width: 100%; padding: 24px 32px; border: 1px solid #e2e8f0; border-radius: 16px; background: #f8fafc; box-shadow: 0 1px 2px rgb(0 0 0 / 5%); }
+.arden-react-page--policies .arden-policy-tabs .panel { padding: 0; }
+.arden-react-page--policies .arden-policy-tabs .panel > div:first-child { position: relative; min-height: 56px; padding: 6px 0 16px 52px; }
+.arden-react-page--policies .arden-policy-tabs .panel > div:first-child::before { position: absolute; top: 0; left: 0; display: flex; width: 40px; height: 40px; align-items: center; justify-content: center; border-radius: 12px; background: #1e3a8a; color: #fff; content: "▤"; }
+.arden-react-page--policies .arden-policy-tabs h2 { margin: 0; font-size: 20px; line-height: 28px; }
+.arden-react-page--policies .arden-policy-tabs .panel > .pt-2 { padding-top: 8px; }
+.arden-react-page--policies .arden-policy-tabs :where(.rounded-xl) { border-radius: 12px; }
+.arden-react-page--policies .arden-policy-tabs :where(.p-4) { padding: 16px; }
+.arden-react-page--policies .arden-policy-tabs :where(p) { margin-bottom: 16px; }
+.arden-react-page--policies .arden-policy-tabs :where(li) { margin-bottom: 4px; }
+.arden-react-page--policies > .section:nth-of-type(3) {
+  background-color: #0f172a;
+  background-image: radial-gradient(#38bdf8 1px, transparent 1px);
+  background-size: 24px 24px;
+  text-align: center;
+}
+.arden-react-page--policies > .section:nth-of-type(3) .col-inner > .ux-text:first-of-type p { margin-top: 0; border-color: rgb(59 130 246 / 40%); background: rgb(30 58 138 / 25%); color: #60a5fa; }
+.arden-react-page--policies > .section:nth-of-type(3) h2 { max-width: 900px; margin: 12px auto 24px; }
+.arden-react-page--policies > .section:nth-of-type(3) .max-w-2xl { margin-inline: auto; }
+.arden-react-page--policies > .section:nth-of-type(3) .button { margin-top: 24px; }
+
+@media (max-width: 1023px) {
+  .arden-react-page--policies .arden-policy-tabs { grid-template-columns: 1fr; gap: 24px; }
+  .arden-react-page--policies .arden-policy-tabs > .nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 767px) {
+  .arden-site .header-top { display: none; }
+  .arden-site .header-main .header-inner { width: min(calc(100% - 32px), 1280px); }
+  .arden-react-page--policies > .section:first-of-type .section-content > .row,
+  .arden-react-page--policies > .section:nth-of-type(2) .section-content > .row,
+  .arden-react-page--policies > .section:nth-of-type(3) .section-content > .row { width: min(calc(100% - 32px), 1280px); }
+  .arden-react-page--policies .arden-policy-tabs > .nav { grid-template-columns: 1fr; }
+  .arden-react-page--policies .arden-policy-tabs > .tab-panels { padding: 24px; }
+  .arden-react-page--policies > .section:nth-of-type(3) .button { display: flex; width: 100%; white-space: normal; }
+}
+
+@media (max-width: 849px) {
+  .arden-site .header-main .header-inner { justify-content: flex-start; }
+  .arden-site .header-main .header-inner > .flex-left { order: 3; flex: 0 0 auto; }
+  .arden-site .header-main .header-inner > .flex-center { position: static; order: 1; flex: 0 0 auto; transform: none; }
+  .arden-site .header-main .header-inner > .flex-right { order: 2; flex: 0 0 auto; margin-left: auto; }
+}
 
 /* Footer / reusable footer UX Block support. */
 .arden-footer { padding-top: 48px; background: var(--arden-text); color: #cbd5e1; }
@@ -375,4 +460,48 @@
 
 @media (prefers-reduced-motion: reduce) {
   .arden-page *, .arden-page *::before, .arden-page *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+
+/* Task 08.10: scoped 390px control containment, matching the React mobile grids. */
+@media (max-width: 480px) {
+  .arden-react-page :is(.arden-fabric-tabs, .arden-gsm-tabs, .arden-faq-tabs) > .nav {
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+    gap: 6px;
+    overflow: visible;
+  }
+  .arden-react-page .arden-fabric-tabs > .nav,
+  .arden-react-page .arden-faq-tabs > .nav { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+  .arden-react-page .arden-gsm-tabs > .nav { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  .arden-react-page :is(.arden-fabric-tabs, .arden-gsm-tabs, .arden-faq-tabs) > .nav > li {
+    width: 100%;
+    min-width: 0;
+    margin: 0;
+  }
+  .arden-react-page :is(.arden-fabric-tabs, .arden-gsm-tabs, .arden-faq-tabs) > .nav > li > a {
+    width: 100%;
+    min-width: 0;
+    height: 100%;
+    padding: 7px 3px;
+    justify-content: center;
+    font-size: 8px;
+    line-height: 11px;
+    text-align: center;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+  .arden-react-page .arden-cf7-form--quote,
+  .arden-react-page .arden-cf7-form--quote > *,
+  .arden-react-page .arden-cf7-form--quote :where(p, label, .wpcf7-form-control-wrap, input, select, textarea) {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+  .arden-react-page .arden-cf7-form--quote input[type="submit"] {
+    padding-inline: 10px;
+    font-size: 10px;
+    letter-spacing: .04em;
+  }
 }

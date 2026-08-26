@@ -3644,7 +3644,7 @@
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.9px",
-            "color": "oklch(0.129 0.042 264.695)",
+            "color": "rgb(255, 255, 255)",
             "backgroundColor": "rgba(0, 0, 0, 0)",
             "borderRadius": "0px"
           },
@@ -3683,9 +3683,7 @@
     },
     "styleDiff": {
       "h1": [],
-      "h2": [
-        "color"
-      ],
+      "h2": [],
       "body": [
         "fontSize",
         "lineHeight",
@@ -3808,7 +3806,7 @@
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.9px",
-            "color": "oklch(0.129 0.042 264.695)",
+            "color": "rgb(255, 255, 255)",
             "backgroundColor": "rgba(0, 0, 0, 0)",
             "borderRadius": "0px"
           },
@@ -3847,9 +3845,7 @@
     },
     "styleDiff": {
       "h1": [],
-      "h2": [
-        "color"
-      ],
+      "h2": [],
       "body": [
         "fontSize",
         "lineHeight",
@@ -3972,7 +3968,7 @@
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.9px",
-            "color": "oklch(0.129 0.042 264.695)",
+            "color": "rgb(255, 255, 255)",
             "backgroundColor": "rgba(0, 0, 0, 0)",
             "borderRadius": "0px"
           },
@@ -4011,9 +4007,7 @@
     },
     "styleDiff": {
       "h1": [],
-      "h2": [
-        "color"
-      ],
+      "h2": [],
       "body": [
         "fontSize",
         "lineHeight",
@@ -4136,7 +4130,7 @@
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.9px",
-            "color": "oklch(0.129 0.042 264.695)",
+            "color": "rgb(255, 255, 255)",
             "backgroundColor": "rgba(0, 0, 0, 0)",
             "borderRadius": "0px"
           },
@@ -4175,9 +4169,7 @@
     },
     "styleDiff": {
       "h1": [],
-      "h2": [
-        "color"
-      ],
+      "h2": [],
       "body": [
         "fontSize",
         "lineHeight",
