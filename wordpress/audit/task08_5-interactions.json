@@ -1,10 +1,10 @@
 [
   {
     "name": "Header desktop dropdown",
-    "pass": false,
+    "pass": true,
     "detail": {
-      "pass": false,
-      "visibleChildren": 0
+      "pass": true,
+      "visibleChildren": 8
     }
   },
   {
@@ -111,10 +111,10 @@
   },
   {
     "name": "CF7 telephone validation",
-    "pass": true,
+    "pass": false,
     "detail": {
-      "pass": true,
-      "invalid": 1
+      "pass": false,
+      "invalid": 0
     }
   }
 ]

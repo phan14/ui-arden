@@ -149,6 +149,12 @@ function arden_inline_icon_shortcode( $atts ) {
 }
 add_shortcode( 'arden_icon', 'arden_inline_icon_shortcode' );
 
+/** Source-faithful T-shirt size table; a shortcode avoids Flatsome's save filter stripping table markup. */
+function arden_tshirt_size_chart_shortcode() {
+	return '<div class="arden-native-table"><div class="arden-table-scroll"><table><thead><tr><th>Size Áo</th><th>Dài áo (cm)</th><th>Rộng ngực (cm)</th><th>Rộng vai (cm)</th><th>Dài tay (cm)</th><th>Cân nặng phù hợp</th></tr></thead><tbody><tr><td>S</td><td>68</td><td>52</td><td>48</td><td>21</td><td>45 - 55 kg</td></tr><tr><td>M</td><td>71</td><td>55</td><td>51</td><td>22</td><td>55 - 68 kg</td></tr><tr><td>L</td><td>74</td><td>58</td><td>54</td><td>23</td><td>68 - 78 kg</td></tr><tr><td>XL</td><td>77</td><td>61</td><td>57</td><td>24</td><td>78 - 90 kg</td></tr><tr><td>XXL</td><td>80</td><td>64</td><td>60</td><td>25</td><td>90 - 105 kg</td></tr></tbody></table></div></div>';
+}
+add_shortcode( 'arden_tshirt_size_chart', 'arden_tshirt_size_chart_shortcode' );
+
 /** Expose both dynamic grids as native editable elements in UX Builder. */
 function arden_register_ux_builder_elements() {
 	if ( ! function_exists( 'add_ux_builder_shortcode' ) ) {
@@ -191,6 +197,16 @@ function arden_register_ux_builder_elements() {
 			'category' => __( 'Content', 'arden-flatsome-child' ),
 			'wrap'     => false,
 			'options'  => array( 'count' => $count_option ),
+		)
+	);
+
+	add_ux_builder_shortcode(
+		'arden_tshirt_size_chart',
+		array(
+			'name'     => __( 'Arden T-shirt Size Chart', 'arden-flatsome-child' ),
+			'category' => __( 'Content', 'arden-flatsome-child' ),
+			'wrap'     => false,
+			'options'  => array(),
 		)
 	);
 }

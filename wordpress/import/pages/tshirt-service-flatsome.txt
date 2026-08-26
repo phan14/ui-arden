@@ -47,7 +47,7 @@
 [ux_text]<p>Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu.</p>[/ux_text]
 [/col][/row]
 [row][col span="12"]
-[ux_text class="arden-native-table"><div class="arden-table-scroll"><table><thead><tr><th>Size Áo</th><th>Dài áo (cm)</th><th>Rộng ngực (cm)</th><th>Rộng vai (cm)</th><th>Dài tay (cm)</th><th>Cân nặng phù hợp</th></tr></thead><tbody><tr><td>S</td><td>68</td><td>52</td><td>48</td><td>21</td><td>45 - 55 kg</td></tr><tr><td>M</td><td>71</td><td>55</td><td>51</td><td>22</td><td>55 - 68 kg</td></tr><tr><td>L</td><td>74</td><td>58</td><td>54</td><td>23</td><td>68 - 78 kg</td></tr><tr><td>XL</td><td>77</td><td>61</td><td>57</td><td>24</td><td>78 - 90 kg</td></tr><tr><td>XXL</td><td>80</td><td>64</td><td>60</td><td>25</td><td>90 - 105 kg</td></tr></tbody></table></div>[/ux_text]
+[arden_tshirt_size_chart]
 [ux_text class="arden-size-note"]<p>Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu.</p>[/ux_text]
 [ux_text class="arden-size-note"]<p><strong>Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size.</strong></p>[/ux_text]
 [/col][/row]

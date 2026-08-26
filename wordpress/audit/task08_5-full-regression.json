@@ -887,7 +887,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -897,7 +897,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -940,13 +940,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -1079,7 +1077,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -1089,7 +1087,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -1132,13 +1130,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -1271,7 +1267,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -1281,7 +1277,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -1324,13 +1320,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -1463,7 +1457,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -1473,7 +1467,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -1516,13 +1510,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -1655,7 +1647,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -1665,7 +1657,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -1708,13 +1700,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -1842,7 +1832,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -1852,7 +1842,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -1895,13 +1885,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -2029,7 +2017,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -2039,7 +2027,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -2082,13 +2070,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -2216,7 +2202,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -2226,7 +2212,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -2269,13 +2255,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -2376,15 +2360,15 @@
       "consoleErrors": [],
       "failed": [],
       "data": {
-        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
+        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. SIZE ÁO DÀI ÁO (CM) RỘNG NGỰC (CM) RỘNG VAI (CM) DÀI TAY (CM) CÂN NẶNG PHÙ HỢP S 68 52 48 21 45 - 55 kg M 71 55 51 22 55 - 68 kg L 74 58 54 23 68 - 78 kg XL 77 61 57 24 78 - 90 kg XXL 80 64 60 25 90 - 105 kg Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. IN LỤA PLASTISOL CAO CẤP Phổ biến nhất Mực in Plastisol nhập khẩu dẻo mịn, bề mặt đanh chắc, màu sắc tươi sáng và không phai màu khi giặt máy. ƯU ĐIỂM NỔI BẬT: Độ bền giặt cực cao (>100 lần giặt) Hiệu ứng in nổi, in cao bản sắc nét Chi phí tối ưu cho đơn hàng số lượng lớn Phù hợp: Áo thun Streetwear, Hoodie, Polo Độ bền: 5/5 Sao IN KỸ THUẬT SỐ TRỰC TIẾP (DTG) Độ chi tiết cao In phun trực tiếp mực nước vào từng sợi vải Cotton, in được các hình ảnh chuyển sắc (gradient) đa màu không giới hạn. ƯU ĐIỂM NỔI BẬT: Bề mặt in mềm mại thoáng khí In ảnh chụp, tranh vẽ chi tiết vi mô Không cần làm khung lụa, test mẫu cực nhanh Phù hợp: Áo thun Graphic, hình chụp chi tiết cao Độ bền: 4.5/5 Sao THÊU VI TÍNH 3D / THÊU XÙ Sang trọng Máy thêu Tajima Nhật Bản 12 đầu kim, đường chỉ thêu đanh chắc, thêu nổi 3D hoặc thêu xù tạo hiệu ứng cổ điển Varsity. ƯU ĐIỂM NỔI BẬT: Đẳng cấp, sang trọng vượt trội Độ bền vĩnh viễn theo tuổi thọ áo Chỉ thêu bóng sáng cao cấp không phai Phù hợp: Logo ngực áo Polo, sơ mi, Varsity Jacket Độ bền: 5/5 Sao IN PHẢN QUANG & IN DECAL PU Hiệu ứng đặc biệt Phát sáng rực rỡ khi có đèn flash hoặc ánh sáng ban đêm chiếu vào, tạo điểm nhấn cá tính mạnh mẽ cho sản phẩm. ƯU ĐIỂM NỔI BẬT: Bắt mắt trong bóng tối, hiệu ứng viral Độ bám dính cao bằng keo nhiệt chuyên dụng Cắt laser biên dạng phức tạp Phù hợp: Áo thun Local Brand, áo khoác dù phản quang Độ bền: 4/5 Sao QUY TRÌNH CHUẨN ISO 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. 01 · TIẾP NHẬN YÊU CẦU Lắng nghe ý tưởng, tiếp nhận mẫu vẽ hoặc mẫu thật, số lượng và tiến độ. 02 · TƯ VẤN & BÁO GIÁ Tư vấn chất liệu vải phù hợp, tính toán định mức và gửi bảng báo giá tối ưu. 03 · LÀM RẬP & MAY MẪU Ra rập vi tính, may mẫu thử nghiệm (3 - 7 ngày) gửi khách duyệt form dáng. 04 · DUYỆT MẪU Khách hàng duyệt mẫu thực tế, điều chỉnh chi tiết nếu cần và ký duyệt sản xuất. 05 · SẢN XUẤT HÀNG LOẠT Trải vải cắt tự động, tiến hành may ráp chuyền theo tiêu chuẩn kỹ thuật. 06 · IN / THÊU Gia công in lụa, in DTG, thêu vi tính độ nét cao theo đúng vị trí thiết kế. 07 · KIỂM TRA QC 3 BƯỚC Kiểm tra thông số kích thước, đường kim mũi chỉ, cắt chỉ thừa, ủi phẳng. 08 · ĐÓNG GÓI CHUẨN Gắn thẻ bài, nhãn mác, bọc túi zip/nilon, đóng thùng carton chống ẩm. 09 · GIAO HÀNG ĐÚNG HẸN Giao hàng tận nơi tại TP.HCM hoặc vận chuyển toàn quốc kèm biên bản giao nhận. ĐỒNG HÀNH CÙNG PHÁT TRIỂN THƯƠNG HIỆU LOCAL BRAND BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
         "h1": 1,
         "h2": 5,
-        "h3": 1,
+        "h3": 14,
         "images": 0,
         "buttons": 2,
         "fields": 0,
-        "cards": 0,
-        "sections": 4,
+        "cards": 13,
+        "sections": 6,
         "overflow": false,
         "clipped": 0,
         "brokenImages": 0,
@@ -2432,11 +2416,20 @@
             "backgroundColor": "rgb(30, 58, 138)",
             "borderRadius": "12px"
           },
-          "card": null
+          "card": {
+            "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+            "fontWeight": "400",
+            "fontSize": "16px",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(15, 23, 42)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "16px"
+          }
         }
       }
     },
-    "contentSimilarity": 0.4444444444444444,
+    "contentSimilarity": 0.9237472766884531,
     "structure": {
       "h1": true,
       "h2": true,
@@ -2465,7 +2458,9 @@
         "color",
         "backgroundColor"
       ],
-      "card": []
+      "card": [
+        "missing"
+      ]
     }
   },
   {
@@ -2547,15 +2542,15 @@
       "consoleErrors": [],
       "failed": [],
       "data": {
-        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
+        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. SIZE ÁO DÀI ÁO (CM) RỘNG NGỰC (CM) RỘNG VAI (CM) DÀI TAY (CM) CÂN NẶNG PHÙ HỢP S 68 52 48 21 45 - 55 kg M 71 55 51 22 55 - 68 kg L 74 58 54 23 68 - 78 kg XL 77 61 57 24 78 - 90 kg XXL 80 64 60 25 90 - 105 kg Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. IN LỤA PLASTISOL CAO CẤP Phổ biến nhất Mực in Plastisol nhập khẩu dẻo mịn, bề mặt đanh chắc, màu sắc tươi sáng và không phai màu khi giặt máy. ƯU ĐIỂM NỔI BẬT: Độ bền giặt cực cao (>100 lần giặt) Hiệu ứng in nổi, in cao bản sắc nét Chi phí tối ưu cho đơn hàng số lượng lớn Phù hợp: Áo thun Streetwear, Hoodie, Polo Độ bền: 5/5 Sao IN KỸ THUẬT SỐ TRỰC TIẾP (DTG) Độ chi tiết cao In phun trực tiếp mực nước vào từng sợi vải Cotton, in được các hình ảnh chuyển sắc (gradient) đa màu không giới hạn. ƯU ĐIỂM NỔI BẬT: Bề mặt in mềm mại thoáng khí In ảnh chụp, tranh vẽ chi tiết vi mô Không cần làm khung lụa, test mẫu cực nhanh Phù hợp: Áo thun Graphic, hình chụp chi tiết cao Độ bền: 4.5/5 Sao THÊU VI TÍNH 3D / THÊU XÙ Sang trọng Máy thêu Tajima Nhật Bản 12 đầu kim, đường chỉ thêu đanh chắc, thêu nổi 3D hoặc thêu xù tạo hiệu ứng cổ điển Varsity. ƯU ĐIỂM NỔI BẬT: Đẳng cấp, sang trọng vượt trội Độ bền vĩnh viễn theo tuổi thọ áo Chỉ thêu bóng sáng cao cấp không phai Phù hợp: Logo ngực áo Polo, sơ mi, Varsity Jacket Độ bền: 5/5 Sao IN PHẢN QUANG & IN DECAL PU Hiệu ứng đặc biệt Phát sáng rực rỡ khi có đèn flash hoặc ánh sáng ban đêm chiếu vào, tạo điểm nhấn cá tính mạnh mẽ cho sản phẩm. ƯU ĐIỂM NỔI BẬT: Bắt mắt trong bóng tối, hiệu ứng viral Độ bám dính cao bằng keo nhiệt chuyên dụng Cắt laser biên dạng phức tạp Phù hợp: Áo thun Local Brand, áo khoác dù phản quang Độ bền: 4/5 Sao QUY TRÌNH CHUẨN ISO 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. 01 · TIẾP NHẬN YÊU CẦU Lắng nghe ý tưởng, tiếp nhận mẫu vẽ hoặc mẫu thật, số lượng và tiến độ. 02 · TƯ VẤN & BÁO GIÁ Tư vấn chất liệu vải phù hợp, tính toán định mức và gửi bảng báo giá tối ưu. 03 · LÀM RẬP & MAY MẪU Ra rập vi tính, may mẫu thử nghiệm (3 - 7 ngày) gửi khách duyệt form dáng. 04 · DUYỆT MẪU Khách hàng duyệt mẫu thực tế, điều chỉnh chi tiết nếu cần và ký duyệt sản xuất. 05 · SẢN XUẤT HÀNG LOẠT Trải vải cắt tự động, tiến hành may ráp chuyền theo tiêu chuẩn kỹ thuật. 06 · IN / THÊU Gia công in lụa, in DTG, thêu vi tính độ nét cao theo đúng vị trí thiết kế. 07 · KIỂM TRA QC 3 BƯỚC Kiểm tra thông số kích thước, đường kim mũi chỉ, cắt chỉ thừa, ủi phẳng. 08 · ĐÓNG GÓI CHUẨN Gắn thẻ bài, nhãn mác, bọc túi zip/nilon, đóng thùng carton chống ẩm. 09 · GIAO HÀNG ĐÚNG HẸN Giao hàng tận nơi tại TP.HCM hoặc vận chuyển toàn quốc kèm biên bản giao nhận. ĐỒNG HÀNH CÙNG PHÁT TRIỂN THƯƠNG HIỆU LOCAL BRAND BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
         "h1": 1,
         "h2": 5,
-        "h3": 1,
+        "h3": 14,
         "images": 0,
         "buttons": 2,
         "fields": 0,
-        "cards": 0,
-        "sections": 4,
+        "cards": 13,
+        "sections": 6,
         "overflow": false,
         "clipped": 0,
         "brokenImages": 0,
@@ -2603,11 +2598,20 @@
             "backgroundColor": "rgb(30, 58, 138)",
             "borderRadius": "12px"
           },
-          "card": null
+          "card": {
+            "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+            "fontWeight": "400",
+            "fontSize": "16px",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(15, 23, 42)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "16px"
+          }
         }
       }
     },
-    "contentSimilarity": 0.4444444444444444,
+    "contentSimilarity": 0.9237472766884531,
     "structure": {
       "h1": true,
       "h2": true,
@@ -2636,7 +2640,9 @@
         "color",
         "backgroundColor"
       ],
-      "card": []
+      "card": [
+        "missing"
+      ]
     }
   },
   {
@@ -2718,15 +2724,15 @@
       "consoleErrors": [],
       "failed": [],
       "data": {
-        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
+        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. SIZE ÁO DÀI ÁO (CM) RỘNG NGỰC (CM) RỘNG VAI (CM) DÀI TAY (CM) CÂN NẶNG PHÙ HỢP S 68 52 48 21 45 - 55 kg M 71 55 51 22 55 - 68 kg L 74 58 54 23 68 - 78 kg XL 77 61 57 24 78 - 90 kg XXL 80 64 60 25 90 - 105 kg Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. IN LỤA PLASTISOL CAO CẤP Phổ biến nhất Mực in Plastisol nhập khẩu dẻo mịn, bề mặt đanh chắc, màu sắc tươi sáng và không phai màu khi giặt máy. ƯU ĐIỂM NỔI BẬT: Độ bền giặt cực cao (>100 lần giặt) Hiệu ứng in nổi, in cao bản sắc nét Chi phí tối ưu cho đơn hàng số lượng lớn Phù hợp: Áo thun Streetwear, Hoodie, Polo Độ bền: 5/5 Sao IN KỸ THUẬT SỐ TRỰC TIẾP (DTG) Độ chi tiết cao In phun trực tiếp mực nước vào từng sợi vải Cotton, in được các hình ảnh chuyển sắc (gradient) đa màu không giới hạn. ƯU ĐIỂM NỔI BẬT: Bề mặt in mềm mại thoáng khí In ảnh chụp, tranh vẽ chi tiết vi mô Không cần làm khung lụa, test mẫu cực nhanh Phù hợp: Áo thun Graphic, hình chụp chi tiết cao Độ bền: 4.5/5 Sao THÊU VI TÍNH 3D / THÊU XÙ Sang trọng Máy thêu Tajima Nhật Bản 12 đầu kim, đường chỉ thêu đanh chắc, thêu nổi 3D hoặc thêu xù tạo hiệu ứng cổ điển Varsity. ƯU ĐIỂM NỔI BẬT: Đẳng cấp, sang trọng vượt trội Độ bền vĩnh viễn theo tuổi thọ áo Chỉ thêu bóng sáng cao cấp không phai Phù hợp: Logo ngực áo Polo, sơ mi, Varsity Jacket Độ bền: 5/5 Sao IN PHẢN QUANG & IN DECAL PU Hiệu ứng đặc biệt Phát sáng rực rỡ khi có đèn flash hoặc ánh sáng ban đêm chiếu vào, tạo điểm nhấn cá tính mạnh mẽ cho sản phẩm. ƯU ĐIỂM NỔI BẬT: Bắt mắt trong bóng tối, hiệu ứng viral Độ bám dính cao bằng keo nhiệt chuyên dụng Cắt laser biên dạng phức tạp Phù hợp: Áo thun Local Brand, áo khoác dù phản quang Độ bền: 4/5 Sao QUY TRÌNH CHUẨN ISO 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. 01 · TIẾP NHẬN YÊU CẦU Lắng nghe ý tưởng, tiếp nhận mẫu vẽ hoặc mẫu thật, số lượng và tiến độ. 02 · TƯ VẤN & BÁO GIÁ Tư vấn chất liệu vải phù hợp, tính toán định mức và gửi bảng báo giá tối ưu. 03 · LÀM RẬP & MAY MẪU Ra rập vi tính, may mẫu thử nghiệm (3 - 7 ngày) gửi khách duyệt form dáng. 04 · DUYỆT MẪU Khách hàng duyệt mẫu thực tế, điều chỉnh chi tiết nếu cần và ký duyệt sản xuất. 05 · SẢN XUẤT HÀNG LOẠT Trải vải cắt tự động, tiến hành may ráp chuyền theo tiêu chuẩn kỹ thuật. 06 · IN / THÊU Gia công in lụa, in DTG, thêu vi tính độ nét cao theo đúng vị trí thiết kế. 07 · KIỂM TRA QC 3 BƯỚC Kiểm tra thông số kích thước, đường kim mũi chỉ, cắt chỉ thừa, ủi phẳng. 08 · ĐÓNG GÓI CHUẨN Gắn thẻ bài, nhãn mác, bọc túi zip/nilon, đóng thùng carton chống ẩm. 09 · GIAO HÀNG ĐÚNG HẸN Giao hàng tận nơi tại TP.HCM hoặc vận chuyển toàn quốc kèm biên bản giao nhận. ĐỒNG HÀNH CÙNG PHÁT TRIỂN THƯƠNG HIỆU LOCAL BRAND BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
         "h1": 1,
         "h2": 5,
-        "h3": 1,
+        "h3": 14,
         "images": 0,
         "buttons": 2,
         "fields": 0,
-        "cards": 0,
-        "sections": 4,
+        "cards": 13,
+        "sections": 6,
         "overflow": false,
         "clipped": 0,
         "brokenImages": 0,
@@ -2774,11 +2780,20 @@
             "backgroundColor": "rgb(30, 58, 138)",
             "borderRadius": "12px"
           },
-          "card": null
+          "card": {
+            "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+            "fontWeight": "400",
+            "fontSize": "16px",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(15, 23, 42)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "16px"
+          }
         }
       }
     },
-    "contentSimilarity": 0.4444444444444444,
+    "contentSimilarity": 0.9237472766884531,
     "structure": {
       "h1": true,
       "h2": true,
@@ -2807,7 +2822,9 @@
         "color",
         "backgroundColor"
       ],
-      "card": []
+      "card": [
+        "missing"
+      ]
     }
   },
   {
@@ -2889,15 +2906,15 @@
       "consoleErrors": [],
       "failed": [],
       "data": {
-        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
+        "text": "Trang chủ / Dịch vụ gia công / May áo thun theo yêu cầu DỊCH VỤ GIA CÔNG CHỦ LỰC MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP Chuyên may áo thun Oversize, Boxy fit, Drop-shoulder, Raglan cho các Local Brand. Nhận may từ 30 áo/mẫu, hỗ trợ ra rập vi tính và in thêu theo yêu cầu. BỘ SƯU TẬP CHẤT LIỆU CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP Toàn bộ vải dệt kim tại Arden đều được kiểm định độ co giãn, độ bền màu cấp 4 và xả nghỉ 24h trước khi cắt. COTTON 100% 2 CHIỀU COTTON 100% 4 CHIỀU COTTON CVC 65/35 VẢI CÁ SẤU COTTON / POLY VẢI INTERLOCK / CHÂN CUA Bán chạy nhất · Định lượng: 220 - 250 GSM Chất vải kinh điển của Local Brand, co giãn 2 chiều, dày dặn, đứng form và thấm hút mồ hôi cực tốt. CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN: 180 GSM 200 GSM 220 GSM 250 GSM 280 GSM 300 GSM 180 GSM (Mỏng mát, basic) THÔNG SỐ RẬP VI TÍNH BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR Thông số form áo chuẩn xu hướng Streetwear Việt Nam. Xưởng may Arden hỗ trợ nhảy size và điều chỉnh thông số theo yêu cầu riêng của từng thương hiệu. SIZE ÁO DÀI ÁO (CM) RỘNG NGỰC (CM) RỘNG VAI (CM) DÀI TAY (CM) CÂN NẶNG PHÙ HỢP S 68 52 48 21 45 - 55 kg M 71 55 51 22 55 - 68 kg L 74 58 54 23 68 - 78 kg XL 77 61 57 24 78 - 90 kg XXL 80 64 60 25 90 - 105 kg Dung sai cho phép: ± 1.0 cm theo quy chuẩn dệt may xuất khẩu. Nhận may thông số đo riêng theo yêu cầu từ 30 áo/size. CÔNG NGHỆ IN THÊU HIỆN ĐẠI KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP Trang bị đầy đủ công nghệ in lụa, in kỹ thuật số DTG, thêu 3D và ép chuyển nhiệt đáp ứng mọi hiệu ứng đồ họa phức tạp nhất. IN LỤA PLASTISOL CAO CẤP Phổ biến nhất Mực in Plastisol nhập khẩu dẻo mịn, bề mặt đanh chắc, màu sắc tươi sáng và không phai màu khi giặt máy. ƯU ĐIỂM NỔI BẬT: Độ bền giặt cực cao (>100 lần giặt) Hiệu ứng in nổi, in cao bản sắc nét Chi phí tối ưu cho đơn hàng số lượng lớn Phù hợp: Áo thun Streetwear, Hoodie, Polo Độ bền: 5/5 Sao IN KỸ THUẬT SỐ TRỰC TIẾP (DTG) Độ chi tiết cao In phun trực tiếp mực nước vào từng sợi vải Cotton, in được các hình ảnh chuyển sắc (gradient) đa màu không giới hạn. ƯU ĐIỂM NỔI BẬT: Bề mặt in mềm mại thoáng khí In ảnh chụp, tranh vẽ chi tiết vi mô Không cần làm khung lụa, test mẫu cực nhanh Phù hợp: Áo thun Graphic, hình chụp chi tiết cao Độ bền: 4.5/5 Sao THÊU VI TÍNH 3D / THÊU XÙ Sang trọng Máy thêu Tajima Nhật Bản 12 đầu kim, đường chỉ thêu đanh chắc, thêu nổi 3D hoặc thêu xù tạo hiệu ứng cổ điển Varsity. ƯU ĐIỂM NỔI BẬT: Đẳng cấp, sang trọng vượt trội Độ bền vĩnh viễn theo tuổi thọ áo Chỉ thêu bóng sáng cao cấp không phai Phù hợp: Logo ngực áo Polo, sơ mi, Varsity Jacket Độ bền: 5/5 Sao IN PHẢN QUANG & IN DECAL PU Hiệu ứng đặc biệt Phát sáng rực rỡ khi có đèn flash hoặc ánh sáng ban đêm chiếu vào, tạo điểm nhấn cá tính mạnh mẽ cho sản phẩm. ƯU ĐIỂM NỔI BẬT: Bắt mắt trong bóng tối, hiệu ứng viral Độ bám dính cao bằng keo nhiệt chuyên dụng Cắt laser biên dạng phức tạp Phù hợp: Áo thun Local Brand, áo khoác dù phản quang Độ bền: 4/5 Sao QUY TRÌNH CHUẨN ISO 6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN Quy trình kiểm soát chất lượng khép kín từ khâu tư vấn báo giá đến lúc giao hàng tận nơi cho đối tác thương hiệu. 01 · TIẾP NHẬN YÊU CẦU Lắng nghe ý tưởng, tiếp nhận mẫu vẽ hoặc mẫu thật, số lượng và tiến độ. 02 · TƯ VẤN & BÁO GIÁ Tư vấn chất liệu vải phù hợp, tính toán định mức và gửi bảng báo giá tối ưu. 03 · LÀM RẬP & MAY MẪU Ra rập vi tính, may mẫu thử nghiệm (3 - 7 ngày) gửi khách duyệt form dáng. 04 · DUYỆT MẪU Khách hàng duyệt mẫu thực tế, điều chỉnh chi tiết nếu cần và ký duyệt sản xuất. 05 · SẢN XUẤT HÀNG LOẠT Trải vải cắt tự động, tiến hành may ráp chuyền theo tiêu chuẩn kỹ thuật. 06 · IN / THÊU Gia công in lụa, in DTG, thêu vi tính độ nét cao theo đúng vị trí thiết kế. 07 · KIỂM TRA QC 3 BƯỚC Kiểm tra thông số kích thước, đường kim mũi chỉ, cắt chỉ thừa, ủi phẳng. 08 · ĐÓNG GÓI CHUẨN Gắn thẻ bài, nhãn mác, bọc túi zip/nilon, đóng thùng carton chống ẩm. 09 · GIAO HÀNG ĐÚNG HẸN Giao hàng tận nơi tại TP.HCM hoặc vận chuyển toàn quốc kèm biên bản giao nhận. ĐỒNG HÀNH CÙNG PHÁT TRIỂN THƯƠNG HIỆU LOCAL BRAND BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN Gửi file thiết kế hoặc thông số mong muốn để nhận báo giá chi tiết trong vòng 30 phút. NHẬN BÁO GIÁ NHANH (30 PHÚT) GỌI HOTLINE TƯ VẤN TRỰC TIẾP: 0901 234 567",
         "h1": 1,
         "h2": 5,
-        "h3": 1,
+        "h3": 14,
         "images": 0,
         "buttons": 2,
         "fields": 0,
-        "cards": 0,
-        "sections": 4,
+        "cards": 13,
+        "sections": 6,
         "overflow": false,
         "clipped": 0,
         "brokenImages": 0,
@@ -2945,11 +2962,20 @@
             "backgroundColor": "rgb(30, 58, 138)",
             "borderRadius": "12px"
           },
-          "card": null
+          "card": {
+            "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+            "fontWeight": "400",
+            "fontSize": "16px",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(15, 23, 42)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "16px"
+          }
         }
       }
     },
-    "contentSimilarity": 0.4444444444444444,
+    "contentSimilarity": 0.9237472766884531,
     "structure": {
       "h1": true,
       "h2": true,
@@ -2978,7 +3004,9 @@
         "color",
         "backgroundColor"
       ],
-      "card": []
+      "card": [
+        "missing"
+      ]
     }
   },
   {
@@ -3078,7 +3106,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3088,7 +3116,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -3131,13 +3159,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -3255,7 +3281,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3265,7 +3291,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -3308,13 +3334,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -3432,7 +3456,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3442,7 +3466,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -3485,13 +3509,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -3609,7 +3631,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3619,7 +3641,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -3662,13 +3684,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -3786,7 +3806,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3796,7 +3816,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -3839,13 +3859,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -3963,7 +3981,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -3973,7 +3991,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4016,13 +4034,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -4140,7 +4156,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -4150,7 +4166,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4193,13 +4209,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -4317,7 +4331,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -4327,7 +4341,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4370,13 +4384,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -4494,7 +4506,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -4504,7 +4516,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4547,13 +4559,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -4671,7 +4681,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -4681,7 +4691,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4724,13 +4734,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -4848,7 +4856,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -4858,7 +4866,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -4901,13 +4909,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -5025,7 +5031,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -5035,7 +5041,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -5078,13 +5084,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -5202,7 +5206,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -5212,7 +5216,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -5255,13 +5259,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -5381,7 +5383,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -5391,7 +5393,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -5434,13 +5436,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -5560,7 +5560,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -5570,7 +5570,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -5613,13 +5613,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -5739,7 +5737,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -5749,7 +5747,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -5792,13 +5790,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -6669,7 +6665,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -6719,7 +6715,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -6867,7 +6862,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -6917,7 +6912,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -7065,7 +7059,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -7115,7 +7109,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -7263,7 +7256,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -7313,7 +7306,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -7461,7 +7453,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -7511,7 +7503,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -7658,7 +7649,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -7708,7 +7699,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -7855,7 +7845,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -7905,7 +7895,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -8052,7 +8041,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -8102,7 +8091,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -8249,7 +8237,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -8299,7 +8287,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -8444,7 +8431,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -8494,7 +8481,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -8639,7 +8625,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -8689,7 +8675,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -8834,7 +8819,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -8884,7 +8869,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9010,7 +8994,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9020,7 +9004,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9063,13 +9047,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9187,7 +9169,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9197,7 +9179,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9240,13 +9222,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9364,7 +9344,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9374,7 +9354,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9417,13 +9397,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9541,7 +9519,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9551,7 +9529,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9594,13 +9572,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9718,7 +9694,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9728,7 +9704,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9771,13 +9747,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -9895,7 +9869,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -9905,7 +9879,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -9948,13 +9922,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -10072,7 +10044,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -10082,7 +10054,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -10125,13 +10097,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -10249,7 +10219,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -10259,7 +10229,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -10302,13 +10272,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -11170,7 +11138,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -11180,7 +11148,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "700",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -11223,13 +11191,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -11351,7 +11317,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -11361,7 +11327,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "700",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -11404,13 +11370,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -11532,7 +11496,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -11542,7 +11506,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "700",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -11585,13 +11549,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -11713,7 +11675,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -11723,7 +11685,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "700",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -11766,13 +11728,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -11894,7 +11854,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -11904,7 +11864,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -11947,13 +11907,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12072,7 +12030,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12082,7 +12040,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -12125,13 +12083,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12250,7 +12206,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12260,7 +12216,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -12303,13 +12259,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12428,7 +12382,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12438,7 +12392,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -12481,13 +12435,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12606,7 +12558,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12616,7 +12568,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -12659,13 +12611,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12783,7 +12733,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12793,7 +12743,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -12836,13 +12786,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -12960,7 +12908,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -12970,7 +12918,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13013,13 +12961,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -13137,7 +13083,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -13147,7 +13093,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13190,13 +13136,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "letterSpacing",
         "color"
       ],
@@ -13323,7 +13267,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -13333,7 +13277,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13353,7 +13297,7 @@
           },
           "button": {
             "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-            "fontWeight": "700",
+            "fontWeight": "900",
             "fontSize": "15.52px",
             "lineHeight": "18.624px",
             "letterSpacing": "0.776px",
@@ -13376,13 +13320,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13396,6 +13338,7 @@
       ],
       "button": [
         "fontFamily",
+        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13513,7 +13456,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -13523,7 +13466,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13543,7 +13486,7 @@
           },
           "button": {
             "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-            "fontWeight": "700",
+            "fontWeight": "900",
             "fontSize": "15.52px",
             "lineHeight": "18.624px",
             "letterSpacing": "0.776px",
@@ -13566,13 +13509,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13586,6 +13527,7 @@
       ],
       "button": [
         "fontFamily",
+        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13703,7 +13645,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -13713,7 +13655,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13733,7 +13675,7 @@
           },
           "button": {
             "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-            "fontWeight": "700",
+            "fontWeight": "900",
             "fontSize": "15.52px",
             "lineHeight": "18.624px",
             "letterSpacing": "0.776px",
@@ -13756,13 +13698,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13776,6 +13716,7 @@
       ],
       "button": [
         "fontFamily",
+        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13893,7 +13834,7 @@
         "styles": {
           "h1": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "48px",
             "lineHeight": "55.2px",
             "letterSpacing": "-0.96px",
@@ -13903,7 +13844,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "600",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -13923,7 +13864,7 @@
           },
           "button": {
             "fontFamily": "\"Plus Jakarta Sans\", \"Be Vietnam Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-            "fontWeight": "700",
+            "fontWeight": "900",
             "fontSize": "15.52px",
             "lineHeight": "18.624px",
             "letterSpacing": "0.776px",
@@ -13946,13 +13887,11 @@
     },
     "styleDiff": {
       "h1": [
-        "fontWeight",
         "lineHeight",
         "letterSpacing",
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -13966,6 +13905,7 @@
       ],
       "button": [
         "fontFamily",
+        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -14084,7 +14024,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -14134,7 +14074,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -14270,7 +14209,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -14320,7 +14259,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -14456,7 +14394,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -14506,7 +14444,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",
@@ -14642,7 +14579,7 @@
           },
           "h2": {
             "fontFamily": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
-            "fontWeight": "800",
+            "fontWeight": "900",
             "fontSize": "36px",
             "lineHeight": "43.2px",
             "letterSpacing": "-0.72px",
@@ -14692,7 +14629,6 @@
         "color"
       ],
       "h2": [
-        "fontWeight",
         "fontSize",
         "lineHeight",
         "letterSpacing",

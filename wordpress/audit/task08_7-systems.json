@@ -1,0 +1,148 @@
+{
+  "forms": [
+    {
+      "name": "Contact",
+      "fields": 7,
+      "labels": 6,
+      "emptyInvalid": 2,
+      "invalidEmail": true,
+      "tabbable": 7,
+      "validStatus": "wpcf7-form sent",
+      "recipientLocked": true,
+      "pass": true
+    },
+    {
+      "name": "Quote",
+      "fields": 16,
+      "labels": 15,
+      "emptyInvalid": 2,
+      "invalidEmail": true,
+      "tabbable": 16,
+      "validStatus": "wpcf7-form sent",
+      "recipientLocked": true,
+      "pass": true
+    }
+  ],
+  "dynamic": [
+    {
+      "name": "Post archive",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Category",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Post single",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Projects",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Project preview",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Search results",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "Search no results",
+      "status": 200,
+      "expected": 200,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    },
+    {
+      "name": "404",
+      "status": 404,
+      "expected": 404,
+      "errors": [],
+      "state": {
+        "h1": 1,
+        "raw": false,
+        "overflow": false
+      },
+      "pass": true
+    }
+  ],
+  "accessibility": {
+    "oneH1": true,
+    "tabs": 5,
+    "panels": 5,
+    "missingAlt": 0,
+    "reducedMotion": true
+  },
+  "seo": {
+    "blogPublic": "0",
+    "rankMathInstalled": false,
+    "draftsPreserved": true,
+    "pass": true
+  },
+  "media": {
+    "count": 20,
+    "missingAlt": 0,
+    "missingDimensions": 0,
+    "unsplash": 0,
+    "pass": true
+  },
+  "uxBuilder": {
+    "sectionLevelUxHtml": [],
+    "adminLaunchPass": true
+  }
+}

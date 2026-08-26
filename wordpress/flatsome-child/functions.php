@@ -16,18 +16,21 @@ require_once get_stylesheet_directory() . '/inc/mobile-cta.php';
 
 /** Enqueue Arden's design layer after Flatsome's compiled frontend CSS. */
 function arden_child_enqueue_assets() {
+	$arden_css_version = ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/css/arden.css' );
+	$arden_js_version  = ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/js/native-interactions.js' );
 	/* Flatsome 3.17.x already handles the active child style.css separately. */
 	wp_enqueue_style( 'arden-fonts', 'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap', array(), null );
-	wp_enqueue_style( 'arden-components', get_stylesheet_directory_uri() . '/assets/css/arden.css', array( 'flatsome-main', 'arden-fonts' ), ARDEN_THEME_VERSION );
+	wp_enqueue_style( 'arden-components', get_stylesheet_directory_uri() . '/assets/css/arden.css', array( 'flatsome-main', 'arden-fonts' ), $arden_css_version );
 	wp_enqueue_style( 'arden-native-pilot', get_stylesheet_directory_uri() . '/assets/css/pilot-native.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
 	wp_enqueue_style( 'arden-forms', get_stylesheet_directory_uri() . '/assets/css/forms.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
-	wp_enqueue_script( 'arden-native-interactions', get_stylesheet_directory_uri() . '/assets/js/native-interactions.js', array(), ARDEN_THEME_VERSION, true );
+	wp_enqueue_script( 'arden-native-interactions', get_stylesheet_directory_uri() . '/assets/js/native-interactions.js', array(), $arden_js_version, true );
 
 	/* Exact utility layer for Task 04 imports generated from the React DOM. */
 	if ( is_singular( 'page' ) ) {
 		$content = (string) get_post_field( 'post_content', get_queried_object_id() );
 		if ( false !== strpos( $content, 'arden-react-page' ) ) {
 			wp_enqueue_style( 'arden-react-pages', get_stylesheet_directory_uri() . '/assets/css/react-pages.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
+			wp_enqueue_style( 'arden-react-utility-compat', get_stylesheet_directory_uri() . '/assets/css/react-utility-compat.css', array( 'arden-react-pages' ), ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/css/react-utility-compat.css' ) );
 		}
 	}
 }

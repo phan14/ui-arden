@@ -4,8 +4,8 @@
   --arden-dark: #0f172a;
   --arden-gold: #f59e0b;
   --arden-gold-hover: #d97706;
-  --arden-primary: #1e3a8a;
-  --arden-primary-hover: #1e40af;
+  --arden-primary: oklch(0.379 0.146 265.522);
+  --arden-primary-hover: oklch(0.282 0.091 267.935);
   --arden-secondary: #334155;
   --arden-accent: var(--arden-gold);
   --arden-accent-hover: var(--arden-gold-hover);
@@ -13,12 +13,12 @@
   --arden-background: #ffffff;
   --arden-background-alt: #f8fafc;
   --arden-surface: #ffffff;
-  --arden-text: #0f172a;
-  --arden-text-body: #0f172a;
-  --arden-text-muted: #64748b;
-  --arden-border: #e2e8f0;
+  --arden-text: oklch(0.208 0.042 265.755);
+  --arden-text-body: oklch(0.208 0.042 265.755);
+  --arden-text-muted: oklch(0.446 0.043 257.281);
+  --arden-border: oklch(0.929 0.013 255.508);
   --arden-font-heading: "Be Vietnam Pro", "Plus Jakarta Sans", sans-serif;
-  --arden-font-body: "Plus Jakarta Sans", "Be Vietnam Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --arden-font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --arden-container: 1280px;
   --arden-container-narrow: 896px;
   --arden-section-space: clamp(3.5rem, 5vw, 5rem);
@@ -42,7 +42,7 @@
 .arden-site :where(h1, h2, h3, h4, h5, h6) { font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
 .arden-page { overflow-x: clip; color: var(--arden-text-body); font-family: var(--arden-font-body) !important; letter-spacing: -.01em; }
 .arden-page h1, .arden-page h2, .arden-page h3, .arden-page h4 { color: var(--arden-text); font-family: var(--arden-font-heading) !important; letter-spacing: -.02em; }
-.arden-page h1 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 900 !important; line-height: 1.15; }
+.arden-page h1 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 900 !important; line-height: 1.15; text-transform: uppercase; }
 .arden-page h2 { font-size: clamp(1.65rem, 3vw, 2.25rem); font-weight: 900 !important; line-height: 1.2; }
 .arden-page h3, .arden-page h4 { font-weight: 700 !important; }
 .arden-page .font-black { font-weight: 900 !important; }
@@ -61,6 +61,31 @@
 .arden-site .arden-hero__content > .col-inner > :where(.ux-text, .text):not(.arden-eyebrow) p { font-size: 16px; font-weight: 400; line-height: 1.625; letter-spacing: -.01em; }
 .arden-site .arden-card p, .arden-site .arden-card li, .arden-site .arden-services p, .arden-site .arden-products p, .arden-site .arden-factory p, .arden-site .arden-capabilities p, .arden-site .arden-process p, .arden-site .arden-why-choose p, .arden-site .arden-blog p { color: #475569; }
 .arden-page img { max-width: 100%; height: auto; }
+.arden-react-page { color: #0f172a; font-family: var(--arden-font-body) !important; font-size: 16px; line-height: 1.5; letter-spacing: -.01em; }
+.arden-react-page :where(h1, h2, h3, h4, h5, h6, p, ul, ol) { margin-top: 0; }
+.arden-react-page :where(h1, h2, h3, h4, h5, h6) { color: inherit; font-family: var(--arden-font-heading) !important; }
+.arden-react-page :where(button, .button) { font-family: var(--arden-font-body) !important; }
+.arden-react-page :where(p, li, button, .button, input, select, textarea) { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important; }
+.arden-react-page :where(h1, h2) { color: oklch(0.129 0.042 264.695) !important; }
+.arden-pilot.arden-page-banner h1 { line-height: 1.25; letter-spacing: -.025em; }
+.arden-react-page .ux-text[class*="text-"] :where(p, h1, h2, h3, h4, h5, h6, li) { color: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; letter-spacing: inherit !important; }
+.arden-react-page .tracking-tight { letter-spacing: -.025em !important; }
+.arden-react-page .tracking-wider { letter-spacing: .05em !important; }
+.arden-react-page .tracking-widest { letter-spacing: .1em !important; }
+.arden-react-page :where(.button, button).bg-blue-900 { border-color: #1e3a8a !important; background: #1e3a8a !important; color: #fff !important; }
+.arden-react-page :where(.button, button).bg-amber-400 { border-color: #fbbf24 !important; background: #fbbf24 !important; color: #020617 !important; }
+.arden-react-page :where(.button, button).bg-white { border-color: #e2e8f0 !important; background: #fff !important; color: #0f172a !important; }
+.arden-native-control-heading { display: inline; margin: 0 !important; color: inherit !important; font: inherit !important; letter-spacing: inherit !important; text-transform: inherit; }
+.arden-react-page > .section > .section-content > .row,
+.arden-react-page .arden-react-page__section > .section-content > .row { width: min(calc(100% - 32px), 1280px) !important; max-width: 1280px !important; margin-right: auto !important; margin-left: auto !important; }
+@media (min-width: 640px) {
+  .arden-react-page > .section > .section-content > .row,
+  .arden-react-page .arden-react-page__section > .section-content > .row { width: min(calc(100% - 48px), 1280px) !important; }
+}
+@media (min-width: 1024px) {
+  .arden-react-page > .section > .section-content > .row,
+  .arden-react-page .arden-react-page__section > .section-content > .row { width: min(calc(100% - 64px), 1280px) !important; }
+}
 .arden-section { padding-block: var(--arden-section-space); border-bottom: 1px solid var(--arden-border); }
 .arden-section--alt { background: var(--arden-background-alt); }
 .arden-section--dark { background: var(--arden-text); color: #fff; }
@@ -93,12 +118,13 @@
 .arden-section-title--left { margin-inline: 0; text-align: left; }
 .arden-section-title p { color: var(--arden-text-muted); }
 
-.arden-button, .arden-page .button.arden-button { min-height: 44px; padding: 10px 20px; border: 1px solid #1e3a8a; border-radius: var(--arden-radius-md); background: #1e3a8a; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: .05em; line-height: 16px; text-transform: uppercase; transition: .15s ease; }
+.arden-button, .arden-page .button.arden-button { min-height: 44px; padding: 10px 20px; border: 1px solid var(--arden-primary); border-radius: var(--arden-radius-md); background: var(--arden-primary); color: #fff; font-family: var(--arden-font-body) !important; font-size: 12px; font-weight: 700; letter-spacing: .05em; line-height: 16px; text-transform: uppercase; transition: .15s ease; }
 .arden-page .arden-hero .button.arden-button { min-height: 48px; padding: 14px 24px; font-size: 14px; font-weight: 900; line-height: 20px; letter-spacing: .1em; }
 .arden-button:hover, .arden-page .button.arden-button:hover { background: var(--arden-primary-hover); border-color: var(--arden-primary-hover); color: #fff; transform: translateY(-1px); }
 .arden-button--accent, .arden-page .button.arden-button--accent { background: var(--arden-gold); border-color: var(--arden-gold); color: #020617; font-weight: 900; }
 .arden-button--accent:hover, .arden-page .button.arden-button--accent:hover { background: var(--arden-gold-hover); border-color: var(--arden-gold-hover); color: #020617; }
 .arden-button--outline, .arden-page .button.arden-button--outline { background: transparent; color: #1e293b; border-color: #cbd5e1; }
+.arden-page .arden-hero .button.arden-button--outline { background: #fff; color: var(--arden-text); border-color: var(--arden-border); }
 .arden-button--light { background: #fff; color: var(--arden-text); border-color: #fff; }
 
 .arden-page :where(a, button, input, select, textarea, summary):focus-visible,
@@ -233,10 +259,10 @@
 /* Header Builder support, scoped by the automatic arden-site body class. */
 .arden-site .header-main { height: 68px; border-bottom: 1px solid rgb(226 232 240 / 85%); background: rgb(255 255 255 / 96%); }
 .arden-site .header-logo img { width: auto; max-width: 132px; max-height: 42px; object-fit: contain; }
-.arden-site .header-wrapper .nav > li > a { color: var(--arden-text); font-family: var(--arden-font-body) !important; font-size: 12px; font-weight: 700; letter-spacing: .05em; }
-.arden-site .header-wrapper .nav > li { margin: 0 11px; }
+.arden-site .header-wrapper .nav > li > a { padding: 8px 12px; border-radius: 8px; color: var(--arden-text); font-family: var(--arden-font-body) !important; font-size: 12px; font-weight: 700; letter-spacing: .05em; line-height: 16px; }
+.arden-site .header-wrapper .nav > li { margin: 0 2px; }
 .arden-site .header-button .button, .arden-site .arden-header-cta { min-height: 42px; padding-inline: 18px; border-radius: 12px; background: var(--arden-primary); color: #fff; font-size: 11px; font-weight: 800; }
-.arden-site .header-wrapper .nav > li.active > a, .arden-site .header-wrapper .nav > li > a:hover { color: var(--arden-primary-hover); }
+.arden-site .header-wrapper .nav > li.active > a, .arden-site .header-wrapper .nav > li > a:hover { background: oklch(0.97 0.014 254.604); color: var(--arden-primary); }
 .arden-site .header-wrapper .nav-dropdown { border: 1px solid var(--arden-border); border-radius: var(--arden-radius-md); box-shadow: var(--arden-shadow-lg); }
 .arden-site .header-wrapper .nav-dropdown a { padding-block: 10px; font-size: 13px; }
 .arden-site .header-button .button { border-radius: var(--arden-radius-md); }
@@ -254,6 +280,53 @@
 .arden-footer__social { display: flex; flex-wrap: wrap; gap: 10px; }
 .arden-footer__social a { display: inline-flex; min-width: 40px; min-height: 40px; align-items: center; justify-content: center; border: 1px solid #334155; border-radius: var(--arden-radius-md); }
 .arden-footer__bottom { margin-top: 32px; padding-block: 18px; border-top: 1px solid #334155; font-size: 12px; }
+.arden-footer { padding: 64px 0 48px; border-top: 1px solid #1e293b; background: #0f172a; color: #94a3b8; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif !important; }
+.arden-footer > .section-content > .row { width: min(calc(100% - 64px), 1280px); max-width: 1280px; }
+.arden-footer .col-inner, .arden-footer .ux-text { height: 100%; }
+.arden-footer :where(p, li, a, span) { font-family: inherit !important; }
+.arden-footer h4 { margin: 0 0 16px; padding-left: 12px; border-left: 2px solid #3b82f6; color: #fff; font-family: var(--arden-font-heading) !important; font-size: 12px; font-weight: 800 !important; line-height: 16px; letter-spacing: .05em; text-transform: uppercase; }
+.arden-footer__main { padding-bottom: 48px; border-bottom: 1px solid #1e293b; }
+.arden-footer__logo { display: inline-flex; align-items: center; gap: 12px; margin-bottom: 16px; color: #fff !important; line-height: 1; }
+.arden-footer__logo-mark { display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center; border-radius: 12px; background: #2563eb; color: #fff; font-size: 20px; font-weight: 900; box-shadow: 0 8px 16px rgb(37 99 235 / 30%); }
+.arden-footer__logo strong, .arden-footer__logo small { display: block; }
+.arden-footer__logo strong { color: #fff; font-size: 20px; font-weight: 900; letter-spacing: -.025em; }
+.arden-footer__logo small { margin-top: 3px; color: #60a5fa; font-size: 9px; font-weight: 700; letter-spacing: .2em; }
+.arden-footer__brand p { max-width: 384px; color: #94a3b8; font-size: 12px; line-height: 19.5px; }
+.arden-footer__badges { display: flex; flex-wrap: wrap; gap: 10px; padding-top: 8px; }
+.arden-footer__badge { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border: 1px solid #334155; border-radius: 8px; background: rgb(30 41 59 / 80%); color: #e2e8f0; font-size: 11px; font-weight: 600; }
+.arden-footer__badge i { color: #60a5fa; font-style: normal; }
+.arden-footer__badge--award i { color: #fbbf24; }
+.arden-footer__nav li { position: relative; padding-left: 20px; }
+.arden-footer__nav li::before { position: absolute; left: 0; color: #475569; content: "→"; }
+.arden-footer__nav li:first-child::before { color: #3b82f6; }
+.arden-footer__nav a, .arden-footer__contact { color: #94a3b8; font-size: 12px; line-height: 19.5px; }
+.arden-footer__contact li { display: flex; align-items: flex-start; gap: 10px; }
+.arden-footer__contact i { width: 16px; flex: 0 0 16px; color: #60a5fa; font-style: normal; text-align: center; }
+.arden-footer__contact a { color: #e2e8f0; }
+.arden-footer__map-card { padding: 12px; border: 1px solid #1e293b; border-radius: 16px; background: rgb(30 41 59 / 60%); box-shadow: 0 8px 18px rgb(2 6 23 / 20%); }
+.arden-footer__map-card .img { overflow: hidden; border-radius: 12px; }
+.arden-footer__map-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; opacity: .7; }
+.arden-footer__map-card p { margin: 8px 0 0; color: #cbd5e1; font-size: 11px; font-weight: 500; text-align: center; }
+.arden-footer__map-link { display: block; padding: 8px 12px; border-radius: 12px; background: rgb(51 65 85 / 80%); color: #fff !important; font-size: 11px; font-weight: 700; letter-spacing: .05em; }
+.arden-footer__policies { padding: 24px 0; border-bottom: 1px solid #0f172a; }
+.arden-footer__policies nav { display: flex; flex-wrap: wrap; gap: 8px 24px; }
+.arden-footer__policies nav a { color: #94a3b8; font-size: 12px; }
+.arden-footer__social { display: flex; align-items: center; justify-content: flex-end; gap: 12px; color: #94a3b8; font-size: 12px; }
+.arden-footer__social a { display: inline-flex; width: 28px; min-width: 28px; height: 28px; min-height: 28px; border: 1px solid #1e293b; border-radius: 2px; background: #0f172a; color: #94a3b8; font-size: 10px; }
+.arden-footer__bottom { margin-top: 0; padding: 24px 0 0; border: 0; }
+.arden-footer__bottom p { margin: 0; color: #94a3b8; font-size: 12px; line-height: 18px; }
+@media (max-width: 849px) {
+  .arden-footer > .section-content > .row { width: min(calc(100% - 48px), 1280px); }
+  .arden-footer__main > .col { margin-bottom: 28px; }
+  .arden-footer__social { justify-content: flex-start; }
+}
+@media (max-width: 549px) {
+  .arden-footer { padding: 48px 0 calc(96px + env(safe-area-inset-bottom)); }
+  .arden-footer > .section-content > .row { width: min(calc(100% - 32px), 1280px); }
+  .arden-footer__main { padding-bottom: 16px; }
+  .arden-footer__policies nav { flex-direction: column; gap: 10px; }
+  .arden-footer__bottom .text-right { text-align: left !important; }
+}
 
 /* Shared foundations for subsequent UX Builder page tasks. */
 .arden-page-hero { padding-block: clamp(2.5rem, 5vw, 4rem); background: var(--arden-background-alt); border-bottom: 1px solid var(--arden-border); }

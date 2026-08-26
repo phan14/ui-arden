@@ -1,0 +1,1771 @@
+{
+  "generatedAt": "2026-08-26T07:12:35.430Z",
+  "checks": [
+    {
+      "name": "About 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "About 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "About 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "About 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "About 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "About 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "About 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "About 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Services 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 4,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 6
+      }
+    },
+    {
+      "name": "Services 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Services 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 4,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 6
+      }
+    },
+    {
+      "name": "Services 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Services 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 4,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 6
+      }
+    },
+    {
+      "name": "Services 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Services 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 4,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 6
+      }
+    },
+    {
+      "name": "Services 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "T-Shirt 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [],
+        "sections": 6
+      }
+    },
+    {
+      "name": "T-Shirt 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": []
+      }
+    },
+    {
+      "name": "T-Shirt 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [],
+        "sections": 6
+      }
+    },
+    {
+      "name": "T-Shirt 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": []
+      }
+    },
+    {
+      "name": "T-Shirt 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [],
+        "sections": 6
+      }
+    },
+    {
+      "name": "T-Shirt 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": []
+      }
+    },
+    {
+      "name": "T-Shirt 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [],
+        "sections": 6
+      }
+    },
+    {
+      "name": "T-Shirt 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": []
+      }
+    },
+    {
+      "name": "Shirt 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 6,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Shirt 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Shirt 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 6,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Shirt 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Shirt 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 6,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Shirt 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Shirt 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 6,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Shirt 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Jacket 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Jacket 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Jacket 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Jacket 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Jacket 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Jacket 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Jacket 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Jacket 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Pants 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Pants 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Pants 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Pants 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Pants 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Pants 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Pants 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 5,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 7
+      }
+    },
+    {
+      "name": "Pants 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Manufacturing 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Manufacturing 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Manufacturing 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Manufacturing 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Manufacturing 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Manufacturing 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Manufacturing 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 7,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 8
+      }
+    },
+    {
+      "name": "Manufacturing 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Policies 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 3
+      }
+    },
+    {
+      "name": "Policies 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Policies 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 3
+      }
+    },
+    {
+      "name": "Policies 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Policies 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 3
+      }
+    },
+    {
+      "name": "Policies 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Policies 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 0,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 3
+      }
+    },
+    {
+      "name": "Policies 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Fabric Guide 1440 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 3,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 5
+      }
+    },
+    {
+      "name": "Fabric Guide 1440 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Fabric Guide 1024 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 3,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 5
+      }
+    },
+    {
+      "name": "Fabric Guide 1024 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Fabric Guide 768 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 3,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 5
+      }
+    },
+    {
+      "name": "Fabric Guide 768 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "Fabric Guide 390 runtime/layout",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "errors": [],
+        "h1": 1,
+        "raw": false,
+        "overflow": false,
+        "grids": 3,
+        "badGrids": 0,
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ],
+        "sections": 5
+      }
+    },
+    {
+      "name": "Fabric Guide 390 typography",
+      "pass": true,
+      "detail": {
+        "weights": [
+          "900",
+          "900",
+          "900",
+          "900",
+          "900",
+          "900"
+        ]
+      }
+    },
+    {
+      "name": "REG-003 T-Shirt content/structure",
+      "pass": true,
+      "detail": {
+        "sections": 6,
+        "headings": [
+          "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "Cotton 100% 2 chiều",
+          "Cotton 100% 4 chiều",
+          "Cotton CVC 65/35",
+          "Vải Cá Sấu Cotton / Poly",
+          "Vải Interlock / Chân cua",
+          "CHỌN ĐỊNH LƯỢNG VẢI (GSM) PHÙ HỢP VỚI BỘ SƯU TẬP CỦA BẠN:",
+          "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "In Lụa Plastisol Cao Cấp",
+          "In Kỹ Thuật Số Trực Tiếp (DTG)",
+          "Thêu Vi Tính 3D / Thêu Xù",
+          "In Phản Quang & In Decal PU",
+          "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "01 · Tiếp nhận yêu cầu",
+          "02 · Tư vấn & Báo giá",
+          "03 · Làm rập & May mẫu",
+          "04 · Duyệt mẫu",
+          "05 · Sản xuất hàng loạt",
+          "06 · In / Thêu",
+          "07 · Kiểm tra QC 3 bước",
+          "08 · Đóng gói chuẩn",
+          "09 · Giao hàng đúng hẹn",
+          "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN"
+        ],
+        "fabricTabs": 5,
+        "gsmTabs": 6,
+        "sizeRows": 5,
+        "printCards": 4,
+        "processHeadings": 9,
+        "ctas": 2
+      }
+    },
+    {
+      "name": "REG-004 Policies 1440",
+      "pass": true,
+      "detail": {
+        "before": {
+          "tabs": 5,
+          "panels": 5,
+          "selected": "true",
+          "panelId": "chinh-sach-van-chuyen"
+        },
+        "after": "true"
+      }
+    },
+    {
+      "name": "REG-004 Policies 1024",
+      "pass": true,
+      "detail": {
+        "before": {
+          "tabs": 5,
+          "panels": 5,
+          "selected": "true",
+          "panelId": "chinh-sach-van-chuyen"
+        },
+        "after": "true"
+      }
+    },
+    {
+      "name": "REG-004 Policies 768",
+      "pass": true,
+      "detail": {
+        "before": {
+          "tabs": 5,
+          "panels": 5,
+          "selected": "true",
+          "panelId": "chinh-sach-van-chuyen"
+        },
+        "after": "true"
+      }
+    },
+    {
+      "name": "REG-004 Policies 390",
+      "pass": true,
+      "detail": {
+        "before": {
+          "tabs": 5,
+          "panels": 5,
+          "selected": "true",
+          "panelId": "chinh-sach-van-chuyen"
+        },
+        "after": "true"
+      }
+    },
+    {
+      "name": "REG-005 Fabric 1440",
+      "pass": true,
+      "detail": {
+        "total": 6,
+        "emptyVisible": 1,
+        "oxfordVisible": 1,
+        "buttonCount": 5,
+        "pressed": "true"
+      }
+    },
+    {
+      "name": "REG-005 Fabric 1024",
+      "pass": true,
+      "detail": {
+        "total": 6,
+        "emptyVisible": 1,
+        "oxfordVisible": 1,
+        "buttonCount": 5,
+        "pressed": "true"
+      }
+    },
+    {
+      "name": "REG-005 Fabric 768",
+      "pass": true,
+      "detail": {
+        "total": 6,
+        "emptyVisible": 1,
+        "oxfordVisible": 1,
+        "buttonCount": 5,
+        "pressed": "true"
+      }
+    },
+    {
+      "name": "REG-005 Fabric 390",
+      "pass": true,
+      "detail": {
+        "total": 6,
+        "emptyVisible": 1,
+        "oxfordVisible": 1,
+        "buttonCount": 5,
+        "pressed": "true"
+      }
+    },
+    {
+      "name": "REG-006 desktop Services dropdown",
+      "pass": true,
+      "detail": {
+        "visibleChildren": 8,
+        "focusVisible": 8
+      }
+    },
+    {
+      "name": "REG-007 CTA routes/fragments",
+      "pass": true,
+      "detail": {
+        "broken": [],
+        "localBrandTarget": 1
+      }
+    },
+    {
+      "name": "Environment freeze",
+      "pass": true,
+      "detail": {
+        "blog_public": "0",
+        "version": "2.0.1",
+        "drafts": [
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft",
+          "draft"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total": 84,
+    "passed": 84,
+    "failed": 0
+  }
+}

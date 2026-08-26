@@ -10,7 +10,7 @@
 | JacketServicePage | PASS | PASS | PASS | PASS | PASS |
 | ManufacturingPage | FAIL | PASS | PASS | PASS | PASS |
 | PantsServicePage | PASS | PASS | PASS | PASS | PASS |
-| PoliciesPage | FAIL | PASS | FAIL | PASS | FAIL |
+| PoliciesPage | FAIL | PASS | FAIL | PASS | PASS |
 | QuotePage | FAIL | PASS | PASS | PASS | FAIL |
 | ServicesPage | PASS | PASS | PASS | PASS | PASS |
 | ShirtServicePage | PASS | PASS | PASS | PASS | PASS |

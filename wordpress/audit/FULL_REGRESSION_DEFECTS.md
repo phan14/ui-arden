@@ -159,3 +159,67 @@ This addendum records the partial execution result. The complete 08.5 regression
 | REG-007 | **ROUTE FIX APPLIED** | Home 48, Footer block 59, and Draft 82 were synchronized with canonical service routes; Local Brand uses `/dich-vu/#local-brand` and the Services preview exposes `#local-brand`; case-study CTAs use `/du-an/`. Policy fragment validity remains coupled to REG-004. |
 
 Runtime safety constraints remain intact: no publication, indexing enablement, production deployment, ZIP creation, or theme-version change beyond the required 2.0.1 child-theme bump.
+
+## Task 08.6C final focused-verification addendum
+
+The historical findings above are retained for traceability. Task 08.6C did not run the complete Task 08.5 matrix; it ran the authorized focused P1 gate at 1440, 1024, 768, and 390 pixels. Evidence is stored in `task08_6c-focused.json` (84/84 checks passed).
+
+### REG-001 — FIXED
+
+- **Root cause:** Flatsome's unlayered `.row` flex declaration overrode the React-derived grid utility layer.
+- **Fix:** scoped the grid adapter to React-derived Arden rows and preserved responsive grid templates without page-width hard-coding.
+- **Files:** `wordpress/flatsome-child/assets/css/arden.css`.
+- **Drafts verified:** 81, 82, 84, 85, 86, 87, 100.
+- **Validation:** HTTP 200, one H1, grid display active, no raw shortcode, console error, or horizontal overflow at all four breakpoints.
+
+### REG-002 — FIXED
+
+- **Root cause:** Flatsome's unlayered heading/button/card rules outranked layered React utility declarations.
+- **Fix:** added scoped Arden typography and component-specificity adapters; loaded the real Be Vietnam Pro 900 weight; synchronized theme version 2.0.1.
+- **Files:** `wordpress/flatsome-child/assets/css/arden.css`, `wordpress/flatsome-child/functions.php`, `wordpress/flatsome-child/style.css`.
+- **Validation:** every sampled React-derived `font-black` heading computed at weight 900 at all four breakpoints; the focused runtime/layout checks passed.
+
+### REG-003 — FIXED
+
+- **Root cause:** a malformed native shortcode delimiter suppressed card/process output, and Flatsome's save/render path removed the raw size-table markup from an `ux_text`/`ux_html` element.
+- **Fix:** corrected native shortcode grouping and exposed the unchanged React size data through the registered `arden_tshirt_size_chart` UX Builder element.
+- **Files:** `wordpress/import/pages/tshirt-service-flatsome.txt`, `wordpress/flatsome-child/inc/shortcodes.php`.
+- **Draft changed:** 83; status remains Draft.
+- **Validation:** 6 sections, 5 fabric controls, 6 GSM controls, 5 size rows, 4 print cards, 9 process headings, 2 CTAs, HTTP 200, no raw shortcode or overflow.
+
+### REG-004 — FIXED
+
+- **Root cause:** Flatsome-generated panel IDs did not preserve the canonical React fragment contract.
+- **Fix:** mapped the five native tab controls/panels to the five canonical IDs and activated direct fragment navigation without React runtime.
+- **Files:** `wordpress/flatsome-child/assets/js/native-interactions.js`; existing native policy import retained under `LEGAL_REVIEW_REQUIRED`.
+- **Draft verified:** 99; status remains Draft.
+- **Validation:** five controls and five panels, direct `#chinh-sach-van-chuyen` activation, click/keyboard activation, and four-breakpoint checks passed.
+
+### REG-005 — FIXED
+
+- **Root cause:** the original JavaScript selectors did not match Flatsome's rendered Fabric Guide DOM.
+- **Fix:** scoped initialization to the rendered section, detected the six native cards, implemented search/category/combined filtering, `aria-pressed`, and an accessible empty state.
+- **Files:** `wordpress/flatsome-child/assets/js/native-interactions.js`.
+- **Draft verified:** 100; status remains Draft.
+- **Validation:** six cards detected; search, category, combined state, and no-result state passed at all four breakpoints.
+
+### REG-006 — FIXED / VERIFIED
+
+- **Root cause:** the first-pass unauthenticated interaction locator did not establish the actual Header Builder hover/focus state; the configured hierarchy itself was valid.
+- **Fix:** no duplicate menu implementation was added. The existing global Flatsome menu hierarchy was retained and verified.
+- **Files:** no Task 08.6C runtime change required; configuration remains in `wordpress/tools/task08-configure-navigation.php`.
+- **Validation:** desktop Dịch vụ hover and keyboard focus expose exactly eight child links; mobile behavior remains covered by the prior pass.
+
+### REG-007 — FIXED
+
+- **Root cause:** legacy root service paths, missing fragments, and a case-study path without a real Project record remained in imported sources.
+- **Fix:** canonical child-service paths were applied, Services exposes `#local-brand`, and the user-approved temporary case-study destination is `/du-an/`; no fake Project was created.
+- **Files:** `wordpress/import/home-flatsome.txt`, `wordpress/import/pages/services-flatsome.txt`, `wordpress/import/ux-blocks/arden-footer.txt`.
+- **Records synchronized:** Home 48, Services Draft 82, Footer UX Block 59.
+- **Validation:** focused source crawl found zero legacy/broken P1 route patterns and the runtime contains exactly one `#local-brand` target.
+
+### Final P1 disposition
+
+- New P0: **0**
+- Remaining P1 after the Task 08.6C focused gate: **0**
+- Full Task 08.5 rerun: **still required before Task 09 can be considered**.

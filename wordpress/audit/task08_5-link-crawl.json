@@ -1,7 +1,7 @@
 {
   "pages": 21,
-  "references": 3925,
-  "unique": 821,
+  "references": 3928,
+  "unique": 817,
   "broken": [
     {
       "ref": "http://localhost/mytest/xmlrpc.php",
@@ -10,20 +10,8 @@
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/feed/",
-      "url": "http://localhost/mytest/feed/",
-      "status": null,
-      "classification": "broken"
-    },
-    {
       "ref": "http://localhost/mytest/comments/feed/",
       "url": "http://localhost/mytest/comments/feed/",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F",
-      "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F",
       "status": null,
       "classification": "broken"
     },
@@ -472,8 +460,8 @@
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=09e31419ed",
-      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=09e31419ed",
+      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
+      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
       "status": null,
       "classification": "broken"
     },
@@ -586,32 +574,26 @@
       "classification": "broken"
     },
     {
-      "ref": "/dich-vu#so-mi",
-      "url": "http://localhost/dich-vu#so-mi",
+      "ref": "/dich-vu/may-ao-so-mi",
+      "url": "http://localhost/dich-vu/may-ao-so-mi",
       "status": 404,
       "classification": "broken"
     },
     {
-      "ref": "/dich-vu#quan",
-      "url": "http://localhost/dich-vu#quan",
+      "ref": "/dich-vu/may-quan",
+      "url": "http://localhost/dich-vu/may-quan",
       "status": 404,
       "classification": "broken"
     },
     {
-      "ref": "/dich-vu#ao-khoac",
-      "url": "http://localhost/dich-vu#ao-khoac",
+      "ref": "/dich-vu/may-ao-khoac",
+      "url": "http://localhost/dich-vu/may-ao-khoac",
       "status": 404,
       "classification": "broken"
     },
     {
-      "ref": "/dich-vu#local-brand",
-      "url": "http://localhost/dich-vu#local-brand",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/du-an/bst-ao-thun-local-brand",
-      "url": "http://localhost/du-an/bst-ao-thun-local-brand",
+      "ref": "/dich-vu/#local-brand",
+      "url": "http://localhost/dich-vu/#local-brand",
       "status": 404,
       "classification": "broken"
     },
@@ -652,30 +634,6 @@
       "classification": "broken"
     },
     {
-      "ref": "/may-ao-thun/",
-      "url": "http://localhost/may-ao-thun/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/may-ao-so-mi/",
-      "url": "http://localhost/may-ao-so-mi/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/may-quan/",
-      "url": "http://localhost/may-quan/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/dich-vu/",
-      "url": "http://localhost/dich-vu/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
       "ref": "/lien-he/",
       "url": "http://localhost/lien-he/",
       "status": 404,
@@ -694,48 +652,6 @@
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
-      "url": "http://localhost/mytest/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
-      "url": "http://localhost/mytest/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
-      "url": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
-      "url": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.7",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.7",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.0",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
-      "url": "http://localhost/mytest/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
-      "status": null,
-      "classification": "broken"
-    },
-    {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D81",
       "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D81",
       "status": null,
@@ -744,12 +660,6 @@
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D81&format=xml",
       "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D81&format=xml",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.0",
       "status": null,
       "classification": "broken"
     },
@@ -948,24 +858,6 @@
     {
       "ref": "/",
       "url": "http://localhost/",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
-      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
-      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
-      "status": null,
-      "classification": "broken"
-    },
-    {
-      "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
-      "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
       "status": null,
       "classification": "broken"
     },
@@ -2778,6 +2670,12 @@
     {
       "ref": "http://localhost/mytest/wp-json/wp/v2/categories/1",
       "url": "http://localhost/mytest/wp-json/wp/v2/categories/1",
+      "status": null,
+      "classification": "broken"
+    },
+    {
+      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
       "status": null,
       "classification": "broken"
     },
@@ -4573,27 +4471,27 @@
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-chung",
+      "ref": "#chung",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-bảo-mật",
+      "ref": "#chinh-sach-bao-mat",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-thanh-toán",
+      "ref": "#chinh-sach-thanh-toan",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-Đổi-trả-&-bảo-hành",
+      "ref": "#chinh-sach-doi-tra",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-vận-chuyển",
+      "ref": "#chinh-sach-van-chuyen",
       "status": null,
       "classification": "hash-control"
     }
@@ -4647,8 +4545,8 @@
     {
       "ref": "http://localhost/mytest/feed/",
       "url": "http://localhost/mytest/feed/",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/comments/feed/",
@@ -4659,8 +4557,8 @@
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F",
       "url": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F&format=xml",
@@ -4698,26 +4596,26 @@
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.0",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1",
       "status": 200,
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.0",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
       "status": 200,
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.0",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
       "status": 200,
       "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.0",
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1",
       "status": 200,
       "classification": "ok"
     },
@@ -5207,8 +5105,8 @@
       "classification": "external-or-protocol"
     },
     {
-      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=09e31419ed",
-      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=09e31419ed",
+      "ref": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
+      "url": "http://localhost/mytest/wp-login.php?action=logout&_wpnonce=6751033122",
       "status": null,
       "classification": "broken"
     },
@@ -5355,8 +5253,8 @@
       "classification": "ok"
     },
     {
-      "ref": "/dich-vu#so-mi",
-      "url": "http://localhost/dich-vu#so-mi",
+      "ref": "/dich-vu/may-ao-so-mi",
+      "url": "http://localhost/dich-vu/may-ao-so-mi",
       "status": 404,
       "classification": "broken"
     },
@@ -5367,8 +5265,8 @@
       "classification": "ok"
     },
     {
-      "ref": "/dich-vu#quan",
-      "url": "http://localhost/dich-vu#quan",
+      "ref": "/dich-vu/may-quan",
+      "url": "http://localhost/dich-vu/may-quan",
       "status": 404,
       "classification": "broken"
     },
@@ -5379,8 +5277,8 @@
       "classification": "ok"
     },
     {
-      "ref": "/dich-vu#ao-khoac",
-      "url": "http://localhost/dich-vu#ao-khoac",
+      "ref": "/dich-vu/may-ao-khoac",
+      "url": "http://localhost/dich-vu/may-ao-khoac",
       "status": 404,
       "classification": "broken"
     },
@@ -5391,8 +5289,8 @@
       "classification": "ok"
     },
     {
-      "ref": "/dich-vu#local-brand",
-      "url": "http://localhost/dich-vu#local-brand",
+      "ref": "/dich-vu/#local-brand",
+      "url": "http://localhost/dich-vu/#local-brand",
       "status": 404,
       "classification": "broken"
     },
@@ -5401,12 +5299,6 @@
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-5d2a472d2560.jpg",
       "status": 200,
       "classification": "ok"
-    },
-    {
-      "ref": "/du-an/bst-ao-thun-local-brand",
-      "url": "http://localhost/du-an/bst-ao-thun-local-brand",
-      "status": 404,
-      "classification": "broken"
     },
     {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-bd89121eb52b.jpg",
@@ -5535,30 +5427,6 @@
       "classification": "external-or-protocol"
     },
     {
-      "ref": "/may-ao-thun/",
-      "url": "http://localhost/may-ao-thun/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/may-ao-so-mi/",
-      "url": "http://localhost/may-ao-so-mi/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/may-quan/",
-      "url": "http://localhost/may-quan/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
-      "ref": "/dich-vu/",
-      "url": "http://localhost/dich-vu/",
-      "status": 404,
-      "classification": "broken"
-    },
-    {
       "ref": "mailto:info@arden.com.vn",
       "status": null,
       "classification": "external-or-protocol"
@@ -5621,44 +5489,44 @@
     {
       "ref": "http://localhost/mytest/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
       "url": "http://localhost/mytest/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
       "url": "http://localhost/mytest/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
       "url": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
       "url": "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.7",
       "url": "http://localhost/mytest/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.7",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.0",
-      "status": null,
-      "classification": "broken"
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/js/native-interactions.js?ver=2.0.1",
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
       "url": "http://localhost/mytest/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D81",
@@ -5673,10 +5541,10 @@
       "classification": "broken"
     },
     {
-      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.0",
-      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.0",
-      "status": null,
-      "classification": "broken"
+      "ref": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+      "url": "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-json/wp/v2/pages/81",
@@ -5879,20 +5747,20 @@
     {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-b840913c6b00.jpg",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-ef49c57fb1f4.jpg",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
       "url": "http://localhost/mytest/wp-content/uploads/2026/08/arden-62193216ba5f.jpg",
-      "status": null,
-      "classification": "broken"
+      "status": 200,
+      "classification": "ok"
     },
     {
       "ref": "http://localhost/mytest/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fmytest%2F%3Fpage_id%3D82",
@@ -7762,6 +7630,12 @@
       "classification": "broken"
     },
     {
+      "ref": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "url": "http://localhost/mytest/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "status": null,
+      "classification": "broken"
+    },
+    {
       "ref": "http://localhost/mytest/wp-admin/customize.php?url=http://localhost/mytest/2026/08/25/chao-moi-nguoi/&autofocus%5Bpanel%5D=",
       "url": "http://localhost/mytest/wp-admin/customize.php?url=http://localhost/mytest/2026/08/25/chao-moi-nguoi/&autofocus%5Bpanel%5D=",
       "status": null,
@@ -9414,27 +9288,27 @@
       "classification": "broken"
     },
     {
-      "ref": "#tab_chính-sách-chung",
+      "ref": "#chung",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-bảo-mật",
+      "ref": "#chinh-sach-bao-mat",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-thanh-toán",
+      "ref": "#chinh-sach-thanh-toan",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-Đổi-trả-&-bảo-hành",
+      "ref": "#chinh-sach-doi-tra",
       "status": null,
       "classification": "hash-control"
     },
     {
-      "ref": "#tab_chính-sách-vận-chuyển",
+      "ref": "#chinh-sach-van-chuyen",
       "status": null,
       "classification": "hash-control"
     },

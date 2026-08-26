@@ -1,4 +1,23 @@
 document.addEventListener('DOMContentLoaded', function () {
+  /* Preserve native Flatsome controls while restoring the visible React heading semantics. */
+  document.querySelectorAll('.arden-faq__accordion .accordion-title, .arden-careers-accordion .accordion-title').forEach(function (title) {
+    if (title.querySelector('h3')) return;
+    var heading = document.createElement('h3');
+    heading.className = 'arden-native-control-heading';
+    Array.from(title.childNodes).forEach(function (node) {
+      if (node.nodeType === 1 && node.classList && node.classList.contains('toggle')) return;
+      heading.appendChild(node);
+    });
+    title.appendChild(heading);
+  });
+
+  document.querySelectorAll('body.page-id-83 .arden-fabric-tabs [role="tab"]').forEach(function (tab) {
+    if (tab.querySelector('h3')) return;
+    var heading = document.createElement('h3');
+    heading.className = 'arden-native-control-heading';
+    while (tab.firstChild) heading.appendChild(tab.firstChild);
+    tab.appendChild(heading);
+  });
   var input = document.querySelector('input[placeholder*="Tìm theo tên vải"]');
   var fabric = input && input.closest('.section');
 
