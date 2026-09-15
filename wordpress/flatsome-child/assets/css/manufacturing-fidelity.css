@@ -1,0 +1,106 @@
+/* Component geometry from ManufacturingPage; content remains editable in UX Builder. */
+.arden-react-page--manufacturing > .section > .section-content > .row { max-width:1216px !important; }
+
+@media (min-width:1024px) {
+  .arden-react-page--manufacturing section:nth-child(3) .row.lg\:grid-cols-12 > .col:first-child { grid-column:span 8; }
+  .arden-react-page--manufacturing section:nth-child(3) .row.lg\:grid-cols-12 > .col:last-child { grid-column:span 4; }
+  .arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:first-child { grid-column:span 5; }
+  .arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:last-child { grid-column:span 7; }
+}
+
+.arden-react-page--manufacturing section:nth-child(3) > .section-content > .row > .col > .col-inner > .text,
+.arden-react-page--manufacturing :is(section:nth-child(5),section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .text {
+  max-width:768px;
+  margin-inline:auto;
+  text-align:center;
+}
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) { margin-top:40px; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) > .col > .col-inner {
+  position:relative;
+  height:100%;
+  border:1px solid #e2e8f0;
+  border-radius:16px;
+  overflow:hidden;
+  background:#f8fafc;
+}
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .img { height:auto; margin:0; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .img-inner { height:auto; aspect-ratio:16/10; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .img-inner img { position:absolute; inset:0; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .text { padding-inline:20px; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .img + .text {
+  position:absolute;
+  top:12px;
+  right:12px;
+  width:auto;
+  padding:2px 8px;
+  border-radius:999px;
+  background:#0f172a;
+  color:#fff;
+  font-size:10px;
+  font-weight:700;
+}
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .text:has(h3) { padding-top:20px; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) .text:last-child { padding-bottom:20px; }
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) + .row {
+  margin-top:32px;
+  padding:24px;
+  border:1px solid #1e293b;
+  border-radius:16px;
+  background:#0f172a;
+  color:#cbd5e1;
+}
+.arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) + .row h4 { color:#fff; }
+.arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:first-child .img {
+  height:auto;
+  margin:0;
+  border-radius:16px;
+  overflow:hidden;
+}
+.arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:first-child .img-inner { aspect-ratio:4/3; }
+.arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:first-child img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.arden-react-page--manufacturing section:nth-child(4) .row.lg\:grid-cols-12 > .col:last-child > .col-inner {
+  display:grid;
+  gap:16px;
+}
+.arden-react-page--manufacturing .arden-capability-item {
+  position:relative;
+  min-height:72px;
+  padding:16px 16px 16px 68px;
+  border:1px solid #e2e8f0;
+  border-radius:12px;
+  background:#f8fafc;
+}
+.arden-react-page--manufacturing .arden-capability-item > .text { margin:0; }
+.arden-react-page--manufacturing .arden-capability-item > .text:first-child {
+  position:absolute;
+  top:16px;
+  left:16px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:36px;
+  height:36px;
+  border-radius:8px;
+  background:#1e3a8a;
+  color:#fff;
+  font-size:12px;
+  font-weight:700;
+}
+.arden-react-page--manufacturing .arden-capability-item :is(h3,p) { margin:0; }
+.arden-react-page--manufacturing .arden-capability-item h3 { margin-bottom:4px; }
+.arden-react-page--manufacturing :is(section:nth-child(5),section:nth-child(6),section:nth-child(7)) .row.grid { margin-top:48px; }
+.arden-react-page--manufacturing :is(section:nth-child(5),section:nth-child(6),section:nth-child(7)) .row.grid > .col > .col-inner {
+  height:100%;
+  padding:24px;
+  border:1px solid #e2e8f0;
+  border-radius:16px;
+  background:#fff;
+}
+.arden-react-page--manufacturing section:nth-child(7) .row.grid > .col > .col-inner { position:relative; padding-top:80px; background:#f8fafc; }
+.arden-react-page--manufacturing section:nth-child(7) .arden-semantic-icon--card {
+  position:absolute; top:24px; left:24px; display:flex; align-items:center; justify-content:center;
+  width:40px; height:40px; border-radius:12px; background:#1e3a8a; color:#fff;
+}
+@media (min-width:640px) {
+  .arden-react-page--manufacturing section:nth-child(3) .row.grid:has(.img) + .row { padding:32px; }
+}

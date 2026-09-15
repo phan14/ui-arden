@@ -1,5 +1,8 @@
 # Arden final pre-publish checklist
 
+- [ ] Inspect default WordPress Post ID 1 (`chao-moi-nguoi`) and, with owner approval, remove, unpublish, or replace it before public launch
+- [ ] Keep validation Post 109 and Project 110 Draft (or remove with approval); never publish them as production content
+
 - [ ] Phone and every `tel:` link verified
 - [ ] Email and CF7 recipients verified
 - [ ] Address and map destination verified

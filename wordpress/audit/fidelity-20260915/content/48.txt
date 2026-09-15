@@ -1,0 +1,594 @@
+[ux_html]
+
+<style id="arden-layout-fix">
+.arden-services .row,.arden-products .row,.arden-why-choose .row{align-items:stretch}
+.arden-services .col,.arden-products .col,.arden-why-choose .col{display:flex}
+.arden-services .col>.col-inner,.arden-products .col>.col-inner,.arden-why-choose .col>.col-inner{display:flex;flex:1 1 auto;flex-direction:column;width:100%}
+.arden-services .arden-card__body,.arden-products .ux-text,.arden-why-choose .featured-box{flex:1 1 auto}
+.arden-services .button,.arden-products .button{margin-top:auto}
+.arden-services .img,.arden-products .img{width:100%}
+.arden-services .img-inner,.arden-products .img-inner{aspect-ratio:4/3;overflow:hidden}
+.arden-services .img-inner img,.arden-products .img-inner img{width:100%;height:100%;object-fit:cover}
+.arden-product-tabs{display:flex;flex-wrap:wrap;gap:10px}
+.arden-product-tabs span{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;white-space:nowrap}
+.arden-mini-metrics .col-inner,.arden-feature-badges .col-inner{height:100%}
+.arden-mini-metrics p,.arden-feature-badges p,.arden-hero__caption p,.arden-metrics p{margin-bottom:0}
+@media(max-width:849px){.arden-product-tabs{flex-wrap:nowrap;overflow-x:auto;padding-bottom:8px;scrollbar-width:thin}}
+@media(max-width:549px){.arden-hero__content,.arden-hero__media{text-align:center}.arden-hero h1{font-size:clamp(28px,9vw,40px);line-height:1.12}.arden-button{width:100%;margin-right:0}}
+</style>
+[/ux_html]
+[section class="arden-page arden-section arden-hero"]
+
+[row v_align="middle" h_align="center"]
+
+[col span="7" span__sm="12" class="arden-hero__content"]
+
+[ux_text class="arden-eyebrow"]
+
+<p>XƯỞNG MAY GIA CÔNG LOCAL BRAND CHUYÊN NGHIỆP</p>
+[/ux_text]
+<h1>SẢN XUẤT THỜI TRANG THEO YÊU CẦU<br /><span style="color:var(--arden-primary)">CHUẨN XUẤT XƯỞNG B2B</span></h1>
+<p>Hậu phương sản xuất vững chắc cho các Local Brand và Doanh nghiệp. Nhận may trọn gói từ khâu phát triển mẫu rập vi tính, cung ứng vải, in/thêu đến hoàn thiện đóng gói.</p>
+[row_inner class="arden-feature-badges"]
+
+[col_inner span="4" span__sm="12"]
+
+[featured_box class="arden-card"]
+
+<h3>MOQ Linh Hoạt</h3>
+<p>Từ 100 áo/mẫu</p>
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="4" span__sm="12"]
+
+[featured_box class="arden-card"]
+
+<h3>Bảo Mật NDA</h3>
+<p>Độc quyền 100%</p>
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="4" span__sm="12"]
+
+[featured_box class="arden-card"]
+
+<h3>Bảo Hành Kỹ Thuật</h3>
+<p>1 đổi 1 nếu lỗi</p>
+
+[/featured_box]
+
+[/col_inner]
+
+[/row_inner]
+[button text="NHẬN BÁO GIÁ NHANH (30P)" link="/bao-gia" class="arden-button"]
+
+[button text="XEM CÁC DỰ ÁN ĐÃ MAY" style="outline" link="/du-an/" class="arden-button arden-button--outline"]
+
+
+[/col]
+[col span="5" span__sm="12" class="arden-hero__media"]
+
+[ux_image id="154" image_size="original"]
+
+[ux_text class="arden-hero__caption"]
+
+<p>✦ CHUẨN FORM OVERSIZE STREETWEAR</p>
+[/ux_text]
+[row_inner class="arden-mini-metrics"]
+
+[col_inner span="4"]
+
+<p><strong>100 áo</strong><br />MOQ Tối thiểu</p>
+
+
+[/col_inner]
+[col_inner span="4"]
+
+<p><strong>100%</strong><br />Kiểm FQC</p>
+
+[/col_inner]
+[col_inner span="4"]
+
+<p><strong>3-7 ngày</strong><br />Duyệt mẫu</p>
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[block id="26"]
+
+
+[/section]
+[section class="arden-section arden-services"]
+
+[row]
+
+[col span="9" span__sm="12"]
+
+[ux_text class="arden-section-title arden-section-title--left"]
+
+<p class="arden-eyebrow">DANH MỤC DỊCH VỤ SẢN XUẤT</p><h2>DỊCH VỤ GIA CÔNG MAY MẶC CHUYÊN SÂU</h2><p>Đáp ứng đa dạng dòng sản phẩm thời trang từ cơ bản đến cao cấp với tiêu chuẩn đường may tỉ mỉ, form dáng chuẩn xu hướng.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__sm="12" align="right"]
+
+[button text="XEM TẤT CẢ DỊCH VỤ" link="/dich-vu" class="arden-button arden-button--outline"]
+
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="150" image_size="arden-card"]
+
+[ux_text class="arden-card__body"]
+
+<h3>May Áo Thun</h3><p>Chuyên may áo thun oversize, form boxy, slimfit, baby tee, polo... Đáp ứng đa dạng định lượng vải từ 180 GSM đến 350 GSM.</p><ul><li>Vải Cotton 100%, Cotton 2C/4C, CVC, TC</li><li>Bo cổ dệt riêng, xử lý chống bai nhão</li><li>In lụa, DTG, thêu vi tính độ nét cao</li></ul>
+[/ux_text]
+[button text="XEM CHI TIẾT &amp; BÁO GIÁ" link="/dich-vu/may-ao-thun" class="arden-button arden-button--outline"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="151" image_size="arden-card"]
+
+[ux_text class="arden-card__body"]
+
+<h3>May Áo Sơ Mi</h3><p>May áo sơ mi Oxford, sơ mi lụa, modal, linen, kaki mỏng. Đường may mí 1mm sắc sảo, form dáng chuẩn công sở lẫn streetwear.</p><ul><li>Cổ áo keo ép nhiệt không phồng rộp</li><li>May mí cuộn sườn kỹ thuật cao</li><li>Nút áo khắc laser thương hiệu</li></ul>
+[/ux_text]
+[button text="XEM CHI TIẾT &amp; BÁO GIÁ" link="/dich-vu/may-ao-so-mi" class="arden-button arden-button--outline"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="152" image_size="arden-card"]
+
+[ux_text class="arden-card__body"]
+
+<h3>May Quần</h3><p>Gia công quần short, quần dài kaki, jeans denim 12oz, quần túi hộp cargo pants, quần dù gió dù nhăn và nỉ da cá.</p><ul><li>Xử lý wash mềm, wash vintage theo yêu cầu</li><li>Dây kéo YKK đồng bộ, chỉ may chịu lực</li><li>Form dáng fit chuẩn từng size</li></ul>
+[/ux_text]
+[button text="XEM CHI TIẾT &amp; BÁO GIÁ" link="/dich-vu/may-quan" class="arden-button arden-button--outline"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="153" image_size="arden-card"]
+
+[ux_text class="arden-card__body"]
+
+<h3>May Áo Khoác</h3><p>Sản xuất áo khoác Bomber, Varsity Jacket, Hoodie nỉ bông 380gsm, áo khoác dù 2 lớp chống nước và chần bông mùa đông.</p><ul><li>Vải dù kháng nước, lót lưới/lụa cao cấp</li><li>Bo cổ &amp; tay áo dệt sọc độc quyền</li><li>Khóa kéo kim loại, nút bấm mạ bóng</li></ul>
+[/ux_text]
+[button text="XEM CHI TIẾT &amp; BÁO GIÁ" link="/dich-vu/may-ao-khoac" class="arden-button arden-button--outline"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="143" image_size="arden-card"]
+
+[ux_text class="arden-card__body"]
+
+<div id="local-brand"><h3>Gia Công Local Brand</h3></div><p>Dịch vụ trọn gói ODM/OEM cho các thương hiệu thời trang: phát triển mẫu, may nhãn dệt/nhãn satin, gắn thẻ bài, đóng túi zip in logo.</p><ul><li>Bảo mật 100% mẫu thiết kế (kèm hợp đồng NDA)</li><li>Tối ưu định mức vải tiết kiệm chi phí</li><li>Đóng gói chuẩn xuất xưởng sẵn sàng bán lẻ</li></ul>
+[/ux_text]
+[button text="XEM CHI TIẾT &amp; BÁO GIÁ" link="/dich-vu/#local-brand" class="arden-button arden-button--outline"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section class="arden-section arden-products"]
+
+[row]
+
+[col span="9" span__sm="12"]
+
+[ux_text class="arden-section-title arden-section-title--left"]
+
+<p class="arden-eyebrow">DANH MỤC THỰC TẾ</p><h2>CÁC DÒNG TRANG PHỤC THẾ MẠNH SẢN XUẤT</h2><p>Xem chi tiết các chủng loại trang phục chủ lực được may theo thông số rập độc quyền của thương hiệu.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__sm="12" align="right"]
+
+[button text="NHẬN BÁO GIÁ THEO MẪU" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+
+[/row]
+[row]
+
+[col]
+
+[ux_text class="arden-product-tabs"]
+
+<span>Tất cả sản phẩm</span><span>Áo thun &amp; Polo</span><span>Áo sơ mi thiết kế</span><span>Quần Kaki &amp; Cargo</span><span>Áo khoác &amp; Hoodie</span>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="155" image_size="arden-card"]
+
+<p class="arden-card__meta">Áo Thun · Số lượng: 300+ sp</p>
+<h3>BST Áo Thun Local Brand ADC</h3>
+<p class="arden-icon-product-meta arden-icon-product-meta--with-clock">Chất liệu: Cotton 2 chiều 250 GSM<br />Thời gian may: 15 ngày</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="156" image_size="arden-card"]
+
+<p class="arden-card__meta">Áo Khoác &amp; Hoodie · Số lượng: 300+ sp</p>
+<h3>BST Hoodie Streetwear Mùa Đông</h3>
+<p class="arden-icon-product-meta">Chất liệu: French Terry 380 GSM</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="157" image_size="arden-card"]
+
+<p class="arden-card__meta">Quần · Số lượng: 300+ sp</p>
+<h3>Quần Jean Nam Form Ống Rộng</h3>
+<p class="arden-icon-product-meta">Chất liệu: Denim 12oz - Wash Vintage</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="158" image_size="arden-card"]
+
+<p class="arden-card__meta">Áo Sơ Mi · Số lượng: 400+ sp</p>
+<h3>Áo Sơ Mi Oversize Casual</h3>
+<p class="arden-icon-product-meta">Chất liệu: Cotton 2 chiều dệt nổi</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="159" image_size="arden-card"]
+
+<p class="arden-card__meta">Áo Khoác · Số lượng: 200+ sp</p>
+<h3>Jacket Bomber Phối Màu</h3>
+<p class="arden-icon-product-meta">Chất liệu: Nylon - Lót viền bo dệt</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[ux_image id="156" image_size="arden-card"]
+
+<p class="arden-card__meta">Đồng Phục · Số lượng: 1.000+ sp</p>
+<h3>Đồng Phục Doanh Nghiệp Tech</h3>
+<p class="arden-icon-product-meta">Chất liệu: Poly 2 chiều - Co giãn</p>
+[button text="Xem Case Study" link="/du-an/" class="arden-button arden-button--outline"]
+
+[button text="Báo Giá" link="/bao-gia" class="arden-button"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section class="arden-section arden-metrics"]
+
+[row]
+
+[col span="2" span__sm="6" span__md="4"]
+
+<p><strong>10+</strong><br />Năm kinh nghiệm<br /><small>Gia công may mặc B2B</small></p>
+
+[/col]
+[col span="3" span__sm="6" span__md="4"]
+
+<p><strong>500.000+</strong><br />Sản phẩm đã sản xuất<br /><small>Đạt chuẩn kiểm định</small></p>
+
+[/col]
+[col span="2" span__sm="6" span__md="4"]
+
+<p><strong>100+</strong><br />Khách hàng thân thiết<br /><small>Local brand &amp; Doanh nghiệp</small></p>
+
+[/col]
+[col span="2" span__sm="6" span__md="6"]
+
+<p><strong>98%</strong><br />Đúng tiến độ<br /><small>Cam kết bằng hợp đồng</small></p>
+
+[/col]
+[col span="3" span__sm="12" span__md="6"]
+
+<p><strong>3 - 7 ngày</strong><br />Thời gian làm mẫu<br /><small>Nhanh chóng, chuẩn xác</small></p>
+
+[/col]
+
+[/row]
+
+[/section]
+[block id="arden-factory"]
+
+[section class="arden-section arden-capabilities"]
+
+[row v_align="middle"]
+
+[col span="5" span__sm="12"]
+
+[ux_image id="143" image_size="arden-factory"]
+
+<h3>Xưởng May Arden TP.HCM</h3>
+<p>60+ công nhân tay nghề cao và 100+ máy may chuyên dụng.</p>
+
+[/col]
+[col span="7" span__sm="12"]
+
+[ux_text class="arden-section-title arden-section-title--left"]
+
+<p class="arden-eyebrow">NĂNG LỰC SẢN XUẤT</p><h2>DÂY CHUYỀN MAY CÔNG NGHIỆP KHÉP KÍN</h2><p>Tối ưu từng mắt xích trong chuỗi cung ứng may mặc để đem lại đơn giá cạnh tranh nhất cho đối tác.</p>
+[/ux_text]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">01</span></p>
+<h3>Diện tích nhà xưởng hơn 1.000m² tại TP.HCM</h3>
+<p>Bố trí khoa học theo dây chuyền từ kho vải, bàn cắt tự động, chuyền may đến khu vực QC và đóng gói.</p>
+
+[/featured_box]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">02</span></p>
+<h3>Hơn 100 máy may chuyên dụng hiện đại</h3>
+<p>Trang bị máy may 1 kim điện tử Juki, máy vắt sổ 4-5 chỉ Siruba, máy cào bọ, máy Kansai viền cổ hiện đại.</p>
+
+[/featured_box]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">03</span></p>
+<h3>Đội ngũ 60+ công nhân may lành nghề</h3>
+<p>Thợ may giàu kinh nghiệm trên 5 năm tay nghề, được đào tạo chuyên sâu về kỹ thuật may hàng thiết kế cao cấp.</p>
+
+[/featured_box]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">04</span></p>
+<h3>Kiểm soát chất lượng 3 bước (IQC - IPQC - FQC)</h3>
+<p>Kiểm vải đầu vào, kiểm tra bán thành phẩm trên chuyền và kiểm tra 100% thành phẩm trước khi xuất xưởng.</p>
+
+[/featured_box]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">05</span></p>
+<h3>Năng lực sản xuất 50.000+ sản phẩm/tháng</h3>
+<p>Đáp ứng linh hoạt các đơn hàng từ số lượng nhỏ đến đơn hàng lớn giao định kỳ hàng tháng cho các chuỗi thời trang.</p>
+
+[/featured_box]
+[featured_box class="arden-capability-item"]
+
+<p><span class="arden-step-number" aria-hidden="true">06</span></p>
+<h3>Nhận đơn hàng từ 30 sản phẩm</h3>
+<p>Hỗ trợ tối đa cho các Local Brand khởi nghiệp thử nghiệm thị trường với số lượng may mẫu và đợt hàng đầu nhỏ gọn.</p>
+
+[/featured_box]
+[button text="ĐĂNG KÝ THĂM XƯỞNG TRỰC TIẾP" link="/lien-he" class="arden-button"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[block id="arden-process"]
+
+[block id="arden-moq-policy"]
+
+[section class="arden-section arden-section--alt arden-pricing"]
+
+[row]
+
+[col]
+
+[ux_text class="arden-section-title"]
+
+<p class="arden-eyebrow">BẢNG GIÁ DỰ TOÁN</p><h2>TÍNH DỰ TOÁN CHI PHÍ SẢN XUẤT XUẤT XƯỞNG</h2><p>Công cụ ước tính đơn giá tham khảo theo số lượng và chủng loại sản phẩm. Đơn giá thực tế bóc tách theo bản rập.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col]
+
+<p>[arden_pricing_calculator]</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section class="arden-section arden-portfolio"]
+
+[row]
+
+[col span="9" span__sm="12"]
+
+[ux_text class="arden-section-title arden-section-title--left"]
+
+<p class="arden-eyebrow">BỘ SƯU TẬP TIÊU BIỂU</p><h2>CÁC DỰ ÁN ĐÃ GIA CÔNG THỰC TẾ</h2><p>Chiêm ngưỡng những sản phẩm may mặc thực tế xuất xưởng cho các đối tác Local Brand hàng đầu.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__sm="12"]
+
+[button text="XEM TOÀN BỘ 50+ DỰ ÁN" link="/du-an" class="arden-button arden-button--outline"]
+
+
+[/col]
+
+[/row]
+[row]
+
+[col]
+
+[arden_projects]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section class="arden-section arden-section--alt arden-why-choose"]
+
+[row]
+
+[col]
+
+[ux_text class="arden-section-title"]
+
+<p class="arden-eyebrow">CAM KẾT CHẤT LƯỢNG</p><h2>VÌ SAO 100+ LOCAL BRAND TIN TƯỞNG ARDEN?</h2><p>Chúng tôi là đối tác sản xuất chiến lược đồng hành cùng sự phát triển bền vững của thương hiệu bạn.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Chất lượng ổn định</h3>
+<p>Từng đường kim mũi chỉ được kiểm soát chặt chẽ, form dáng chuẩn mẫu duyệt, không xù lông co rút sau giặt.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Hỗ trợ phát triển mẫu</h3>
+<p>Đội ngũ kỹ thuật rập hỗ trợ lên rập theo sketch ý tưởng, tư vấn chất liệu vải xu hướng mới nhất.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Tiến độ đúng hẹn</h3>
+<p>Cam kết tiến độ bàn giao rõ ràng trong hợp đồng, hỗ trợ đẩy nhanh đơn gấp theo lịch ra mắt BST.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Giá cả cạnh tranh</h3>
+<p>Báo giá trực tiếp tận gốc từ xưởng sản xuất, không qua trung gian, tối ưu hóa định mức nguyên phụ liệu.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Bảo mật thiết kế</h3>
+<p>Ký cam kết bảo mật mẫu độc quyền cho từng thương hiệu, không chia sẻ file rập hay mẫu ra bên ngoài.</p>
+
+[/featured_box]
+
+[/col]
+[col span="4" span__sm="12" span__md="6"]
+
+[featured_box]
+
+<h3>Đồng hành lâu dài</h3>
+<p>Lưu trữ file rập và định mức trọn đời, hỗ trợ restock sản phẩm nhanh chóng từ 3 - 5 ngày.</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+
+[/section]
+[block id="arden-testimonials"]
+
+[section class="arden-section arden-section--alt arden-blog"]
+
+[row]
+
+[col span="9" span__sm="12"]
+
+[ux_text class="arden-section-title arden-section-title--left"]
+
+<p class="arden-eyebrow">CẨM NANG MAY MẶC</p><h2>GÓC KINH NGHIỆM CHO NHÀ SÁNG LẬP LOCAL BRAND</h2><p>Chia sẻ kiến thức chuyên sâu về phân biệt chất liệu vải, định mức vải và bí quyết quản trị chi phí sản xuất.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__sm="12"]
+
+[button text="XEM TẤT CẢ BÀI VIẾT" link="/tin-tuc" class="arden-button arden-button--outline"]
+
+
+[/col]
+
+[/row]
+[row]
+
+[col]
+
+[arden_recent_posts]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[block id="arden-faq"]
+
+[block id="arden-cta"]

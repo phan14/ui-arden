@@ -1,0 +1,2438 @@
+{
+  "generatedAt": "2026-08-29T01:46:36.373Z",
+  "cases": [
+    {
+      "name": "home",
+      "width": 1440,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1440,
+          "height": 605.56,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 112,
+          "width": 689.33,
+          "height": 169.56,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 13871.23,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1440,
+          "height": 13261.86,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 112,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 112,
+          "width": 389.33,
+          "height": 540.58,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 112,
+          "width": 689.33,
+          "height": 460.56,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-[1.15]",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "space-y-3",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "lg:col-span-7 space-y-6",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center",
+            "x": 112,
+            "width": 1216,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-12 sm:py-18 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1440,
+            "padding": "72px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1440,
+          "height": 682.16,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 112,
+          "width": 689.33,
+          "height": 165.56,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 13029.66,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1440,
+          "height": 13029.66,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 112,
+          "width": 293.52,
+          "height": 50,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "10px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 112,
+          "width": 199.77,
+          "height": 90,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(15, 23, 42, 0.06) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null,
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col arden-hero__content medium-7 small-12 large-7",
+            "x": 112,
+            "width": 689.33,
+            "padding": "0px 0px 30px"
+          },
+          {
+            "tag": "div",
+            "classes": "row align-middle align-center",
+            "x": 112,
+            "width": 1216,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-page arden-section arden-hero",
+            "x": 0,
+            "width": 1440,
+            "padding": "30px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "heroWidth": true,
+        "h1Geometry": true,
+        "buttonMargin": true,
+        "buttonGap": true,
+        "buttonShadow": true,
+        "buttonHeight": true,
+        "cardRadius": true
+      },
+      "pass": true
+    },
+    {
+      "name": "about",
+      "width": 1440,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1440,
+          "height": 255.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 112,
+          "width": 768,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 5286.31,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1440,
+          "height": 4676.94,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 112,
+          "width": 389.33,
+          "height": 226.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 112,
+          "width": 280,
+          "height": 115.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 112,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "mt-4 space-y-3 max-w-3xl",
+            "x": 112,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1440,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans selection:bg-blue-900 selection:text-white",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1440,
+          "height": 275.39,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 80,
+          "width": 1280,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 8040.72,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1440,
+          "height": 8040.72,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 112,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": null,
+        "aboutGrid": {
+          "x": 112,
+          "width": 1216,
+          "height": 157.64,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px 32px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "280px 280px 280px 280px"
+        },
+        "aboutGridChild": {
+          "x": 112,
+          "width": 280,
+          "height": 125.64,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col medium-12 large-12",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "row row-collapse row-full-width",
+            "x": 80,
+            "width": 1280,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1440,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "arden-react-page arden-react-page--about",
+            "x": 0,
+            "width": 1440,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "gridChildWidth": true
+      },
+      "pass": true
+    },
+    {
+      "name": "home",
+      "width": 1024,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1024,
+          "height": 805.94,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 32,
+          "width": 540,
+          "height": 279.94,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 14092.06,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1024,
+          "height": 13437.56,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 32,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 32,
+          "width": 304,
+          "height": 487.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 32,
+          "width": 540,
+          "height": 660.94,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-[1.15]",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "space-y-3",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "lg:col-span-7 space-y-6",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-12 sm:py-18 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1024,
+            "padding": "72px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1024,
+          "height": 742.34,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 32,
+          "width": 540,
+          "height": 141.28,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 20.48px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 13082.92,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1024,
+          "height": 13082.92,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 32,
+          "width": 293.52,
+          "height": 50,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "10px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 32,
+          "width": 150,
+          "height": 120,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(15, 23, 42, 0.06) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null,
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 32,
+            "width": 540,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col arden-hero__content medium-7 small-12 large-7",
+            "x": 32,
+            "width": 540,
+            "padding": "0px 0px 30px"
+          },
+          {
+            "tag": "div",
+            "classes": "row align-middle align-center",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-page arden-section arden-hero",
+            "x": 0,
+            "width": 1024,
+            "padding": "30px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "heroWidth": true,
+        "h1Geometry": true,
+        "buttonMargin": true,
+        "buttonGap": true,
+        "buttonShadow": true,
+        "buttonHeight": true,
+        "cardRadius": true
+      },
+      "pass": true
+    },
+    {
+      "name": "about",
+      "width": 1024,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1024,
+          "height": 255.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 32,
+          "width": 768,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 5453.44,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1024,
+          "height": 4798.94,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 32,
+          "width": 304,
+          "height": 303.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 32,
+          "width": 216,
+          "height": 134.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 32,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "mt-4 space-y-3 max-w-3xl",
+            "x": 32,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px 32px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1024,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans selection:bg-blue-900 selection:text-white",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 1024,
+          "height": 275.39,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 32,
+          "width": 960,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 7707,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 1024,
+          "height": 7707,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 32,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": null,
+        "aboutGrid": {
+          "x": 32,
+          "width": 960,
+          "height": 157.64,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "216px 216px 216px 216px"
+        },
+        "aboutGridChild": {
+          "x": 32,
+          "width": 216,
+          "height": 125.64,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col medium-12 large-12",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "row row-collapse row-full-width",
+            "x": 32,
+            "width": 960,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 1024,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "arden-react-page arden-react-page--about",
+            "x": 0,
+            "width": 1024,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "gridChildWidth": true
+      },
+      "pass": true
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 768,
+          "height": 1164.78,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 86.78,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 18487.16,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 768,
+          "height": 17485.03,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 24,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 24,
+          "width": 348,
+          "height": 514.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 24,
+          "width": 720,
+          "height": 371.28,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-[1.15]",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "space-y-3",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "lg:col-span-7 space-y-6",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 768,
+            "padding": "0px 24px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-12 sm:py-18 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 768,
+            "padding": "72px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 768,
+          "height": 1308.88,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 70.63,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 15.36px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 18334.44,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 768,
+          "height": 18334.44,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 24,
+          "width": 293.52,
+          "height": 50,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "10px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 24,
+          "width": 210,
+          "height": 90,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(15, 23, 42, 0.06) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null,
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col arden-hero__content medium-7 small-12 large-7",
+            "x": 24,
+            "width": 720,
+            "padding": "0px 0px 30px"
+          },
+          {
+            "tag": "div",
+            "classes": "row align-middle align-center",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 768,
+            "padding": "0px 24px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-page arden-section arden-hero",
+            "x": 0,
+            "width": 768,
+            "padding": "30px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "heroWidth": true,
+        "h1Geometry": true,
+        "buttonMargin": true,
+        "buttonGap": true,
+        "buttonShadow": true,
+        "buttonHeight": true,
+        "cardRadius": true
+      },
+      "pass": true
+    },
+    {
+      "name": "about",
+      "width": 768,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 768,
+          "height": 240.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 45,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 7643.13,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 768,
+          "height": 6641,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 24,
+          "width": 224,
+          "height": 349.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 24,
+          "width": 344,
+          "height": 88,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "mt-4 space-y-3 max-w-3xl",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 768,
+            "padding": "0px 24px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 768,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans selection:bg-blue-900 selection:text-white",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 768,
+          "height": 254.39,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 45,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 18px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 8796.06,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 768,
+          "height": 8796.06,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 24,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": null,
+        "aboutGrid": {
+          "x": 24,
+          "width": 720,
+          "height": 315.28,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "344px 344px"
+        },
+        "aboutGridChild": {
+          "x": 24,
+          "width": 344,
+          "height": 125.64,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col medium-12 large-12",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "row row-collapse row-full-width",
+            "x": 24,
+            "width": 720,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 768,
+            "padding": "56px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "arden-react-page arden-react-page--about",
+            "x": 0,
+            "width": 768,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "gridChildWidth": true
+      },
+      "pass": true
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 390,
+          "height": 1133,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 142,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 27540.56,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 390,
+          "height": 26098.81,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 16,
+          "width": 150.5,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 16,
+          "width": 358,
+          "height": 474.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 661,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-[1.15]",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "space-y-3",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "lg:col-span-7 space-y-6",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 390,
+            "padding": "0px 16px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-12 sm:py-18 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 390,
+            "padding": "48px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 390,
+          "height": 1624.48,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 138,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 15px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 29707.13,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 390,
+          "height": 29707.13,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 16,
+          "width": 293.52,
+          "height": 50,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "10px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 16,
+          "width": 328,
+          "height": 82,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(15, 23, 42, 0.06) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null,
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col arden-hero__content medium-7 small-12 large-7",
+            "x": 16,
+            "width": 358,
+            "padding": "0px 0px 30px"
+          },
+          {
+            "tag": "div",
+            "classes": "row align-middle align-center",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 390,
+            "padding": "0px 16px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-page arden-section arden-hero",
+            "x": 0,
+            "width": 390,
+            "padding": "30px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "heroWidth": true,
+        "h1Geometry": true,
+        "buttonMargin": true,
+        "buttonGap": true,
+        "buttonShadow": true,
+        "buttonHeight": true,
+        "cardRadius": true
+      },
+      "pass": true
+    },
+    {
+      "name": "about",
+      "width": 390,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 390,
+          "height": 255,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 75,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 10492.22,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 390,
+          "height": 9050.47,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 16,
+          "width": 358,
+          "height": 232,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 88,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "mt-4 space-y-3 max-w-3xl",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10",
+            "x": 0,
+            "width": 390,
+            "padding": "0px 16px"
+          },
+          {
+            "tag": "section",
+            "classes": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 390,
+            "padding": "40px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "flex flex-col min-h-screen bg-white font-sans text-slate-800",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          },
+          {
+            "tag": "main",
+            "classes": "flex-grow",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans selection:bg-blue-900 selection:text-white",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          }
+        ]
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 0,
+          "width": 390,
+          "height": 272.98,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 73.59,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 11381.86,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "content": {
+          "x": 0,
+          "width": 390,
+          "height": 11381.86,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 16,
+          "width": 207.09,
+          "height": 44,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 12px 12px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": null,
+        "aboutGrid": {
+          "x": 16,
+          "width": 358,
+          "height": 564.06,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "24px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "358px"
+        },
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 121.89,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1Ancestors": [
+          {
+            "tag": "h1",
+            "classes": "text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "text text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-slate-950 leading-tight",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col-inner",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "col medium-12 large-12",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "row row-collapse row-full-width",
+            "x": 16,
+            "width": 358,
+            "padding": "0px"
+          },
+          {
+            "tag": "div",
+            "classes": "section-content relative",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          },
+          {
+            "tag": "section",
+            "classes": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+            "x": 0,
+            "width": 390,
+            "padding": "40px 0px"
+          },
+          {
+            "tag": "div",
+            "classes": "arden-react-page arden-react-page--about",
+            "x": 0,
+            "width": 390,
+            "padding": "0px"
+          }
+        ]
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "gridChildWidth": true
+      },
+      "pass": true
+    }
+  ],
+  "pass": true
+}

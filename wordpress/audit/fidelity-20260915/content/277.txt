@@ -1,0 +1,316 @@
+[section padding="44px" padding__sm="32px" bg_color="#f7f9fc"]
+
+<style>
+.arden-cert-card{
+  height:100%;
+  min-height:195px;
+  background:#ffffff;
+  border:1px solid #e1e7ef;
+  border-radius:15px;
+  padding:18px 19px;
+  box-sizing:border-box;
+  box-shadow:0 5px 18px rgba(15,23,42,.05);
+  transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+.arden-cert-card:hover{
+  transform:translateY(-6px);
+  box-shadow:0 16px 32px rgba(15,23,42,.13);
+}
+.arden-cert-card.is-blue:hover{ border-color:#b9d3fb; }
+.arden-cert-card.is-green:hover{ border-color:#bdf0d8; }
+.arden-cert-card.is-orange:hover{ border-color:#fecfa0; }
+.arden-cert-card.is-purple:hover{ border-color:#ddc6fb; }
+
+.arden-cert-icon{
+  width:38px;
+  height:38px;
+  border-radius:11px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-shrink:0;
+}
+.arden-cert-icon span{
+  display:inline-block;
+  font-size:17px;
+  font-weight:800;
+  line-height:1;
+  transform:translateY(-1px);
+}
+.arden-cert-badge{
+  display:inline-flex;
+  align-items:center;
+  padding:4px 9px;
+  border-radius:999px;
+  font-size:9px;
+  line-height:1;
+  font-weight:700;
+  letter-spacing:.3px;
+  white-space:nowrap;
+}
+</style>
+
+<div style="width:100%;max-width:1240px;margin:0 auto;padding:0 15px;box-sizing:border-box;">
+
+[row]
+[col span="12" align="center"]
+
+[ux_text text_align="center"]
+
+<p style="
+display:inline-block;
+margin:0 0 10px;
+padding:6px 14px;
+background:#ffffff;
+border:1px solid #c9dcf8;
+border-radius:999px;
+font-size:10px;
+line-height:1.2;
+font-weight:700;
+color:#17469e;
+letter-spacing:.5px;
+">
+TIÊU CHUẨN KIỂM ĐỊNH
+</p>
+
+<h2 style="
+margin:0 auto 9px;
+max-width:820px;
+font-size:32px;
+line-height:1.13;
+font-weight:800;
+color:#0b1324;
+letter-spacing:-.5px;
+">
+CHỨNG NHẬN CHẤT LƯỢNG &amp; CAM KẾT PHÁP LÝ
+</h2>
+
+<p style="
+max-width:680px;
+margin:0 auto 20px;
+font-size:14px;
+line-height:1.55;
+font-weight:400;
+color:#64748b;
+">
+Các tiêu chuẩn chất lượng, kiểm định và cam kết bảo mật giúp khách hàng an tâm trong suốt quá trình gia công tại Xưởng may Arden.
+</p>
+
+[/ux_text]
+
+[/col]
+[/row]
+
+
+[row col_style="normal" h_align="center"]
+
+
+<!-- CARD 1 — Xanh dương (Chất lượng) -->
+[col span="3" span__md="6" span__sm="12" padding="7px"]
+
+<div class="arden-cert-card is-blue">
+
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;">
+
+<div class="arden-cert-icon" style="background:#eef5ff;">
+<span style="color:#17469e;">★</span>
+</div>
+
+<span class="arden-cert-badge" style="background:#f3f7ff;border:1px solid #d8e6fb;color:#17469e;">
+CHẤT LƯỢNG
+</span>
+
+</div>
+
+<h3 style="
+margin:0 0 3px;
+font-size:14px;
+line-height:1.35;
+font-weight:800;
+color:#111827;
+">
+ISO 9001:2015
+</h3>
+
+<p style="
+margin:0 0 9px;
+font-size:10.5px;
+line-height:1.4;
+font-weight:500;
+color:#94a3b8;
+">
+Quản lý chất lượng
+</p>
+
+<p style="
+margin:0;
+font-size:12px;
+line-height:1.6;
+color:#475569;
+">
+Kiểm soát quy trình sản xuất đồng bộ từ tiếp nhận nguyên liệu, cắt may, hoàn thiện đến đóng gói.
+</p>
+
+</div>
+
+[/col]
+
+
+<!-- CARD 2 — Xanh lá (An toàn) -->
+[col span="3" span__md="6" span__sm="12" padding="7px"]
+
+<div class="arden-cert-card is-green">
+
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;">
+
+<div class="arden-cert-icon" style="background:#ecfdf5;">
+<span style="color:#059669;">✓</span>
+</div>
+
+<span class="arden-cert-badge" style="background:#f0fdf8;border:1px solid #d1fae5;color:#047857;">
+AN TOÀN
+</span>
+
+</div>
+
+<h3 style="
+margin:0 0 3px;
+font-size:14px;
+line-height:1.35;
+font-weight:800;
+color:#111827;
+">
+OEKO-TEX STANDARD 100
+</h3>
+
+<p style="
+margin:0 0 9px;
+font-size:10.5px;
+line-height:1.4;
+font-weight:500;
+color:#94a3b8;
+">
+An toàn vật liệu dệt may
+</p>
+
+<p style="
+margin:0;
+font-size:12px;
+line-height:1.6;
+color:#475569;
+">
+Ưu tiên nguyên liệu và mực in đáp ứng tiêu chuẩn an toàn, hạn chế các chất có nguy cơ gây kích ứng da.
+</p>
+
+</div>
+
+[/col]
+
+
+<!-- CARD 3 — Cam (Pháp lý) -->
+[col span="3" span__md="6" span__sm="12" padding="7px"]
+
+<div class="arden-cert-card is-orange">
+
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;">
+
+<div class="arden-cert-icon" style="background:#fff7ed;">
+<span style="color:#ea580c;">▣</span>
+</div>
+
+<span class="arden-cert-badge" style="background:#fff7ed;border:1px solid #fed7aa;color:#c2410c;">
+PHÁP LÝ
+</span>
+
+</div>
+
+<h3 style="
+margin:0 0 3px;
+font-size:14px;
+line-height:1.35;
+font-weight:800;
+color:#111827;
+">
+HỢP ĐỒNG &amp; NDA
+</h3>
+
+<p style="
+margin:0 0 9px;
+font-size:10.5px;
+line-height:1.4;
+font-weight:500;
+color:#94a3b8;
+">
+Bảo mật thương hiệu
+</p>
+
+<p style="
+margin:0;
+font-size:12px;
+line-height:1.6;
+color:#475569;
+">
+Cam kết bảo mật thiết kế, bảng thông số, mẫu rập và tài liệu thương hiệu theo thỏa thuận hợp tác.
+</p>
+
+</div>
+
+[/col]
+
+
+<!-- CARD 4 — Tím (Kiểm định) -->
+[col span="3" span__md="6" span__sm="12" padding="7px"]
+
+<div class="arden-cert-card is-purple">
+
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;">
+
+<div class="arden-cert-icon" style="background:#f5f0ff;">
+<span style="color:#7c3aed;">✓</span>
+</div>
+
+<span class="arden-cert-badge" style="background:#f7f3ff;border:1px solid #e4d6fe;color:#6d28d9;">
+KIỂM ĐỊNH
+</span>
+
+</div>
+
+<h3 style="
+margin:0 0 3px;
+font-size:14px;
+line-height:1.35;
+font-weight:800;
+color:#111827;
+">
+KIỂM HÀNG FQC 100%
+</h3>
+
+<p style="
+margin:0 0 9px;
+font-size:10.5px;
+line-height:1.4;
+font-weight:500;
+color:#94a3b8;
+">
+Kiểm tra trước xuất xưởng
+</p>
+
+<p style="
+margin:0;
+font-size:12px;
+line-height:1.6;
+color:#475569;
+">
+Sản phẩm được kiểm tra ngoại quan, thông số, đường may và hoàn thiện trước khi đóng gói giao khách.
+</p>
+
+</div>
+
+[/col]
+
+
+[/row]
+
+</div>
+
+[/section]

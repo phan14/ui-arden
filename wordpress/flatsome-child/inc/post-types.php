@@ -30,6 +30,21 @@ function arden_register_project_post_type() {
 			'supports'     => array( 'title', 'editor', 'excerpt', 'thumbnail', 'revisions' ),
 		),
 	);
+
+	register_taxonomy(
+		'project_category',
+		array( 'project' ),
+		array(
+			'labels'       => array(
+				'name'          => __( 'Project categories', 'arden-flatsome-child' ),
+				'singular_name' => __( 'Project category', 'arden-flatsome-child' ),
+			),
+			'public'       => true,
+			'show_in_rest' => true,
+			'hierarchical' => true,
+			'rewrite'      => array( 'slug' => 'du-an/danh-muc', 'with_front' => false ),
+		)
+	);
 }
 add_action( 'init', 'arden_register_project_post_type' );
 

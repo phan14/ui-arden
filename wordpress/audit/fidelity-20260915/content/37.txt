@@ -1,0 +1,482 @@
+[section class="arden-section arden-faq"]
+
+<style>
+
+/* =====================================================
+   ARDEN FAQ - FIXED
+===================================================== */
+
+.arden-faq{
+    background:#ffffff;
+    padding-top:48px !important;
+    padding-bottom:48px !important;
+}
+
+
+/* ================= HEADER ================= */
+
+.arden-faq .arden-section-title{
+    max-width:820px;
+    margin:0 auto 30px;
+    text-align:center;
+}
+
+.arden-faq .arden-eyebrow{
+    display:inline-block;
+    margin:0 0 10px !important;
+    padding:6px 14px;
+
+    background:#ffffff;
+    border:1px solid #bfdbfe;
+    border-radius:999px;
+
+    color:#1e3a8a;
+
+    font-size:11px !important;
+    line-height:1.2 !important;
+    font-weight:700 !important;
+
+    letter-spacing:.6px;
+    text-transform:uppercase;
+}
+
+.arden-faq .arden-section-title h2{
+    max-width:800px;
+    margin:0 auto 10px !important;
+
+    color:#020617 !important;
+
+    font-size:32px !important;
+    line-height:1.18 !important;
+    font-weight:900 !important;
+
+    letter-spacing:-.6px;
+}
+
+.arden-faq .arden-section-title > p:last-child{
+    max-width:680px;
+    margin:0 auto !important;
+
+    color:#64748b !important;
+
+    font-size:15px !important;
+    line-height:1.6 !important;
+}
+
+
+/* ================= ACCORDION ================= */
+
+.arden-faq__accordion{
+    width:100%;
+}
+
+
+/* ================= ITEM ================= */
+
+.arden-faq__accordion .accordion-item{
+    position:relative;
+
+    margin:0 0 13px !important;
+
+    background:#ffffff;
+
+    border:1px solid #e2e8f0 !important;
+    border-radius:14px !important;
+
+    overflow:hidden;
+
+    box-shadow:0 2px 8px rgba(15,23,42,.025);
+
+    transition:
+        border-color .22s ease,
+        box-shadow .22s ease,
+        transform .22s ease;
+}
+
+.arden-faq__accordion .accordion-item:last-child{
+    margin-bottom:0 !important;
+}
+
+.arden-faq__accordion .accordion-item:hover{
+    border-color:#bfdbfe !important;
+
+    box-shadow:
+        0 8px 22px rgba(15,23,42,.06);
+
+    transform:translateY(-1px);
+}
+
+/* FIX: một số theme gắn trạng thái "đang mở" vào .accordion-item chứ không phải .accordion-title */
+.arden-faq__accordion .accordion-item.active,
+.arden-faq__accordion .accordion-item.open{
+    border-color:#bfdbfe !important;
+    box-shadow:0 8px 22px rgba(15,23,42,.06);
+}
+
+
+/* =====================================================
+   TITLE
+   70px LEFT PADDING = KHOẢNG CÁCH ICON / CHỮ
+===================================================== */
+
+.arden-faq__accordion .accordion-title{
+    position:relative !important;
+
+    display:flex !important;
+    align-items:center !important;
+
+    min-height:66px;
+
+    margin:0 !important;
+
+    padding:15px 54px 15px 70px !important;
+
+    background-color:#ffffff !important;
+
+    /* ICON ? */
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 36 36'%3E%3Crect x='0.5' y='0.5' width='35' height='35' rx='10' fill='%23EFF6FF' stroke='%23DBEAFE'/%3E%3Ccircle cx='18' cy='18' r='7.5' fill='none' stroke='%231E3A8A' stroke-width='1.7'/%3E%3Cpath d='M15.9 15.6a2.3 2.3 0 0 1 4.5.7c0 1.7-2.4 2.2-2.4 3.6' fill='none' stroke='%231E3A8A' stroke-width='1.7' stroke-linecap='round'/%3E%3Ccircle cx='18' cy='23' r='1' fill='%231E3A8A'/%3E%3C/svg%3E") !important;
+
+    background-repeat:no-repeat !important;
+    background-position:18px center !important;
+    background-size:36px 36px !important;
+
+    border:0 !important;
+
+    color:#172033 !important;
+
+    font-size:15px !important;
+    line-height:1.45 !important;
+    font-weight:700 !important;
+
+    text-decoration:none !important;
+
+    transition:
+        background-color .2s ease,
+        color .2s ease;
+}
+
+/* Không cho theme dùng pseudo icon mặc định (chặn cả before và after cho chắc) */
+.arden-faq__accordion .accordion-title:before,
+.arden-faq__accordion .accordion-title:after{
+    display:none !important;
+    content:none !important;
+}
+
+
+/* ================= TITLE HOVER ================= */
+
+.arden-faq__accordion .accordion-title:hover{
+    background-color:#f8fafc !important;
+    color:#1e3a8a !important;
+}
+
+
+/* =====================================================
+   TOGGLE FLATSOME -> ĐƯA SANG PHẢI
+   FIX: phủ cả 2 khả năng cấu trúc của theme
+   (span.toggle > i)  HOẶC  (i.toggle trực tiếp)
+===================================================== */
+
+.arden-faq__accordion .accordion-title .toggle{
+    position:absolute !important;
+
+    left:auto !important;
+    right:16px !important;
+    top:50% !important;
+
+    width:30px !important;
+    height:30px !important;
+
+    margin:0 !important;
+
+    transform:translateY(-50%);
+
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+
+    background:#f8fafc !important;
+
+    border:1px solid #e2e8f0 !important;
+    border-radius:8px !important;
+
+    color:#64748b !important;
+    font-size:15px !important;
+    line-height:1 !important;
+
+    opacity:1 !important;
+
+    transition:
+        background .2s ease,
+        border-color .2s ease,
+        color .2s ease,
+        transform .25s ease;
+}
+
+/* Nếu toggle là span bọc <i> bên trong, ép icon con thừa hưởng đúng size/màu */
+.arden-faq__accordion .accordion-title .toggle i{
+    margin:0 !important;
+    font-size:inherit !important;
+    color:inherit !important;
+}
+
+/* hover toggle */
+.arden-faq__accordion .accordion-title:hover .toggle{
+    background:#eff6ff !important;
+    border-color:#bfdbfe !important;
+    color:#1e3a8a !important;
+}
+
+
+/* =====================================================
+   ACTIVE (mở)
+   FIX: phủ cả .accordion-title.active và .accordion-item.active .accordion-title
+===================================================== */
+
+.arden-faq__accordion .accordion-title.active,
+.arden-faq__accordion .accordion-item.active .accordion-title,
+.arden-faq__accordion .accordion-item.open .accordion-title{
+    color:#1e3a8a !important;
+    background-color:#f8fafc !important;
+
+    /* icon ? -> icon check */
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 36 36'%3E%3Crect width='36' height='36' rx='10' fill='%231E3A8A'/%3E%3Cpath d='M12.5 18.2l3.6 3.6 7.4-8' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important;
+}
+
+/* FIX: khi mở, toggle bên phải cũng đổi màu + xoay 180deg để phản hồi trực quan rõ ràng */
+.arden-faq__accordion .accordion-title.active .toggle,
+.arden-faq__accordion .accordion-item.active .accordion-title .toggle,
+.arden-faq__accordion .accordion-item.open .accordion-title .toggle{
+    background:#eff6ff !important;
+    border-color:#bfdbfe !important;
+    color:#1e3a8a !important;
+    transform:translateY(-50%) rotate(180deg);
+}
+
+
+/* =====================================================
+   CONTENT
+===================================================== */
+
+.arden-faq__accordion .accordion-inner{
+    position:relative;
+
+    padding:16px 54px 19px 70px !important;
+
+    background:#ffffff !important;
+    border:0 !important;
+}
+
+/* Đường nhỏ trang trí cạnh nội dung */
+.arden-faq__accordion .accordion-inner:before{
+    content:"";
+    position:absolute;
+
+    left:35px;
+    top:16px;
+    bottom:19px;
+
+    width:2px;
+    background:#dbeafe;
+    border-radius:99px;
+}
+
+.arden-faq__accordion .accordion-inner p{
+    margin:0 !important;
+    color:#526177 !important;
+    font-size:14px !important;
+    line-height:1.7 !important;
+    font-weight:400 !important;
+}
+
+
+/* =====================================================
+   TABLET
+===================================================== */
+
+@media (max-width:849px){
+
+    .arden-faq{
+        padding-top:42px !important;
+        padding-bottom:42px !important;
+    }
+
+    .arden-faq .arden-section-title h2{
+        font-size:28px !important;
+    }
+
+}
+
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width:549px){
+
+    .arden-faq{
+        padding-top:34px !important;
+        padding-bottom:34px !important;
+    }
+
+    .arden-faq .arden-section-title{
+        margin-bottom:22px;
+    }
+
+    .arden-faq .arden-section-title h2{
+        font-size:24px !important;
+        line-height:1.23 !important;
+    }
+
+    .arden-faq .arden-section-title > p:last-child{
+        font-size:14px !important;
+    }
+
+    .arden-faq__accordion .accordion-item{
+        margin-bottom:10px !important;
+        border-radius:12px !important;
+    }
+
+    .arden-faq__accordion .accordion-title{
+        min-height:62px;
+
+        padding:13px 45px 13px 59px !important;
+
+        background-position:13px center !important;
+        background-size:32px 32px !important;
+
+        font-size:14px !important;
+        line-height:1.4 !important;
+    }
+
+    .arden-faq__accordion .accordion-title .toggle{
+        right:10px !important;
+        width:27px !important;
+        height:27px !important;
+    }
+
+    .arden-faq__accordion .accordion-inner{
+        padding:14px 18px 17px 59px !important;
+    }
+
+    .arden-faq__accordion .accordion-inner:before{
+        left:28px;
+        top:14px;
+        bottom:17px;
+    }
+
+    .arden-faq__accordion .accordion-inner p{
+        font-size:13.5px !important;
+        line-height:1.65 !important;
+    }
+
+}
+
+
+/* ================= TOUCH ================= */
+
+@media (hover:none){
+
+    .arden-faq__accordion .accordion-item:hover{
+        transform:none;
+    }
+
+}
+
+</style>
+
+
+
+[row]
+
+[col span="12"]
+
+[ux_text class="arden-section-title"]
+
+<p class="arden-eyebrow">
+HỎI ĐÁP &amp; TƯ VẤN
+</p>
+
+<h2>
+CÂU HỎI THƯỜNG GẶP KHI ĐẶT MAY TẠI ARDEN
+</h2>
+
+<p>
+Giải đáp toàn diện về số lượng tối thiểu MOQ, quy trình may mẫu, chính sách bảo mật thiết kế NDA.
+</p>
+
+[/ux_text]
+
+[/col]
+
+[/row]
+
+
+
+[row h_align="center"]
+
+[col span="8" span__md="10" span__sm="12"]
+
+
+[accordion class="arden-faq__accordion"]
+
+
+[accordion-item title="Số lượng tối thiểu (MOQ) xưởng nhận may là bao nhiêu?" open="true"]
+
+<p>
+Arden nhận may linh hoạt từ 30 sản phẩm/mẫu (có thể chia 2-3 size). Điều này giúp các thương hiệu Local Brand mới khởi nghiệp dễ dàng ra mắt và thử nghiệm phản hồi thị trường mà không phải chịu áp lực tồn kho lớn.
+</p>
+
+[/accordion-item]
+
+
+
+[accordion-item title="Thời gian may mẫu và sản xuất hàng loạt mất bao lâu?"]
+
+<p>
+Thời gian may mẫu chuẩn từ 3 - 7 ngày làm việc. Thời gian sản xuất hàng loạt từ 10 - 20 ngày tùy thuộc vào số lượng đơn hàng và độ phức tạp của kỹ thuật may, in/thêu.
+</p>
+
+[/accordion-item]
+
+
+
+[accordion-item title="Xưởng có ký cam kết bảo mật mẫu thiết kế và file rập (NDA) không?"]
+
+<p>
+Có 100%. Arden luôn ký thỏa thuận bảo mật thiết kế độc quyền (NDA) với mọi khách hàng. Toàn bộ file rập vi tính, mẫu thiết kế và ý tưởng BST của bạn sẽ được bảo mật tuyệt đối, không chia sẻ hay may lại cho bất kỳ bên nào khác.
+</p>
+
+[/accordion-item]
+
+
+
+[accordion-item title="Chi phí may mẫu tính như thế nào? Có được hoàn lại không?"]
+
+<p>
+Phí may mẫu dao động từ 300.000đ - 600.000đ/mẫu (bao gồm công ra rập vi tính và may thành phẩm hoàn chỉnh). Khoản phí này sẽ được hoàn trả hoặc khấu trừ 100% vào đơn hàng sản xuất hàng loạt từ 50 sản phẩm trở lên.
+</p>
+
+[/accordion-item]
+
+
+
+[accordion-item title="Arden có hỗ trợ dịch vụ trọn gói gồm in/thêu, mác áo, túi zip không?"]
+
+<p>
+Có, Arden cung cấp dịch vụ sản xuất trọn gói ODM/OEM bao gồm: cung ứng vải theo yêu cầu, in lụa/DTG/thêu vi tính, dệt nhãn mác thương hiệu, gắn thẻ bài hangtag, ủi hơi và đóng túi zip in logo hoàn chỉnh sẵn sàng giao đến tay khách hàng.
+</p>
+
+[/accordion-item]
+
+
+[/accordion]
+
+
+[/col]
+
+[/row]
+
+[/section]

@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-08-28T01:24:59.210Z",
+  "base": "http://127.0.0.1:8098",
+  "results": [
+    {
+      "name": "Home",
+      "route": "/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "SẢN XUẤT THỜI TRANG THEO YÊU CẦU\nCHUẨN XUẤT XƯỞNG B2B"
+        ]
+      }
+    },
+    {
+      "name": "About",
+      "route": "/gioi-thieu/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "GIỚI THIỆU XƯỞNG MAY ARDEN"
+        ]
+      }
+    },
+    {
+      "name": "Services",
+      "route": "/dich-vu/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B"
+        ]
+      }
+    },
+    {
+      "name": "Projects",
+      "route": "/du-an/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "DỰ ÁN & BỘ SƯU TẬP ĐÃ GIA CÔNG"
+        ]
+      }
+    },
+    {
+      "name": "Case study",
+      "route": "/du-an/bst-ao-thun-local-brand/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "BST ÁO THUN LOCAL BRAND ADC"
+        ]
+      }
+    },
+    {
+      "name": "News",
+      "route": "/tin-tuc/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "TIN TỨC & KIẾN THỨC MAY MẶC"
+        ]
+      }
+    },
+    {
+      "name": "Article",
+      "route": "/tin-tuc/cach-chon-xuong-may-uy-tin-cho-local-brand/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "CÁCH CHỌN XƯỞNG MAY UY TÍN CHO LOCAL BRAND MỚI BẮT ĐẦU"
+        ]
+      }
+    },
+    {
+      "name": "Quote",
+      "route": "/bao-gia/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "NHẬN BÁO GIÁ MAY GIA CÔNG"
+        ]
+      }
+    },
+    {
+      "name": "FAQ",
+      "route": "/faq/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "CÂU HỎI THƯỜNG GẶP VỀ GIA CÔNG MAY MẶC"
+        ]
+      }
+    },
+    {
+      "name": "Search",
+      "route": "/tim-kiem/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "TÌM KIẾM NỘI DUNG ARDEN"
+        ]
+      }
+    },
+    {
+      "name": "Contact",
+      "route": "/lien-he/",
+      "status": 200,
+      "pass": true,
+      "errors": [],
+      "failed": [],
+      "state": {
+        "css": true,
+        "js": true,
+        "pendingImages": [],
+        "brokenImages": [],
+        "adminBar": false,
+        "fatal": false,
+        "h1": [
+          "LIÊN HỆ XƯỞNG MAY ARDEN"
+        ]
+      }
+    }
+  ]
+}

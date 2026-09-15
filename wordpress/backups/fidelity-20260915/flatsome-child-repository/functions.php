@@ -1,0 +1,119 @@
+<?php
+/**
+ * Arden Flatsome Child bootstrap.
+ *
+ * @package Arden_Flatsome_Child
+ */
+
+defined( 'ABSPATH' ) || exit;
+
+define( 'ARDEN_THEME_VERSION', '2.0.1' );
+
+require_once get_stylesheet_directory() . '/inc/template-tags.php';
+require_once get_stylesheet_directory() . '/inc/post-types.php';
+require_once get_stylesheet_directory() . '/inc/shortcodes.php';
+require_once get_stylesheet_directory() . '/inc/mobile-cta.php';
+
+/** Enqueue Arden's design layer after Flatsome's compiled frontend CSS. */
+function arden_child_enqueue_assets() {
+	$arden_css_version = ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/css/arden.css' );
+	$arden_js_version  = ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/js/native-interactions.js' );
+	/* Flatsome 3.17.x already handles the active child style.css separately. */
+	wp_enqueue_style( 'arden-fonts', 'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap', array(), null );
+	wp_enqueue_style( 'arden-components', get_stylesheet_directory_uri() . '/assets/css/arden.css', array( 'flatsome-main', 'arden-fonts' ), $arden_css_version );
+	wp_enqueue_style( 'arden-native-pilot', get_stylesheet_directory_uri() . '/assets/css/pilot-native.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
+	wp_enqueue_style( 'arden-forms', get_stylesheet_directory_uri() . '/assets/css/forms.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
+	wp_enqueue_script( 'arden-native-interactions', get_stylesheet_directory_uri() . '/assets/js/native-interactions.js', array(), $arden_js_version, true );
+	wp_add_inline_script(
+		'arden-native-interactions',
+		'window.ardenIconPaths=' . wp_json_encode( arden_icon_paths() ) . ';',
+		'before'
+	);
+
+	/* Exact utility layer for Task 04 imports generated from the React DOM. */
+	if ( is_singular( 'page' ) ) {
+		$content = (string) get_post_field( 'post_content', get_queried_object_id() );
+		if ( false !== strpos( $content, 'arden-react-page' ) ) {
+			wp_enqueue_style( 'arden-react-pages', get_stylesheet_directory_uri() . '/assets/css/react-pages.css', array( 'arden-components' ), ARDEN_THEME_VERSION );
+			wp_enqueue_style( 'arden-react-utility-compat', get_stylesheet_directory_uri() . '/assets/css/react-utility-compat.css', array( 'arden-react-pages' ), ARDEN_THEME_VERSION . '.' . filemtime( get_stylesheet_directory() . '/assets/css/react-utility-compat.css' ) );
+		}
+	}
+}
+add_action( 'wp_enqueue_scripts', 'arden_child_enqueue_assets', 30 );
+
+/** Theme capabilities used by native WordPress and Flatsome elements. */
+function arden_child_setup() {
+	load_child_theme_textdomain( 'arden-flatsome-child', get_stylesheet_directory() . '/languages' );
+	add_theme_support( 'title-tag' );
+	add_theme_support( 'post-thumbnails' );
+	add_theme_support( 'responsive-embeds' );
+	add_theme_support( 'html5', array( 'search-form', 'gallery', 'caption', 'style', 'script' ) );
+	add_image_size( 'arden-card', 800, 500, true );
+	add_image_size( 'arden-factory', 960, 720, true );
+}
+add_action( 'after_setup_theme', 'arden_child_setup', 20 );
+
+/** Scope shared Header Builder styles without replacing Flatsome templates. */
+function arden_child_body_classes( $classes ) {
+	$classes[] = 'arden-site';
+	$classes[] = 'arden-page';
+	return $classes;
+}
+add_filter( 'body_class', 'arden_child_body_classes' );
+
+/** Preserve source punctuation in Task 05 DOM-derived draft imports. */
+function arden_task05_disable_wptexturize( $run_texturize ) {
+	if ( is_singular( 'page' ) ) {
+		$content = (string) get_post_field( 'post_content', get_queried_object_id() );
+		if ( false !== strpos( $content, 'arden-react-page' ) ) {
+			return false;
+		}
+	}
+	return $run_texturize;
+}
+add_filter( 'run_wptexturize', 'arden_task05_disable_wptexturize' );
+
+/** Rebase imported root-relative links to the active WordPress home path. */
+function arden_rebase_content_urls( $content ) {
+	if ( false === strpos( $content, 'href="/' ) && false === strpos( $content, "href='/" ) && false === strpos( $content, 'action="/' ) && false === strpos( $content, "action='/" ) ) {
+		return $content;
+	}
+
+	return preg_replace_callback(
+		'/\b(href|action)=([\'\"])\/(?!\/|wp-admin(?:\/|$)|wp-content(?:\/|$)|wp-includes(?:\/|$))([^\'\"]*)\2/i',
+		static function ( $matches ) {
+			return $matches[1] . '=' . $matches[2] . esc_url( home_url( '/' . ltrim( $matches[3], '/' ) ) ) . $matches[2];
+		},
+		$content
+	);
+}
+add_filter( 'the_content', 'arden_rebase_content_urls', 99 );
+
+/**
+ * Rebase root-relative links emitted outside the post content (Flatsome header,
+ * footer and UX Blocks). This keeps subdirectory installs inside their site URL.
+ */
+function arden_rebase_frontend_html( $html ) {
+	if ( ! is_string( $html ) || '' === $html ) {
+		return $html;
+	}
+
+	$base = trailingslashit( home_url( '/' ) );
+
+	return preg_replace_callback(
+		'/\b(href|action)=([' . "\"'" . '])\/(?!\/)([^' . "\"'" . ']*)\2/i',
+		static function ( $matches ) use ( $base ) {
+			return $matches[1] . '=' . $matches[2] . esc_url( $base . ltrim( $matches[3], '/' ) ) . $matches[2];
+		},
+		$html
+	);
+}
+
+function arden_start_frontend_url_buffer() {
+	if ( is_admin() || wp_doing_ajax() || is_feed() || is_robots() ) {
+		return;
+	}
+
+	ob_start( 'arden_rebase_frontend_html' );
+}
+add_action( 'template_redirect', 'arden_start_frontend_url_buffer', 0 );

@@ -1,0 +1,3772 @@
+{
+  "generatedAt": "2026-09-03T04:22:33.269Z",
+  "home": {
+    "reference": {
+      "documentHeight": 27541,
+      "sections": [
+        {
+          "index": 1,
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-12 sm:py-18 border-b border-slate-200 relative overflow-hidden ",
+          "top": 69,
+          "bottom": 1202,
+          "height": 1133,
+          "width": 390,
+          "display": "block",
+          "padding": "48px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "hidden",
+          "aspectRatio": "auto",
+          "children": 2,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 2,
+          "id": "trust-bar",
+          "className": "py-8 sm:py-10 transition-colors bg-white border-y border-slate-200 ",
+          "top": 1202,
+          "bottom": 1692,
+          "height": 490,
+          "width": 390,
+          "display": "block",
+          "padding": "32px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 3,
+          "id": "services-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "top": 1692,
+          "bottom": 4524.59,
+          "height": 2832.59,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 4,
+          "id": "product-grid-section",
+          "className": "py-14 sm:py-18 md:py-20 bg-white border-b border-slate-200",
+          "top": 4524.59,
+          "bottom": 7314.69,
+          "height": 2790.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 5,
+          "id": "",
+          "className": "py-8 sm:py-10 bg-white border-b border-slate-200 shadow-2xs ",
+          "top": 7314.69,
+          "bottom": 7741.19,
+          "height": 426.5,
+          "width": 390,
+          "display": "block",
+          "padding": "32px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 6,
+          "id": "factory-section",
+          "className": "py-14 sm:py-18 md:py-20 bg-white border-b border-slate-200",
+          "top": 7741.19,
+          "bottom": 10198.28,
+          "height": 2457.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 7,
+          "id": "capabilities-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "top": 10198.28,
+          "bottom": 11730.88,
+          "height": 1532.59,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 8,
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "top": 11730.88,
+          "bottom": 13783.97,
+          "height": 2053.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 9,
+          "id": "moq-section",
+          "className": "py-14 sm:py-18 md:py-20 bg-slate-50/70 border-b border-slate-200 ",
+          "top": 13783.97,
+          "bottom": 15903.36,
+          "height": 2119.39,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 10,
+          "id": "pricing-calculator-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "top": 15903.36,
+          "bottom": 17111.95,
+          "height": 1208.59,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 11,
+          "id": "portfolio-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "top": 17111.95,
+          "bottom": 20684.05,
+          "height": 3572.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 12,
+          "id": "why-choose-us-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "top": 20684.05,
+          "bottom": 22146.14,
+          "height": 1462.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 13,
+          "id": "testimonials-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "top": 22146.14,
+          "bottom": 23164.23,
+          "height": 1018.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 14,
+          "id": "blog-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "top": 23164.23,
+          "bottom": 24873.83,
+          "height": 1709.59,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 15,
+          "id": "faq-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "top": 24873.83,
+          "bottom": 25647.92,
+          "height": 774.09,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "static",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 1,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 16,
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "top": 25647.92,
+          "bottom": 26167.81,
+          "height": 519.89,
+          "width": 390,
+          "display": "block",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "hidden",
+          "aspectRatio": "auto",
+          "children": 2,
+          "hiddenDescendants": 0
+        }
+      ]
+    },
+    "wordpress": {
+      "documentHeight": 29170,
+      "sections": [
+        {
+          "index": 1,
+          "id": "section_397106959",
+          "className": "section arden-page arden-section arden-hero",
+          "top": 69,
+          "bottom": 1471.89,
+          "height": 1402.89,
+          "width": 390,
+          "display": "flex",
+          "padding": "48px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "clip visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 2,
+          "id": "section_588583841",
+          "className": "section arden-trust-bar",
+          "top": 1471.89,
+          "bottom": 2036.64,
+          "height": 564.75,
+          "width": 390,
+          "display": "flex",
+          "padding": "32px 30px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 3,
+          "id": "section_1303706837",
+          "className": "section arden-section arden-services",
+          "top": 2036.64,
+          "bottom": 5310.16,
+          "height": 3273.52,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 4,
+          "id": "section_1957210029",
+          "className": "section arden-section arden-products",
+          "top": 5310.16,
+          "bottom": 8684.91,
+          "height": 3374.75,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 5,
+          "id": "section_1848851153",
+          "className": "section arden-section arden-metrics",
+          "top": 8684.91,
+          "bottom": 9154.3,
+          "height": 469.39,
+          "width": 390,
+          "display": "flex",
+          "padding": "32px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 6,
+          "id": "section_318016834",
+          "className": "section arden-section arden-factory",
+          "top": 9154.3,
+          "bottom": 11640.28,
+          "height": 2485.98,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 7,
+          "id": "section_1035744741",
+          "className": "section arden-section arden-capabilities",
+          "top": 11640.28,
+          "bottom": 13329.55,
+          "height": 1689.27,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 8,
+          "id": "section_2056020672",
+          "className": "section arden-section arden-process",
+          "top": 13329.55,
+          "bottom": 14931.77,
+          "height": 1602.22,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 9,
+          "id": "section_579720209",
+          "className": "section arden-section arden-section--alt arden-moq",
+          "top": 14931.77,
+          "bottom": 17201.13,
+          "height": 2269.36,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 10,
+          "id": "section_1264942950",
+          "className": "section arden-section arden-section--alt arden-pricing",
+          "top": 17201.13,
+          "bottom": 18697.72,
+          "height": 1496.59,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 11,
+          "id": "section_1860403885",
+          "className": "section arden-section arden-portfolio",
+          "top": 18697.72,
+          "bottom": 21680.59,
+          "height": 2982.88,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 12,
+          "id": "section_280746639",
+          "className": "section arden-section arden-section--alt arden-why-choose",
+          "top": 21680.59,
+          "bottom": 22778.25,
+          "height": 1097.66,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 13,
+          "id": "section_786076575",
+          "className": "section arden-section arden-testimonials",
+          "top": 22778.25,
+          "bottom": 24259.11,
+          "height": 1480.86,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 14,
+          "id": "section_238056340",
+          "className": "section arden-section arden-section--alt arden-blog",
+          "top": 24259.11,
+          "bottom": 26231.06,
+          "height": 1971.95,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 15,
+          "id": "section_443611445",
+          "className": "section arden-section arden-faq",
+          "top": 26231.06,
+          "bottom": 27030.03,
+          "height": 798.97,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "visible",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        },
+        {
+          "index": 16,
+          "id": "section_977991158",
+          "className": "section arden-section arden-section--dark arden-cta",
+          "top": 27030.03,
+          "bottom": 27547.38,
+          "height": 517.34,
+          "width": 390,
+          "display": "flex",
+          "padding": "56px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "position": "relative",
+          "overflow": "hidden",
+          "aspectRatio": "auto",
+          "children": 3,
+          "hiddenDescendants": 0
+        }
+      ]
+    }
+  },
+  "icons": [
+    {
+      "route": "home",
+      "runtime": "reference",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-700 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-award w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-4 h-4 text-slate-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-4 h-4 text-amber-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5 text-emerald-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-5 h-5 text-amber-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-3.5 h-3.5 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-file-check w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-4 h-4 text-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-4 h-4 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-4 h-4 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-4 h-4 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-eye w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-zap w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-award w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-dollar-sign w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-heart-handshake w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-calendar w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-calendar w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-calendar w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-question-mark w-4 h-4 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-down w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-question-mark w-4 h-4 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-down w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-question-mark w-4 h-4 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-down w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-question-mark w-4 h-4 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-down w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-question-mark w-4 h-4 text-blue-900 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-down w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-phone-call w-4 h-4 text-blue-700"
+        }
+      ],
+      "iconFonts": []
+    },
+    {
+      "route": "home",
+      "runtime": "wordpress",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "11px",
+          "height": "11px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        }
+      ],
+      "iconFonts": [
+        "icon-box featured-box arden-card icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-card icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-card icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-trust-item arden-trust-item--package icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-trust-item arden-trust-item--shield icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-trust-item arden-trust-item--clock icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-trust-item arden-trust-item--layers icon-box-top text-left",
+        "icon-box-text last-reset",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-capability-item icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box arden-process__step icon-box-top text-left",
+        "icon-box-text last-reset",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-box featured-box icon-box-top text-left",
+        "icon-box-text last-reset",
+        "icon-angle-down",
+        "icon-angle-down",
+        "icon-angle-down",
+        "icon-angle-down",
+        "icon-angle-down"
+      ]
+    },
+    {
+      "route": "about",
+      "runtime": "reference",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-house w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-700"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5 text-emerald-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-5 h-5 text-amber-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-4 h-4 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "12px",
+          "height": "12px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-3 h-3"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-check w-3.5 h-3.5 text-emerald-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-award w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-5 h-5 text-emerald-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-file-check w-5 h-5 text-amber-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-file-check w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-scissors w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package w-5 h-5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-star w-4 h-4 fill-amber-400"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-phone-call w-4 h-4 text-blue-700"
+        }
+      ],
+      "iconFonts": []
+    },
+    {
+      "route": "about",
+      "runtime": "wordpress",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        }
+      ],
+      "iconFonts": [
+        "arden-icon arden-semantic-icon arden-semantic-icon--check",
+        "arden-icon arden-semantic-icon arden-semantic-icon--check"
+      ]
+    },
+    {
+      "route": "fabric",
+      "runtime": "reference",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-house w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-700"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-package-check w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-shield-check w-5 h-5 text-emerald-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-clock w-5 h-5 text-blue-900"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-layers w-5 h-5 text-amber-600"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-info w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "20px",
+          "height": "20px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-search w-5 h-5 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-circle-check w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-sparkles w-3.5 h-3.5 text-blue-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-arrow-right w-4 h-4"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-phone-call w-4 h-4 text-blue-700"
+        }
+      ],
+      "iconFonts": []
+    },
+    {
+      "route": "fabric",
+      "runtime": "wordpress",
+      "svg": [
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-house w-3.5 h-3.5"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": "lucide lucide-chevron-right w-3.5 h-3.5 text-slate-400 shrink-0"
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "16px",
+          "height": "16px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        },
+        {
+          "viewBox": "0 0 24 24",
+          "width": "14px",
+          "height": "14px",
+          "stroke": "currentColor",
+          "strokeWidth": "2",
+          "fill": "none",
+          "className": ""
+        }
+      ],
+      "iconFonts": []
+    }
+  ]
+}

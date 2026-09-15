@@ -1,0 +1,224 @@
+[section padding="60px" padding__sm="40px" bg_color="#f7f9fc"]
+
+<style>
+.arden-feat-card{
+  height:100%;
+  background:#ffffff;
+  border:1px solid #e5e9f0;
+  border-radius:14px;
+  padding:22px 22px 20px;
+  box-sizing:border-box;
+  box-shadow:0 4px 14px rgba(15,23,42,.04);
+  transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+.arden-feat-card:hover{
+  transform:translateY(-6px);
+  border-color:#c9dcf8;
+  box-shadow:0 16px 32px rgba(15,23,42,.10);
+}
+.arden-feat-icon{
+  width:40px;
+  height:40px;
+  border-radius:10px;
+  background:#eaf1ff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:16px;
+}
+.arden-feat-icon svg{
+  width:20px;
+  height:20px;
+  stroke:#1d54c9;
+  fill:none;
+  stroke-width:2;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+</style>
+
+<div style="width:100%;max-width:1240px;margin:0 auto;padding:0 15px;box-sizing:border-box;">
+
+[row]
+[col span="12" align="center"]
+
+[ux_text text_align="center"]
+
+<p style="
+display:inline-block;
+margin:0 0 14px;
+padding:6px 16px;
+background:#ffffff;
+border:1px solid #c9dcf8;
+border-radius:999px;
+font-size:11px;
+line-height:1.2;
+font-weight:700;
+color:#1d54c9;
+letter-spacing:.5px;
+">
+CAM KẾT CHẤT LƯỢNG
+</p>
+
+<h2 style="
+margin:0 auto 14px;
+max-width:820px;
+font-size:34px;
+line-height:1.2;
+font-weight:800;
+color:#0b1324;
+letter-spacing:-.5px;
+">
+VÌ SAO HƠN 100+ LOCAL BRAND TIN TƯỞNG ARDEN?
+</h2>
+
+<p style="
+max-width:680px;
+margin:0 auto 32px;
+font-size:15px;
+line-height:1.6;
+font-weight:400;
+color:#64748b;
+">
+Chúng tôi là đối tác sản xuất chiến lược đồng hành cùng sự phát triển bền vững của thương hiệu bạn.
+</p>
+
+[/ux_text]
+
+[/col]
+[/row]
+
+
+[row col_style="normal" h_align="center"]
+
+<!-- CARD 1 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+CHẤT LƯỢNG ỔN ĐỊNH
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Từng đường kim mũi chỉ được kiểm soát chặt chẽ, form dáng chuẩn mẫu duyệt, không xù lông co rút sau giặt.
+</p>
+
+</div>
+
+[/col]
+
+<!-- CARD 2 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+HỖ TRỢ PHÁT TRIỂN MẪU
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Đội ngũ kỹ thuật rập hỗ trợ lên rập theo sketch ý tưởng, tư vấn chất liệu vải xu hướng mới nhất.
+</p>
+
+</div>
+
+[/col]
+
+<!-- CARD 3 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+TIẾN ĐỘ ĐÚNG HẸN
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Cam kết tiến độ bàn giao rõ ràng trong hợp đồng, hỗ trợ đẩy nhanh đơn gấp theo lịch ra mắt BST.
+</p>
+
+</div>
+
+[/col]
+
+<!-- CARD 4 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+GIÁ CẢ CẠNH TRANH
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Báo giá trực tiếp tận gốc từ xưởng sản xuất, không qua trung gian, tối ưu hóa định mức nguyên phụ liệu.
+</p>
+
+</div>
+
+[/col]
+
+<!-- CARD 5 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 1 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+BẢO MẬT THIẾT KẾ
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Ký cam kết bảo mật mẫu độc quyền cho từng thương hiệu, không chia sẻ file rập hay mẫu ra bên ngoài.
+</p>
+
+</div>
+
+[/col]
+
+<!-- CARD 6 -->
+[col span="4" span__md="6" span__sm="12" padding="9px"]
+
+<div class="arden-feat-card">
+
+<div class="arden-feat-icon">
+<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+</div>
+
+<h3 style="margin:0 0 8px;font-size:16px;line-height:1.35;font-weight:800;color:#111827;">
+ĐỒNG HÀNH LÂU DÀI
+</h3>
+
+<p style="margin:0;font-size:13px;line-height:1.65;color:#64748b;">
+Lưu trữ file rập và định mức trọn đời, hỗ trợ restock sản phẩm nhanh chóng từ 3 - 5 ngày.
+</p>
+
+</div>
+
+[/col]
+
+[/row]
+
+</div>
+
+[/section]

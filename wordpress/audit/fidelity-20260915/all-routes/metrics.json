@@ -1,0 +1,2674 @@
+[
+  {
+    "name": "services",
+    "route": "/dich-vu/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 5265,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 112,
+          "y": 241,
+          "width": 768,
+          "height": 120,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 112,
+          "y": 526.5,
+          "width": 749.421875,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 360.875,
+          "y": 1966.34375,
+          "width": 718.25,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 363.390625,
+          "y": 2577.53125,
+          "width": 713.203125,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 339.453125,
+          "y": 3550.875,
+          "width": 761.078125,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 272,
+          "y": 4483.5625,
+          "width": 896,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 102.5,
+          "width": 1440,
+          "height": 315.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "services-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 418,
+          "width": 1440,
+          "height": 1439.84375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "model-comparison",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 1857.84375,
+          "width": 1440,
+          "height": 611.1875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2469.03125,
+          "width": 1440,
+          "height": 973.34375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3442.375,
+          "width": 1440,
+          "height": 913.6875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 4356.0625,
+          "width": 1440,
+          "height": 401.6875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4757.75,
+        "width": 1440,
+        "height": 506.875,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "Dịch vụ sản xuất thời trang B2B - UI_arden",
+      "height": 6024,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 80,
+          "y": 236.390625,
+          "width": 1280,
+          "height": 60,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 80,
+          "y": 494.1875,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 80,
+          "y": 2524.109375,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 80,
+          "y": 3132.75,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 80,
+          "y": 4439.25,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 80,
+          "y": 5230.203125,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_256818893",
+          "className": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 102,
+          "width": 1440,
+          "height": 275.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_529374608",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 377.390625,
+          "width": 1440,
+          "height": 2029.921875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_50312907",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 2407.3125,
+          "width": 1440,
+          "height": 608.640625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_935319502",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 3015.953125,
+          "width": 1440,
+          "height": 1306.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1465253906",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 4322.453125,
+          "width": 1440,
+          "height": 789.953125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1955703579",
+          "className": "section arden-react-page__section py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 5112.40625,
+          "width": 1440,
+          "height": 391.171875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 5503.578125,
+        "width": 1440,
+        "height": 520,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "services",
+    "route": "/dich-vu/",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 6563,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 24,
+          "y": 257.5,
+          "width": 720,
+          "height": 45,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "45px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 24,
+          "y": 468,
+          "width": 624.515625,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 84.734375,
+          "y": 2358.5,
+          "width": 598.53125,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 86.828125,
+          "y": 2978.75,
+          "width": 594.34375,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 66.875,
+          "y": 4057.40625,
+          "width": 634.234375,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 24,
+          "y": 5378.40625,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 119,
+          "width": 768,
+          "height": 240.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "services-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 359.5,
+          "width": 768,
+          "height": 1890.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "model-comparison",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 2250,
+          "width": 768,
+          "height": 620.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2870.25,
+          "width": 768,
+          "height": 1078.65625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3948.90625,
+          "width": 768,
+          "height": 1302,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 5250.90625,
+          "width": 768,
+          "height": 429.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 5680.15625,
+        "width": 768,
+        "height": 883.125,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "Dịch vụ sản xuất thời trang B2B - UI_arden",
+      "height": 7193,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 24,
+          "y": 253.390625,
+          "width": 720,
+          "height": 45,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "45px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 24,
+          "y": 490.1875,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 24,
+          "y": 3002.15625,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 24,
+          "y": 3591.5,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 24,
+          "y": 4878.703125,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 24,
+          "y": 5937.140625,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_1015879873",
+          "className": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 119,
+          "width": 768,
+          "height": 254.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1799441366",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 373.390625,
+          "width": 768,
+          "height": 2511.96875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_816580687",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 2885.359375,
+          "width": 768,
+          "height": 589.34375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_832616329",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 3474.703125,
+          "width": 768,
+          "height": 1287.203125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_171256216",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 4761.90625,
+          "width": 768,
+          "height": 1057.4375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1032877448",
+          "className": "section arden-react-page__section py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 5819.34375,
+          "width": 768,
+          "height": 415.515625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 6234.859375,
+        "width": 768,
+        "height": 958,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "services",
+    "route": "/dich-vu/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 9443,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 16,
+          "y": 191.5,
+          "width": 358,
+          "height": 75,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "37.5px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 16,
+          "y": 400,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 16,
+          "y": 3164.59375,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 16,
+          "y": 3877.6875,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 16,
+          "y": 5618.09375,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 16,
+          "y": 7706.6875,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 69,
+          "width": 390,
+          "height": 238.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "services-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 307.5,
+          "width": 390,
+          "height": 2764.59375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "model-comparison",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 3072.09375,
+          "width": 390,
+          "height": 713.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 3785.1875,
+          "width": 390,
+          "height": 1740.40625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 5525.59375,
+          "width": 390,
+          "height": 2053.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 7578.6875,
+          "width": 390,
+          "height": 491.59375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 8070.28125,
+        "width": 390,
+        "height": 1372.75,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "Dịch vụ sản xuất thời trang B2B - UI_arden",
+      "height": 10956,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "DỊCH VỤ SẢN XUẤT THỜI TRANG B2B",
+          "x": 16,
+          "y": 187.390625,
+          "width": 358,
+          "height": 73.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "32px",
+          "lineHeight": "36.8px"
+        },
+        {
+          "text": "5 DỊCH VỤ GIA CÔNG CHỦ LỰC TẠI ARDEN",
+          "x": 16,
+          "y": 418.78125,
+          "width": 358,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "LỰA CHỌN MÔ HÌNH GIA CÔNG PHÙ HỢP",
+          "x": 16,
+          "y": 4524.734375,
+          "width": 358,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 16,
+          "y": 5288.828125,
+          "width": 358,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 16,
+          "y": 7543.21875,
+          "width": 358,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "BẮT ĐẦU DỰ ÁN MAY GIA CÔNG CÙNG ARDEN",
+          "x": 16,
+          "y": 9219.6875,
+          "width": 358,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_1060302303",
+          "className": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 69,
+          "width": 390,
+          "height": 248.984375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1655865714",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 317.984375,
+          "width": 390,
+          "height": 4105.953125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_272101333",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200",
+          "x": 0,
+          "y": 4423.9375,
+          "width": 390,
+          "height": 764.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_2080376595",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 5188.03125,
+          "width": 390,
+          "height": 2254.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_471822960",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 7442.421875,
+          "width": 390,
+          "height": 1651.46875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_728824398",
+          "className": "section arden-react-page__section py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 9093.890625,
+          "width": 390,
+          "height": 469.125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 9563.015625,
+        "width": 390,
+        "height": 1393.34375,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "tshirt",
+    "route": "/dich-vu/may-ao-thun/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 4859,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 112,
+          "y": 241,
+          "width": 768,
+          "height": 120,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 336,
+          "y": 526.5,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 336,
+          "y": 1446.375,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 363.390625,
+          "y": 2154.953125,
+          "width": 713.203125,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 339.453125,
+          "y": 3128.296875,
+          "width": 761.078125,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 272,
+          "y": 4060.984375,
+          "width": 896,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 102.5,
+          "width": 1440,
+          "height": 315.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "fabric-selector",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 418,
+          "width": 1440,
+          "height": 919.875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "size-chart-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 1337.875,
+          "width": 1440,
+          "height": 708.578125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2046.453125,
+          "width": 1440,
+          "height": 973.34375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3019.796875,
+          "width": 1440,
+          "height": 913.6875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 3933.484375,
+          "width": 1440,
+          "height": 418.875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4352.359375,
+        "width": 1440,
+        "height": 506.875,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "May áo thun Local Brand chuyên nghiệp - UI_arden",
+      "height": 4606,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 336,
+          "y": 259.09375,
+          "width": 768,
+          "height": 120,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 336,
+          "y": 600.390625,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 336,
+          "y": 1272.453125,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 336,
+          "y": 1946.859375,
+          "width": 768,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 336,
+          "y": 3119.6875,
+          "width": 768,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 95,
+          "y": 3875.3125,
+          "width": 1250,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_182220959",
+          "className": "section arden-react-page arden-pilot arden-page-banner",
+          "x": 0,
+          "y": 146.796875,
+          "width": 1440,
+          "height": 386.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1522126416",
+          "className": "section arden-react-page arden-pilot arden-fabric-selector",
+          "x": 0,
+          "y": 532.890625,
+          "width": 1440,
+          "height": 672.0625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1107578236",
+          "className": "section arden-react-page arden-pilot arden-size-chart",
+          "x": 0,
+          "y": 1204.953125,
+          "width": 1440,
+          "height": 674.40625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1868779848",
+          "className": "section arden-react-page arden-pilot arden-print-techniques",
+          "x": 0,
+          "y": 1879.359375,
+          "width": 1440,
+          "height": 1172.828125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1946211601",
+          "className": "section arden-react-page arden-pilot arden-process",
+          "x": 0,
+          "y": 3052.1875,
+          "width": 1440,
+          "height": 755.625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_677232288",
+          "className": "section arden-react-page arden-pilot arden-cta",
+          "x": 0,
+          "y": 3807.8125,
+          "width": 1440,
+          "height": 278.484375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4086.296875,
+        "width": 1440,
+        "height": 520,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1787727150",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "tshirt",
+    "route": "/dich-vu/may-ao-thun/",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 5907,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 24,
+          "y": 257.5,
+          "width": 720,
+          "height": 90,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "45px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 24,
+          "y": 513,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 24,
+          "y": 1583.25,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 86.828125,
+          "y": 2286.65625,
+          "width": 594.34375,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 66.875,
+          "y": 3365.3125,
+          "width": 634.234375,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 24,
+          "y": 4686.3125,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 119,
+          "width": 768,
+          "height": 285.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "fabric-selector",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 404.5,
+          "width": 768,
+          "height": 1070.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "size-chart-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 1474.75,
+          "width": 768,
+          "height": 703.40625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2178.15625,
+          "width": 768,
+          "height": 1078.65625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3256.8125,
+          "width": 768,
+          "height": 1302,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 4558.8125,
+          "width": 768,
+          "height": 465.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 5024.0625,
+        "width": 768,
+        "height": 883.125,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "May áo thun Local Brand chuyên nghiệp - UI_arden",
+      "height": 5561,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 15,
+          "y": 276.09375,
+          "width": 738,
+          "height": 80,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "32px",
+          "lineHeight": "40px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 15,
+          "y": 569.390625,
+          "width": 738,
+          "height": 31.6875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 15,
+          "y": 1256.765625,
+          "width": 738,
+          "height": 31.6875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 15,
+          "y": 1900.484375,
+          "width": 738,
+          "height": 31.6875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 15,
+          "y": 3289.8125,
+          "width": 738,
+          "height": 31.6875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 15,
+          "y": 4408.03125,
+          "width": 738,
+          "height": 31.6875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_1499819077",
+          "className": "section arden-react-page arden-pilot arden-page-banner",
+          "x": 0,
+          "y": 163.796875,
+          "width": 768,
+          "height": 338.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1308946958",
+          "className": "section arden-react-page arden-pilot arden-fabric-selector",
+          "x": 0,
+          "y": 501.890625,
+          "width": 768,
+          "height": 687.375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1600926098",
+          "className": "section arden-react-page arden-pilot arden-size-chart",
+          "x": 0,
+          "y": 1189.265625,
+          "width": 768,
+          "height": 643.71875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1018271515",
+          "className": "section arden-react-page arden-pilot arden-print-techniques",
+          "x": 0,
+          "y": 1832.984375,
+          "width": 768,
+          "height": 1389.328125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1221538730",
+          "className": "section arden-react-page arden-pilot arden-process",
+          "x": 0,
+          "y": 3222.3125,
+          "width": 768,
+          "height": 1118.21875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_416252907",
+          "className": "section arden-react-page arden-pilot arden-cta",
+          "x": 0,
+          "y": 4340.53125,
+          "width": 768,
+          "height": 262.171875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4602.703125,
+        "width": 768,
+        "height": 958,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1789442424",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "tshirt",
+    "route": "/dich-vu/may-ao-thun/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 8318,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 16,
+          "y": 191.5,
+          "width": 358,
+          "height": 112.5,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "37.5px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 16,
+          "y": 437.5,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 16,
+          "y": 1951.59375,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 16,
+          "y": 2752.8125,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 16,
+          "y": 4493.21875,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 16,
+          "y": 6581.8125,
+          "width": 358,
+          "height": 57.59375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "24px",
+          "lineHeight": "28.8px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 69,
+          "width": 390,
+          "height": 276,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "fabric-selector",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 345,
+          "width": 390,
+          "height": 1514.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "size-chart-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 1859.09375,
+          "width": 390,
+          "height": 801.21875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "print-techniques-section",
+          "className": "py-14 sm:py-18 bg-slate-100/50 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2660.3125,
+          "width": 390,
+          "height": 1740.40625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 4400.71875,
+          "width": 390,
+          "height": 2053.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 6453.8125,
+          "width": 390,
+          "height": 491.59375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 6945.40625,
+        "width": 390,
+        "height": 1372.75,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "May áo thun Local Brand chuyên nghiệp - UI_arden",
+      "height": 8142,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO THUN LOCAL BRAND CHUYÊN NGHIỆP",
+          "x": 15,
+          "y": 250.09375,
+          "width": 360,
+          "height": 112.5,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "37.5px"
+        },
+        {
+          "text": "CÁC DÒNG VẢI COTTON MAY ÁO THUN CAO CẤP",
+          "x": 15,
+          "y": 545.6875,
+          "width": 360,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "BẢNG SIZE CHUẨN FORM OVERSIZE STREETWEAR",
+          "x": 15,
+          "y": 1368.75,
+          "width": 360,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "KỸ THUẬT IN VÀ THÊU VI TÍNH CAO CẤP",
+          "x": 15,
+          "y": 2140.15625,
+          "width": 360,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 15,
+          "y": 4531.515625,
+          "width": 360,
+          "height": 63.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        },
+        {
+          "text": "BẮT ĐẦU SẢN XUẤT ÁO THUN CÙNG XƯỞNG ARDEN",
+          "x": 15,
+          "y": 6422.109375,
+          "width": 360,
+          "height": 95.0625,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_101019089",
+          "className": "section arden-react-page arden-pilot arden-page-banner",
+          "x": 0,
+          "y": 113.796875,
+          "width": 390,
+          "height": 364.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_979997767",
+          "className": "section arden-react-page arden-pilot arden-fabric-selector",
+          "x": 0,
+          "y": 478.1875,
+          "width": 390,
+          "height": 823.0625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_282196054",
+          "className": "section arden-react-page arden-pilot arden-size-chart",
+          "x": 0,
+          "y": 1301.25,
+          "width": 390,
+          "height": 771.40625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1961543504",
+          "className": "section arden-react-page arden-pilot arden-print-techniques",
+          "x": 0,
+          "y": 2072.65625,
+          "width": 390,
+          "height": 2391.359375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_759394219",
+          "className": "section arden-react-page arden-pilot arden-process",
+          "x": 0,
+          "y": 4464.015625,
+          "width": 390,
+          "height": 1874.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1043941011",
+          "className": "section arden-react-page arden-pilot arden-cta",
+          "x": 0,
+          "y": 6338.109375,
+          "width": 390,
+          "height": 410.046875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 6748.15625,
+        "width": 390,
+        "height": 1393.34375,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1789442424",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "shirt",
+    "route": "/dich-vu/may-ao-so-mi/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 5363,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO SƠ MI LOCAL BRAND & THIẾT KẾ",
+          "x": 112,
+          "y": 241,
+          "width": 768,
+          "height": 120,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "TIÊU CHUẨN MAY ÁO SƠ MI ĐẠT CHUẨN XUẤT XƯỞNG",
+          "x": 336,
+          "y": 723.75,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "CÁC LOẠI VẢI SƠ MI PHỔ BIẾN CHO LOCAL BRAND",
+          "x": 336,
+          "y": 1294.125,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "THÔNG SỐ SIZE ÁO SƠ MI FORM REGULAR / RELAXED",
+          "x": 336,
+          "y": 1997.75,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "SẢN XUẤT CHỈ TỪ 30 ÁO / MẪU - ĐỒNG HÀNH CÙNG LOCAL BRAND",
+          "x": 336,
+          "y": 2611.625,
+          "width": 768,
+          "height": 86.375,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 339.453125,
+          "y": 3649,
+          "width": 761.078125,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẠN CẦN TƯ VẤN BÁO GIÁ MAY ÁO SƠ MI?",
+          "x": 272,
+          "y": 4581.6875,
+          "width": 896,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 102.5,
+          "width": 1440,
+          "height": 315.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "trust-bar",
+          "className": "py-8 sm:py-10 transition-colors bg-white border-y border-slate-200 ",
+          "x": 0,
+          "y": 418,
+          "width": 1440,
+          "height": 197.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-specs",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 615.25,
+          "width": 1440,
+          "height": 570.375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-fabrics",
+          "className": "py-14 sm:py-18 bg-slate-50 border-b border-slate-200",
+          "x": 0,
+          "y": 1185.625,
+          "width": 1440,
+          "height": 703.625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-size-chart",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 1889.25,
+          "width": 1440,
+          "height": 605.875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "moq-section",
+          "className": "py-14 sm:py-18 md:py-20 bg-slate-50/70 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2495.125,
+          "width": 1440,
+          "height": 1045.375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3540.5,
+          "width": 1440,
+          "height": 913.6875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 4454.1875,
+          "width": 1440,
+          "height": 401.6875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4855.875,
+        "width": 1440,
+        "height": 506.875,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "May áo sơ mi Local Brand & thiết kế - UI_arden",
+      "height": 5075,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO SƠ MI LOCAL BRAND & THIẾT KẾ",
+          "x": 80,
+          "y": 236.390625,
+          "width": 1280,
+          "height": 60,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "48px",
+          "lineHeight": "60px"
+        },
+        {
+          "text": "TIÊU CHUẨN MAY ÁO SƠ MI ĐẠT CHUẨN XUẤT XƯỞNG",
+          "x": 80,
+          "y": 733.828125,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "CÁC LOẠI VẢI SƠ MI PHỔ BIẾN CHO LOCAL BRAND",
+          "x": 80,
+          "y": 1227.5,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "THÔNG SỐ SIZE ÁO SƠ MI FORM REGULAR / RELAXED",
+          "x": 80,
+          "y": 1876.59375,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "SẢN XUẤT CHỈ TỪ 30 ÁO / MẪU - ĐỒNG HÀNH CÙNG LOCAL BRAND",
+          "x": 80,
+          "y": 2440.078125,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 80,
+          "y": 3491,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        },
+        {
+          "text": "BẠN CẦN TƯ VẤN BÁO GIÁ MAY ÁO SƠ MI?",
+          "x": 80,
+          "y": 4281.953125,
+          "width": 1280,
+          "height": 43.1875,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "43.2px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_1570743192",
+          "className": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 102,
+          "width": 1440,
+          "height": 275.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1473492948",
+          "className": "section arden-react-page__section py-8 sm:py-10 transition-colors bg-white border-y border-slate-200 ",
+          "x": 0,
+          "y": 377.390625,
+          "width": 1440,
+          "height": 239.640625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1804722368",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 617.03125,
+          "width": 1440,
+          "height": 493.671875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1409658369",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-50 border-b border-slate-200",
+          "x": 0,
+          "y": 1110.703125,
+          "width": 1440,
+          "height": 649.09375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1591445658",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 1759.796875,
+          "width": 1440,
+          "height": 555.484375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1342973343",
+          "className": "section arden-react-page__section py-14 sm:py-18 md:py-20 bg-slate-50/70 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2315.28125,
+          "width": 1440,
+          "height": 1058.921875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1010101175",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3374.203125,
+          "width": 1440,
+          "height": 789.953125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_981679997",
+          "className": "section arden-react-page__section py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 4164.15625,
+          "width": 1440,
+          "height": 391.171875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 4555.328125,
+        "width": 1440,
+        "height": 520,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1789442424",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  },
+  {
+    "name": "shirt",
+    "route": "/dich-vu/may-ao-so-mi/",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "react": {
+      "title": "Xưởng May Arden - Gia Công Thời Trang Local Brand Theo Yêu Cầu TP.HCM",
+      "height": 6523,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO SƠ MI LOCAL BRAND & THIẾT KẾ",
+          "x": 24,
+          "y": 257.5,
+          "width": 720,
+          "height": 90,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "45px"
+        },
+        {
+          "text": "TIÊU CHUẨN MAY ÁO SƠ MI ĐẠT CHUẨN XUẤT XƯỞNG",
+          "x": 24,
+          "y": 830.25,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "CÁC LOẠI VẢI SƠ MI PHỔ BIẾN CHO LOCAL BRAND",
+          "x": 24,
+          "y": 1416,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "THÔNG SỐ SIZE ÁO SƠ MI FORM REGULAR / RELAXED",
+          "x": 24,
+          "y": 2150.5,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "SẢN XUẤT CHỈ TỪ 30 ÁO / MẪU - ĐỒNG HÀNH CÙNG LOCAL BRAND",
+          "x": 24,
+          "y": 2746.75,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 66.875,
+          "y": 4017.25,
+          "width": 634.234375,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẠN CẦN TƯ VẤN BÁO GIÁ MAY ÁO SƠ MI?",
+          "x": 24,
+          "y": 5338.25,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "",
+          "className": "bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 119,
+          "width": 768,
+          "height": 285.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "trust-bar",
+          "className": "py-8 sm:py-10 transition-colors bg-white border-y border-slate-200 ",
+          "x": 0,
+          "y": 404.5,
+          "width": 768,
+          "height": 317.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-specs",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 721.75,
+          "width": 768,
+          "height": 585.75,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-fabrics",
+          "className": "py-14 sm:py-18 bg-slate-50 border-b border-slate-200",
+          "x": 0,
+          "y": 1307.5,
+          "width": 768,
+          "height": 734.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "shirt-size-chart",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 2042,
+          "width": 768,
+          "height": 588.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "moq-section",
+          "className": "py-14 sm:py-18 md:py-20 bg-slate-50/70 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2630.25,
+          "width": 768,
+          "height": 1278.5,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "process-section",
+          "className": "py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3908.75,
+          "width": 768,
+          "height": 1302,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "",
+          "className": "py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 5210.75,
+          "width": 768,
+          "height": 429.25,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 5640,
+        "width": 768,
+        "height": 883.125,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    },
+    "wordpress": {
+      "title": "May áo sơ mi Local Brand & thiết kế - UI_arden",
+      "height": 6317,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "MAY ÁO SƠ MI LOCAL BRAND & THIẾT KẾ",
+          "x": 24,
+          "y": 253.390625,
+          "width": 720,
+          "height": 90,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "36px",
+          "lineHeight": "45px"
+        },
+        {
+          "text": "TIÊU CHUẨN MAY ÁO SƠ MI ĐẠT CHUẨN XUẤT XƯỞNG",
+          "x": 24,
+          "y": 932.46875,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "CÁC LOẠI VẢI SƠ MI PHỔ BIẾN CHO LOCAL BRAND",
+          "x": 24,
+          "y": 1459.59375,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "THÔNG SỐ SIZE ÁO SƠ MI FORM REGULAR / RELAXED",
+          "x": 24,
+          "y": 2172.140625,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "SẢN XUẤT CHỈ TỪ 30 ÁO / MẪU - ĐỒNG HÀNH CÙNG LOCAL BRAND",
+          "x": 24,
+          "y": 2755.578125,
+          "width": 720,
+          "height": 72,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "6 BƯỚC SẢN XUẤT MINH BẠCH TẠI ARDEN",
+          "x": 24,
+          "y": 4003.203125,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        },
+        {
+          "text": "BẠN CẦN TƯ VẤN BÁO GIÁ MAY ÁO SƠ MI?",
+          "x": 24,
+          "y": 5061.640625,
+          "width": 720,
+          "height": 36,
+          "font": "\"Be Vietnam Pro\", \"Plus Jakarta Sans\", sans-serif",
+          "size": "30px",
+          "lineHeight": "36px"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section_834283670",
+          "className": "section arden-react-page__section bg-gradient-to-b from-slate-50 via-blue-50/30 to-slate-100/80 py-10 sm:py-14 border-b border-slate-200 relative overflow-hidden ",
+          "x": 0,
+          "y": 119,
+          "width": 768,
+          "height": 299.390625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1479890968",
+          "className": "section arden-react-page__section py-8 sm:py-10 transition-colors bg-white border-y border-slate-200 ",
+          "x": 0,
+          "y": 418.390625,
+          "width": 768,
+          "height": 397.28125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1483292071",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 815.671875,
+          "width": 768,
+          "height": 527.125,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_327958219",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-slate-50 border-b border-slate-200",
+          "x": 0,
+          "y": 1342.796875,
+          "width": 768,
+          "height": 712.546875,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_465148479",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200",
+          "x": 0,
+          "y": 2055.34375,
+          "width": 768,
+          "height": 575.4375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1564312240",
+          "className": "section arden-react-page__section py-14 sm:py-18 md:py-20 bg-slate-50/70 border-b border-slate-200 ",
+          "x": 0,
+          "y": 2630.78125,
+          "width": 768,
+          "height": 1255.625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_1573885444",
+          "className": "section arden-react-page__section py-14 sm:py-18 bg-white border-b border-slate-200 ",
+          "x": 0,
+          "y": 3886.40625,
+          "width": 768,
+          "height": 1057.4375,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "id": "section_370153882",
+          "className": "section arden-react-page__section py-14 sm:py-18 relative overflow-hidden border-t border-b bg-slate-900 text-white border-slate-800 ",
+          "x": 0,
+          "y": 4943.84375,
+          "width": 768,
+          "height": 415.515625,
+          "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "size": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "footer": {
+        "x": 0,
+        "y": 5359.359375,
+        "width": 768,
+        "height": 958,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      "brokenImages": [],
+      "styles": [
+        "http://localhost/mytest/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap",
+        "http://localhost/mytest/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.7",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/arden.css?ver=2.0.1.1789173096",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/pilot-native.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/forms.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-pages.css?ver=2.0.1",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/assets/css/react-utility-compat.css?ver=2.0.1.1789442424",
+        "http://localhost/mytest/wp-content/themes/flatsome-child/style.css?ver=2.0.1"
+      ],
+      "status": 200,
+      "errors": [],
+      "failedRequests": []
+    }
+  }
+]

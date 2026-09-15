@@ -1,0 +1,225 @@
+/* Restore the wrapper geometry from AboutPage's reusable React sections.
+   UX Builder still owns each text, image and column. */
+.arden-react-page--about > .section > .section-content > .row {
+  max-width:1216px !important;
+}
+.arden-react-page--about :is(.arden-icon-role-factory,.arden-icon-role-certifications,section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .text {
+  max-width:768px;
+  margin-inline:auto;
+  text-align:center;
+}
+.arden-react-page--about :is(.arden-icon-role-factory,.arden-icon-role-certifications,section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .text:first-child p {
+  display:inline-flex;
+  margin:0 0 10px;
+  padding:4px 14px;
+  border:1px solid #bfdbfe;
+  border-radius:999px;
+  background:#fff;
+  color:#1e3a8a;
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.05em;
+  line-height:16.5px;
+}
+.arden-react-page--about :is(.arden-icon-role-factory,.arden-icon-role-certifications,section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .text:has(h2) h2 {
+  margin:0 0 10px;
+}
+.arden-react-page--about :is(.arden-icon-role-factory,.arden-icon-role-certifications,section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .text:has(h2) + .text p {
+  max-width:672px;
+  margin:0 auto;
+}
+.arden-react-page--about :is(section:nth-child(6),section:nth-child(7)) > .section-content > .row > .col > .col-inner > .row {
+  margin-top:48px;
+}
+.arden-react-page--about .arden-icon-role-certifications .row.grid {
+  margin-top:32px;
+}
+.arden-react-page--about :is(.arden-icon-role-certifications,section:nth-child(6),section:nth-child(7)) .row.grid > .col > .col-inner {
+  height:100%;
+  padding:24px;
+  border:1px solid #e2e8f0;
+  border-radius:16px;
+  background:#f8fafc;
+  box-shadow:0 1px 2px rgb(0 0 0 / 5%);
+}
+.arden-react-page--about .arden-icon-role-certifications .row.grid > .col > .col-inner {
+  padding:20px;
+  background:#fff;
+}
+.arden-react-page--about section:nth-child(6) .row.grid > .col > .col-inner {
+  padding-top:80px;
+  position:relative;
+}
+.arden-react-page--about section:nth-child(6) .col-inner > .arden-semantic-icon--card {
+  position:absolute;
+  top:24px;
+  left:24px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:40px;
+  height:40px;
+  border-radius:12px;
+  background:#1e3a8a;
+  color:#fff;
+}
+.arden-react-page--about section:nth-child(6) .row.grid > .col > .col-inner > .text:first-of-type {
+  position:absolute;
+  top:30px;
+  right:24px;
+  color:#cbd5e1;
+  font-size:20px;
+  font-weight:900;
+}
+.arden-react-page--about section:nth-child(6) .row.grid .text:last-child p {
+  margin-bottom:0;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) {
+  margin-top:40px;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) > .col > .col-inner {
+  height:100%;
+  border:1px solid #e2e8f0;
+  border-radius:16px;
+  overflow:hidden;
+  background:#f8fafc;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text {
+  padding-inline:20px;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .img {
+  height:auto;
+  margin-bottom:12px;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .img-inner {
+  height:auto;
+  aspect-ratio:16/10;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .img-inner img {
+  position:absolute;
+  inset:0;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text:last-child {
+  padding-bottom:20px;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row {
+  margin-top:32px;
+  padding:24px;
+  border:1px solid #1e293b;
+  border-radius:16px;
+  background:#0f172a;
+  color:#cbd5e1;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row h4 {
+  color:#fff;
+}
+@media (min-width:640px) {
+  .arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row { padding:32px; }
+}
+
+/* TrustBarSection: the icon and copy share one horizontal card. */
+.arden-react-page--about .arden-icon-role-trust .row.grid > .col > .col-inner {
+  position:relative;
+  padding:12px 12px 12px 72px;
+}
+.arden-react-page--about .arden-icon-role-trust .arden-semantic-icon--card {
+  position:absolute;
+  top:12px;
+  left:12px;
+  width:44px;
+  height:44px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid #dbeafe;
+  border-radius:12px;
+  background:#eff6ff;
+  color:#1e3a8a;
+}
+.arden-react-page--about .arden-icon-role-trust .text { margin:0; }
+.arden-react-page--about .arden-icon-role-trust :is(h3,p) { margin:0 0 4px; }
+.arden-react-page--about .arden-icon-role-trust .text:nth-of-type(2) p {
+  display:inline;
+  padding:2px 6px;
+  border:1px solid #bfdbfe;
+  border-radius:4px;
+  background:#eff6ff;
+  color:#1e3a8a;
+  font-size:10px;
+  font-weight:700;
+}
+.arden-react-page--about .arden-icon-role-story .img { height:auto; margin:0; border-radius:16px; overflow:hidden; }
+
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) > .col > .col-inner { position:relative; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .img { margin:0; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text p { margin:0; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .img + .text {
+  position:absolute;
+  top:12px;
+  right:12px;
+  max-width:calc(100% - 24px);
+  padding:2px 8px;
+  border-radius:999px;
+  background:#0f172a;
+  color:#fff;
+  font-size:10px;
+  font-weight:700;
+}
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text:has(h3) { padding-top:20px; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text:has(h3) h3 { margin:0 0 10px; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) .text:last-child { padding-top:20px; font-size:11px; font-weight:700; color:#1e3a8a; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row .text p { margin:0; }
+.arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row > .col:first-child > .col-inner {
+  display:grid;
+  gap:12px;
+}
+@media (min-width:640px) {
+  .arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row > .col:first-child > .col-inner { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row > .col:first-child .text:nth-of-type(2) { grid-column:span 2; }
+  .arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row > .col:first-child .text:nth-of-type(3),
+  .arden-react-page--about .arden-icon-role-factory .row.grid:has(.img) + .row > .col:first-child .text:nth-of-type(4) { grid-column:1/-1; }
+}
+
+/* Keep the flattened author fields on the source's compact lines. */
+.arden-react-page--about section:nth-child(7) .row.grid .img ~ .text { display:inline; }
+.arden-react-page--about section:nth-child(7) .row.grid .img + .text { display:block; }
+.arden-react-page--about section:nth-child(7) .row.grid .img ~ .text p {
+  display:inline;
+  margin:0;
+  color:#1e3a8a;
+  font-size:11px;
+  line-height:16.5px;
+}
+.arden-react-page--about section:nth-child(7) .row.grid .img ~ .text:last-child {
+  display:block;
+}
+.arden-react-page--about section:nth-child(7) .row.grid .img ~ .text:last-child p {
+  color:#64748b;
+  font-size:10px;
+  line-height:15px;
+}
+.arden-react-page--about .arden-icon-role-cta {
+  background-image:radial-gradient(#1e3a8a 1px,transparent 1px);
+  background-size:24px 24px;
+}
+.arden-react-page--about .arden-icon-role-cta > .section-content > .row > .col > .col-inner {
+  text-align:center;
+}
+.arden-react-page--about .arden-icon-role-cta .text:has(h2) {
+  max-width:768px;
+  margin:24px auto;
+}
+.arden-react-page--about .arden-icon-role-cta .text:has(h2) h2 { margin:0; }
+.arden-react-page--about .arden-icon-role-cta .text:first-child p {
+  display:inline-flex;
+  margin:0;
+  padding:4px 14px;
+  border:1px solid #1e40af;
+  border-radius:999px;
+  background:#172554;
+  color:#93c5fd;
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.05em;
+}
+.arden-react-page--about .arden-icon-role-cta .text:has(h2) + .text { margin-bottom:32px; }

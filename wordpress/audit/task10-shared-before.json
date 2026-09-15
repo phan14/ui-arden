@@ -1,0 +1,1254 @@
+{
+  "generatedAt": "2026-08-29T01:31:30.589Z",
+  "cases": [
+    {
+      "name": "home",
+      "width": 1440,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 112,
+          "width": 689.33,
+          "height": 169.56,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 13871.23,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 112,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 112,
+          "width": 389.33,
+          "height": 540.58,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 112,
+          "width": 689.33,
+          "height": 460.56,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 150,
+          "width": 1140,
+          "height": 810.13,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 211,
+          "width": 581.33,
+          "height": 220.75,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 13497.58,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 211,
+          "width": 293.52,
+          "height": 52.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "normal",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 150,
+          "width": 1140,
+          "height": 12785.58,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "heroWidth": false,
+        "h1Geometry": false,
+        "buttonMargin": false,
+        "buttonGap": false,
+        "buttonShadow": false,
+        "buttonHeight": false,
+        "cardRadius": false
+      },
+      "pass": false
+    },
+    {
+      "name": "about",
+      "width": 1440,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 112,
+          "width": 768,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 5286.31,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 112,
+          "width": 389.33,
+          "height": 226.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 112,
+          "width": 280,
+          "height": 115.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1440,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 80,
+          "width": 1280,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1440,
+          "height": 9667.63,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 95,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 80,
+          "width": 1280,
+          "height": 138.39,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": {
+          "x": 80,
+          "width": 1280,
+          "height": 307.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "296px 296px 296px 296px"
+        },
+        "aboutGridChild": {
+          "x": 80,
+          "width": 74,
+          "height": 275.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": true,
+        "bodyColor": true,
+        "gridChildWidth": false
+      },
+      "pass": false
+    },
+    {
+      "name": "home",
+      "width": 1024,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 32,
+          "width": 540,
+          "height": 279.94,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 14092.06,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 32,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 32,
+          "width": 304,
+          "height": 487.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 32,
+          "width": 540,
+          "height": 660.94,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 15,
+          "width": 994,
+          "height": 798.22,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 76,
+          "width": 496.16,
+          "height": 188.38,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 20.48px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 13362.47,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 76,
+          "width": 293.52,
+          "height": 52.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "normal",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 15,
+          "width": 994,
+          "height": 12586.47,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "heroWidth": false,
+        "h1Geometry": false,
+        "buttonMargin": false,
+        "buttonGap": false,
+        "buttonShadow": false,
+        "buttonHeight": false,
+        "cardRadius": false
+      },
+      "pass": false
+    },
+    {
+      "name": "about",
+      "width": 1024,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 114.5,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 32,
+          "width": 768,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 5453.44,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 32,
+          "width": 304,
+          "height": 303.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 32,
+          "width": 216,
+          "height": 134.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 1024,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 32,
+          "width": 960,
+          "height": 60,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 1024,
+          "height": 9837.84,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 47,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 32,
+          "width": 960,
+          "height": 138.39,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": {
+          "x": 32,
+          "width": 960,
+          "height": 307.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "216px 216px 216px 216px"
+        },
+        "aboutGridChild": {
+          "x": 32,
+          "width": 54,
+          "height": 275.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "gridChildWidth": false
+      },
+      "pass": false
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 86.78,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 18487.16,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 24,
+          "width": 170.25,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 24,
+          "width": 348,
+          "height": 514.75,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 24,
+          "width": 720,
+          "height": 371.28,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 15,
+          "width": 738,
+          "height": 883.8,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 76,
+          "width": 346.83,
+          "height": 176.56,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 15.36px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 18290.48,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 76,
+          "width": 293.52,
+          "height": 52.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "normal",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 15,
+          "width": 738,
+          "height": 17140.48,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "heroWidth": false,
+        "h1Geometry": false,
+        "buttonMargin": false,
+        "buttonGap": false,
+        "buttonShadow": false,
+        "buttonHeight": false,
+        "cardRadius": false
+      },
+      "pass": false
+    },
+    {
+      "name": "about",
+      "width": 768,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 119,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 45,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 7643.13,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 24,
+          "width": 224,
+          "height": 349.25,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 24,
+          "width": 344,
+          "height": 88,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 768,
+          "height": 102,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 24,
+          "width": 720,
+          "height": 45,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 18px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 768,
+          "height": 9900.66,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 39,
+          "width": 234.61,
+          "height": 44.39,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 24,
+          "width": 720,
+          "height": 123.39,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": {
+          "x": 24,
+          "width": 720,
+          "height": 413.78,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "32px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "344px 344px"
+        },
+        "aboutGridChild": {
+          "x": 24,
+          "width": 172,
+          "height": 174.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "gridChildWidth": false
+      },
+      "pass": false
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 142,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 12px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 27540.56,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 16,
+          "width": 150.5,
+          "height": 40,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px",
+          "gap": "6px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 16,
+          "width": 358,
+          "height": 474.5,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 661,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 60,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": {
+          "x": 15,
+          "width": 360,
+          "height": 1618.55,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "h1": {
+          "x": 76,
+          "width": 238,
+          "height": 172.5,
+          "color": "rgb(2, 6, 23)",
+          "margin": "0px 0px 15px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 31485.16,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 76,
+          "width": 224,
+          "height": 74.78,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 14px 14px 0px",
+          "gap": "normal",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 15,
+          "width": 360,
+          "height": 29712.69,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": null
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "heroWidth": false,
+        "h1Geometry": false,
+        "buttonMargin": false,
+        "buttonGap": false,
+        "buttonShadow": false,
+        "buttonHeight": false,
+        "cardRadius": false
+      },
+      "pass": false
+    },
+    {
+      "name": "about",
+      "width": 390,
+      "reference": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 69,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 75,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 10492.22,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": null,
+        "card": {
+          "x": 16,
+          "width": 358,
+          "height": 232,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": null,
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 88,
+          "color": "oklch(0.279 0.041 260.031)",
+          "margin": "0px",
+          "gap": "16px",
+          "borderRadius": "12px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "current": {
+        "status": 200,
+        "header": {
+          "x": 0,
+          "width": 390,
+          "height": 60,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "hero": null,
+        "h1": {
+          "x": 16,
+          "width": 358,
+          "height": 73.59,
+          "color": "oklch(0.129 0.042 264.695)",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "body": {
+          "x": 0,
+          "width": 390,
+          "height": 12166.55,
+          "color": "oklch(0.208 0.042 265.755)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "button": {
+          "x": 31,
+          "width": 207.09,
+          "height": 44,
+          "color": "rgb(255, 255, 255)",
+          "margin": "0px 12px 12px 0px",
+          "gap": "8px",
+          "borderRadius": "12px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "gridTemplateColumns": "none"
+        },
+        "card": {
+          "x": 16,
+          "width": 358,
+          "height": 175.98,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        },
+        "aboutGrid": {
+          "x": 16,
+          "width": 358,
+          "height": 703.56,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "24px",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "358px"
+        },
+        "aboutGridChild": {
+          "x": 16,
+          "width": 358,
+          "height": 151.89,
+          "color": "rgb(15, 23, 42)",
+          "margin": "0px",
+          "gap": "normal",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "gridTemplateColumns": "none"
+        }
+      },
+      "checks": {
+        "http": true,
+        "headerHeight": false,
+        "bodyColor": true,
+        "gridChildWidth": true
+      },
+      "pass": false
+    }
+  ],
+  "pass": false
+}

@@ -1,0 +1,721 @@
+[section class="arden-factory" padding="60px" padding__sm="40px" bg_color="#ffffff"]
+
+[row h_align="center"]
+[col span="12" align="center"]
+
+[ux_text text_align="center" class="arden-factory-head"]
+
+<p class="arden-factory-badge">QUY MÔ NHÀ XƯỞNG</p>
+
+<h2>CƠ SỞ VẬT CHẤT &amp; MÁY MÓC HIỆN ĐẠI</h2>
+
+<p class="arden-factory-desc">
+Quy mô 1.000m² tại TP.HCM được đầu tư hệ thống máy may chuyên dụng,
+khu vực phát triển mẫu, cắt vải và kiểm soát chất lượng thành phẩm.
+</p>
+
+[/ux_text]
+
+[/col]
+[/row]
+
+
+[row class="arden-factory-cards" col_style="solid" h_align="center"]
+
+[col span="3" span__md="6" span__sm="12"]
+
+<div class="arden-factory-card" data-arden-card="0">
+
+<div class="arden-factory-card-img">
+<img
+src="https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=900&q=80"
+alt="Phòng phát triển mẫu và rập CAD Arden"
+loading="lazy">
+<span>15 - 20 BỘ RẬP / NGÀY</span>
+</div>
+
+<div class="arden-factory-card-body">
+
+<h3>PHÒNG PHÁT TRIỂN MẪU &amp; RẬP CAD</h3>
+
+<p>
+Đội ngũ kỹ thuật phát triển rập, giác sơ đồ và hoàn thiện mẫu
+theo thông số sản phẩm.
+</p>
+
+<div class="arden-factory-card-link">
+XEM TRANG THIẾT BỊ <span>→</span>
+</div>
+
+</div>
+
+</div>
+
+[/col]
+
+
+[col span="3" span__md="6" span__sm="12"]
+
+<div class="arden-factory-card" data-arden-card="1">
+
+<div class="arden-factory-card-img">
+<img
+src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=900&q=80"
+alt="Phân xưởng trải và cắt vải Arden"
+loading="lazy">
+<span>3.000 - 5.000 BTP / NGÀY</span>
+</div>
+
+<div class="arden-factory-card-body">
+
+<h3>PHÂN XƯỞNG TRẢI &amp; CẮT VẢI</h3>
+
+<p>
+Kiểm tra và xử lý vải trước khi trải cắt nhằm hạn chế sai lệch
+canh sợi và thông số thành phẩm.
+</p>
+
+<div class="arden-factory-card-link">
+XEM TRANG THIẾT BỊ <span>→</span>
+</div>
+
+</div>
+
+</div>
+
+[/col]
+
+
+[col span="3" span__md="6" span__sm="12"]
+
+<div class="arden-factory-card" data-arden-card="2">
+
+<div class="arden-factory-card-img">
+<img
+src="https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+alt="Dây chuyền may chuyên dụng Arden"
+loading="lazy">
+<span>DÂY CHUYỀN CHUYÊN DỤNG</span>
+</div>
+
+<div class="arden-factory-card-body">
+
+<h3>DÂY CHUYỀN MAY CHUYÊN DỤNG</h3>
+
+<p>
+Chuyền may được bố trí theo từng nhóm sản phẩm nhằm kiểm soát
+chất lượng và tiến độ sản xuất.
+</p>
+
+<div class="arden-factory-card-link">
+XEM TRANG THIẾT BỊ <span>→</span>
+</div>
+
+</div>
+
+</div>
+
+[/col]
+
+
+[col span="3" span__md="6" span__sm="12"]
+
+<div class="arden-factory-card is-active" data-arden-card="3">
+
+<div class="arden-factory-card-img">
+<img
+src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=900&q=80"
+alt="Khu vực QC và đóng gói Arden"
+loading="lazy">
+<span>KIỂM TRA 100% THÀNH PHẨM</span>
+</div>
+
+<div class="arden-factory-card-body">
+
+<h3>QC, ỦI HƠI &amp; ĐÓNG GÓI THÀNH PHẨM</h3>
+
+<p>
+Kiểm tra đường may, thông số, vệ sinh sản phẩm và hoàn thiện
+trước khi đóng gói bàn giao.
+</p>
+
+<div class="arden-factory-card-link">
+XEM TRANG THIẾT BỊ <span>→</span>
+</div>
+
+</div>
+
+</div>
+
+[/col]
+
+[/row]
+
+
+[row class="arden-detail-row"]
+
+[col span="12"]
+
+<div class="arden-factory-detail">
+
+<div class="arden-detail-content">
+
+<div class="arden-detail-main">
+
+<div class="arden-detail-meta">
+<span class="arden-detail-label">CHI TIẾT TRANG THIẾT BỊ</span>
+<span id="arden-detail-capacity">Kiểm tra 100% thành phẩm</span>
+</div>
+
+<h3 id="arden-detail-title">
+QC, ỦI HƠI &amp; ĐÓNG GÓI THÀNH PHẨM
+</h3>
+
+<p id="arden-detail-desc">
+Kiểm tra đường may, độ sạch chỉ, thông số kích thước
+và độ hoàn thiện trước khi sản phẩm được đóng gói bàn giao.
+</p>
+
+<div class="arden-detail-equipment">
+
+<div>
+<span class="arden-check">✓</span>
+<span id="arden-equip-1">Kiểm tra thông số thành phẩm</span>
+</div>
+
+<div>
+<span class="arden-check">✓</span>
+<span id="arden-equip-2">Khu vực ủi hơi hoàn thiện</span>
+</div>
+
+<div>
+<span class="arden-check">✓</span>
+<span id="arden-equip-3">Đóng gói &amp; kiểm hàng FQC</span>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="arden-detail-actions">
+
+<a href="/lien-he/" class="button arden-btn-primary">
+ĐẶT LỊCH THĂM XƯỞNG
+<span>→</span>
+</a>
+
+<a href="/dich-vu/" class="button arden-btn-secondary">
+XEM DỊCH VỤ SẢN XUẤT
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+[/col]
+[/row]
+
+[/section]
+
+
+<style>
+
+/* ==================================================
+   FACTORY SECTION
+================================================== */
+
+.arden-factory{
+    border-bottom:1px solid #e5e7eb;
+}
+
+.arden-factory .section-content{
+    max-width:1240px;
+    margin:auto;
+}
+
+
+/* HEADER */
+
+.arden-factory-head{
+    max-width:720px;
+    margin:0 auto 10px;
+}
+
+.arden-factory-badge{
+    display:inline-block;
+    margin:0 0 12px !important;
+    padding:6px 15px;
+    border:1px solid #bfdbfe;
+    border-radius:30px;
+    background:#fff;
+    color:#17469e;
+    font-size:11px;
+    line-height:1.2;
+    font-weight:700;
+    letter-spacing:.5px;
+}
+
+.arden-factory-head h2{
+    margin:0 0 12px !important;
+    color:#080b12;
+    font-size:30px;
+    line-height:1.2;
+    font-weight:800;
+}
+
+.arden-factory-desc{
+    max-width:670px;
+    margin:0 auto !important;
+    color:#64748b;
+    font-size:14px;
+    line-height:1.7;
+}
+
+
+/* ==================================================
+   CARDS
+================================================== */
+
+.arden-factory-cards{
+    margin-top:32px !important;
+}
+
+.arden-factory-cards > .col{
+    padding-bottom:20px;
+}
+
+.arden-factory-card{
+    height:100%;
+    overflow:hidden;
+    border:1px solid #e2e8f0;
+    border-radius:14px;
+    background:#fff;
+    cursor:pointer;
+    transition:
+        border-color .2s ease,
+        box-shadow .2s ease,
+        transform .2s ease;
+}
+
+.arden-factory-card:hover{
+    transform:translateY(-3px);
+    border-color:#93b4df;
+    box-shadow:0 8px 25px rgba(15,23,42,.08);
+}
+
+.arden-factory-card.is-active{
+    border-color:#17469e;
+    box-shadow:
+        0 0 0 2px rgba(23,70,158,.10),
+        0 8px 25px rgba(15,23,42,.08);
+}
+
+
+/* IMAGE */
+
+.arden-factory-card-img{
+    position:relative;
+    height:170px;
+    overflow:hidden;
+    background:#f1f5f9;
+}
+
+.arden-factory-card-img img{
+    display:block;
+    width:100%;
+    height:100%;
+    margin:0;
+    object-fit:cover;
+    transition:transform .35s ease;
+}
+
+.arden-factory-card:hover img{
+    transform:scale(1.04);
+}
+
+.arden-factory-card-img > span{
+    position:absolute;
+    top:12px;
+    right:12px;
+    padding:4px 9px;
+    border-radius:20px;
+    background:rgba(15,23,42,.82);
+    color:#fff;
+    font-size:9px;
+    line-height:1.3;
+    font-weight:700;
+}
+
+.arden-factory-card.is-active .arden-factory-card-img > span{
+    background:#17469e;
+}
+
+
+/* CARD BODY */
+
+.arden-factory-card-body{
+    padding:18px;
+}
+
+.arden-factory-card-body h3{
+    min-height:38px;
+    margin:0 0 9px;
+    color:#0f172a;
+    font-size:13px;
+    line-height:1.45;
+    font-weight:800;
+}
+
+.arden-factory-card-body > p{
+    min-height:58px;
+    margin:0 0 14px;
+    color:#64748b;
+    font-size:12px;
+    line-height:1.6;
+}
+
+.arden-factory-card-link{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-top:12px;
+    border-top:1px solid #e5e7eb;
+    color:#17469e;
+    font-size:10px;
+    font-weight:700;
+    letter-spacing:.2px;
+}
+
+.arden-factory-card-link span{
+    font-size:17px;
+    line-height:1;
+    transition:transform .2s ease;
+}
+
+.arden-factory-card:hover .arden-factory-card-link span{
+    transform:translateX(4px);
+}
+
+
+/* ==================================================
+   DETAIL
+================================================== */
+
+.arden-detail-row{
+    margin-top:8px !important;
+}
+
+.arden-factory-detail{
+    padding:28px 30px;
+    border:1px solid #1e293b;
+    border-radius:16px;
+    background:#0f172a;
+    box-shadow:0 12px 30px rgba(15,23,42,.14);
+}
+
+.arden-detail-content{
+    display:grid;
+    grid-template-columns:minmax(0,2fr) minmax(220px,.7fr);
+    gap:32px;
+    align-items:center;
+}
+
+.arden-detail-meta{
+    display:flex;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom:13px;
+}
+
+.arden-detail-label{
+    display:inline-block;
+    padding:4px 10px;
+    border:1px solid rgba(251,191,36,.25);
+    border-radius:20px;
+    background:rgba(251,191,36,.08);
+    color:#fbbf24;
+    font-size:10px;
+    font-weight:700;
+}
+
+#arden-detail-capacity{
+    color:#94a3b8;
+    font-size:11px;
+}
+
+#arden-detail-title{
+    margin:0 0 10px;
+    color:#fff;
+    font-size:19px;
+    line-height:1.35;
+    font-weight:800;
+}
+
+#arden-detail-desc{
+    margin:0 0 18px;
+    color:#cbd5e1;
+    font-size:13px;
+    line-height:1.65;
+}
+
+
+/* EQUIPMENT */
+
+.arden-detail-equipment{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:9px;
+}
+
+.arden-detail-equipment > div{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    min-height:48px;
+    padding:10px 11px;
+    border:1px solid #334155;
+    border-radius:10px;
+    background:#1e293b;
+    color:#e2e8f0;
+    font-size:11px;
+    line-height:1.4;
+}
+
+.arden-check{
+    display:flex;
+    flex:0 0 18px;
+    align-items:center;
+    justify-content:center;
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    background:#10b981;
+    color:#fff;
+    font-size:11px;
+    font-weight:900;
+}
+
+
+/* BUTTON */
+
+.arden-detail-actions{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.arden-detail-actions .button{
+    display:flex !important;
+    width:100%;
+    min-height:44px;
+    margin:0 !important;
+    align-items:center;
+    justify-content:center;
+    border-radius:8px;
+    box-shadow:none;
+    font-size:11px;
+    font-weight:700;
+}
+
+.arden-btn-primary{
+    border-color:#f59e0b !important;
+    background:#f59e0b !important;
+    color:#0f172a !important;
+}
+
+.arden-btn-primary:hover{
+    border-color:#fbbf24 !important;
+    background:#fbbf24 !important;
+}
+
+.arden-btn-secondary{
+    border-color:#475569 !important;
+    background:#1e293b !important;
+    color:#fff !important;
+}
+
+.arden-btn-secondary:hover{
+    background:#334155 !important;
+}
+
+
+/* ==================================================
+   TABLET
+================================================== */
+
+@media(max-width:849px){
+
+    .arden-factory-head h2{
+        font-size:26px;
+    }
+
+    .arden-detail-content{
+        grid-template-columns:1fr;
+    }
+
+    .arden-detail-equipment{
+        grid-template-columns:1fr;
+    }
+
+    .arden-detail-actions{
+        display:grid;
+        grid-template-columns:1fr 1fr;
+    }
+
+}
+
+
+/* ==================================================
+   MOBILE
+================================================== */
+
+@media(max-width:549px){
+
+    .arden-factory-head h2{
+        font-size:23px;
+    }
+
+    .arden-factory-desc{
+        font-size:13px;
+    }
+
+    .arden-factory-card-img{
+        height:210px;
+    }
+
+    .arden-factory-card-body h3,
+    .arden-factory-card-body > p{
+        min-height:0;
+    }
+
+    .arden-factory-detail{
+        padding:22px 18px;
+    }
+
+    .arden-detail-actions{
+        grid-template-columns:1fr;
+    }
+
+    #arden-detail-title{
+        font-size:17px;
+    }
+
+}
+
+</style>
+
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function(){
+
+    var data = [
+
+        {
+            title:'PHÒNG PHÁT TRIỂN MẪU & RẬP CAD',
+            capacity:'15 - 20 bộ rập mới / ngày',
+            desc:'Đội ngũ kỹ thuật phát triển rập, giác sơ đồ và hoàn thiện mẫu theo thông số sản phẩm trước khi đưa vào sản xuất.',
+            equip:[
+                'Phát triển rập CAD',
+                'Giác sơ đồ sản xuất',
+                'In sơ đồ khổ lớn'
+            ]
+        },
+
+        {
+            title:'PHÂN XƯỞNG TRẢI & CẮT VẢI',
+            capacity:'3.000 - 5.000 bán thành phẩm / ngày',
+            desc:'Vải được kiểm tra, xử lý và trải cắt theo sơ đồ nhằm đảm bảo chính xác thông số và hạn chế sai lệch trong sản xuất.',
+            equip:[
+                'Khu vực kiểm tra vải',
+                'Hệ thống bàn trải vải',
+                'Máy cắt chuyên dụng'
+            ]
+        },
+
+        {
+            title:'DÂY CHUYỀN MAY CHUYÊN DỤNG',
+            capacity:'Dây chuyền sản xuất theo từng dòng sản phẩm',
+            desc:'Chuyền may được tổ chức theo từng nhóm sản phẩm nhằm kiểm soát chất lượng, năng suất và tiến độ của từng đơn hàng.',
+            equip:[
+                'Máy may 1 kim điện tử',
+                'Máy vắt sổ chuyên dụng',
+                'Máy kansai & máy phụ trợ'
+            ]
+        },
+
+        {
+            title:'QC, ỦI HƠI & ĐÓNG GÓI THÀNH PHẨM',
+            capacity:'Kiểm tra 100% thành phẩm',
+            desc:'Kiểm tra đường may, độ sạch chỉ, thông số kích thước và độ hoàn thiện trước khi sản phẩm được đóng gói bàn giao.',
+            equip:[
+                'Kiểm tra thông số thành phẩm',
+                'Khu vực ủi hơi hoàn thiện',
+                'Đóng gói & kiểm hàng FQC'
+            ]
+        }
+
+    ];
+
+
+    var cards = document.querySelectorAll('.arden-factory-card');
+
+    var title = document.getElementById('arden-detail-title');
+    var capacity = document.getElementById('arden-detail-capacity');
+    var desc = document.getElementById('arden-detail-desc');
+
+    var equip1 = document.getElementById('arden-equip-1');
+    var equip2 = document.getElementById('arden-equip-2');
+    var equip3 = document.getElementById('arden-equip-3');
+
+
+    function changeDetail(index){
+
+        var item = data[index];
+
+        if(!item) return;
+
+        cards.forEach(function(card){
+            card.classList.remove('is-active');
+        });
+
+        cards[index].classList.add('is-active');
+
+        title.textContent = item.title;
+        capacity.textContent = 'Công suất: ' + item.capacity;
+        desc.textContent = item.desc;
+
+        equip1.textContent = item.equip[0];
+        equip2.textContent = item.equip[1];
+        equip3.textContent = item.equip[2];
+
+    }
+
+
+    cards.forEach(function(card, index){
+
+        card.setAttribute('tabindex','0');
+        card.setAttribute('role','button');
+
+        card.addEventListener('click', function(){
+            changeDetail(index);
+        });
+
+        card.addEventListener('keydown', function(event){
+
+            if(event.key === 'Enter' || event.key === ' '){
+                event.preventDefault();
+                changeDetail(index);
+            }
+
+        });
+
+    });
+
+});
+
+</script>

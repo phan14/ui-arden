@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="72" viewBox="0 0 264 72" role="img" aria-labelledby="title desc">
+  <title id="title">ARDEN Garment Factory</title><desc id="desc">Arden lettermark and wordmark</desc>
+  <rect x="0" y="4" width="64" height="64" rx="16" fill="#1e3a8a"/>
+  <text x="32" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="900" fill="#fff">A</text>
+  <text x="78" y="36" font-family="Arial,sans-serif" font-size="30" font-weight="900" letter-spacing="-1" fill="#0f172a">ARDEN</text>
+  <circle cx="184" cy="28" r="4" fill="#1e3a8a"/>
+  <text x="79" y="53" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="3" fill="#94a3b8">GARMENT FACTORY</text>
+</svg>

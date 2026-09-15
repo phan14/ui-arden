@@ -32,11 +32,14 @@ function splitSelectors(selector) {
 }
 
 function scopeContainer(container) {
-  container.walkRules((rule) => {
+  const scopeRule = (rule) => {
     rule.selector = splitSelectors(rule.selector)
       .map((selector) => `.arden-react-page ${selector}`)
       .join(',\n');
-  });
+  };
+  // walkRules visits descendants only; top-level utility rules need scoping too.
+  if (container.type === 'rule') scopeRule(container);
+  container.walkRules(scopeRule);
   return container;
 }
 

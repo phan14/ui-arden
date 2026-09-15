@@ -1,0 +1,72 @@
+﻿[
+    {
+        "file":  "wordpress/flatsome-child\\single.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\single.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\single-project.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\single-project.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\search.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\search.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\page-tin-tuc.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\page-tin-tuc.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\page-tim-kiem.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\page-tim-kiem.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\inc\\template-tags.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\inc\\template-tags.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\inc\\shortcodes.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\inc\\shortcodes.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\inc\\post-types.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\inc\\post-types.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\inc\\mobile-cta.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\inc\\mobile-cta.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\home.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\home.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\functions.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\functions.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\category.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\category.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\archive-project.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\archive-project.php"
+    },
+    {
+        "file":  "wordpress/flatsome-child\\404.php",
+        "pass":  true,
+        "output":  "No syntax errors detected in wordpress/flatsome-child\\404.php"
+    }
+]

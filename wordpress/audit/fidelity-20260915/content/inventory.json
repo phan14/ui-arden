@@ -1,0 +1,198 @@
+[
+    {
+        "id": 293,
+        "type": "blocks",
+        "slug": "",
+        "status": "draft",
+        "component": ""
+    },
+    {
+        "id": 289,
+        "type": "blocks",
+        "slug": "cam-ket",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 277,
+        "type": "blocks",
+        "slug": "arden-chung-nhan",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 207,
+        "type": "page",
+        "slug": "tim-kiem",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 82,
+        "type": "page",
+        "slug": "dich-vu",
+        "status": "publish",
+        "component": "ServicesPage"
+    },
+    {
+        "id": 83,
+        "type": "page",
+        "slug": "may-ao-thun",
+        "status": "publish",
+        "component": "TShirtServicePage"
+    },
+    {
+        "id": 84,
+        "type": "page",
+        "slug": "may-ao-so-mi",
+        "status": "publish",
+        "component": "ShirtServicePage"
+    },
+    {
+        "id": 85,
+        "type": "page",
+        "slug": "may-ao-khoac",
+        "status": "publish",
+        "component": "JacketServicePage"
+    },
+    {
+        "id": 86,
+        "type": "page",
+        "slug": "may-quan",
+        "status": "publish",
+        "component": "PantsServicePage"
+    },
+    {
+        "id": 95,
+        "type": "page",
+        "slug": "faq",
+        "status": "publish",
+        "component": "FAQPage"
+    },
+    {
+        "id": 96,
+        "type": "page",
+        "slug": "lien-he",
+        "status": "publish",
+        "component": "ContactPage"
+    },
+    {
+        "id": 97,
+        "type": "page",
+        "slug": "bao-gia",
+        "status": "publish",
+        "component": "QuotePage"
+    },
+    {
+        "id": 98,
+        "type": "page",
+        "slug": "tuyen-dung",
+        "status": "publish",
+        "component": "CareersPage"
+    },
+    {
+        "id": 99,
+        "type": "page",
+        "slug": "chinh-sach",
+        "status": "publish",
+        "component": "PoliciesPage"
+    },
+    {
+        "id": 100,
+        "type": "page",
+        "slug": "bang-vai",
+        "status": "publish",
+        "component": "FabricGuidePage"
+    },
+    {
+        "id": 101,
+        "type": "page",
+        "slug": "huong-dan-techpack",
+        "status": "publish",
+        "component": "TechpackGuidePage"
+    },
+    {
+        "id": 111,
+        "type": "page",
+        "slug": "tin-tuc",
+        "status": "publish",
+        "component": "NewsPage"
+    },
+    {
+        "id": 81,
+        "type": "page",
+        "slug": "gioi-thieu",
+        "status": "publish",
+        "component": "AboutPage"
+    },
+    {
+        "id": 87,
+        "type": "page",
+        "slug": "nang-luc-san-xuat",
+        "status": "draft",
+        "component": "ManufacturingPage"
+    },
+    {
+        "id": 59,
+        "type": "blocks",
+        "slug": "arden-footer",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 48,
+        "type": "page",
+        "slug": "48-2",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 39,
+        "type": "blocks",
+        "slug": "arden-cta",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 37,
+        "type": "blocks",
+        "slug": "arden-faq",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 35,
+        "type": "blocks",
+        "slug": "arden-testimonials",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 33,
+        "type": "blocks",
+        "slug": "arden-moq-policy",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 30,
+        "type": "blocks",
+        "slug": "arden-process",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 28,
+        "type": "blocks",
+        "slug": "arden-factory",
+        "status": "publish",
+        "component": ""
+    },
+    {
+        "id": 26,
+        "type": "blocks",
+        "slug": "arden-trust-bar",
+        "status": "publish",
+        "component": ""
+    }
+]

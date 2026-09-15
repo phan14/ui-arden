@@ -23,6 +23,7 @@ const normalize = value => (value || '').replace(/\s+/g, ' ').trim();
   for (const [name, id] of pages) {
     for (const width of widths) {
       const page = await context.newPage({ viewport: { width, height: width === 390 ? 844 : 900 } });
+      await page.setViewportSize({ width, height: width === 390 ? 844 : 900 });
       const errors = [];
       page.on('pageerror', error => errors.push(error.message));
       const response = await page.goto(`http://localhost/mytest/?page_id=${id}&preview=true`, { waitUntil: 'domcontentloaded', timeout: 20000 });
@@ -65,6 +66,7 @@ const normalize = value => (value || '').replace(/\s+/g, ' ').trim();
 
   for (const width of widths) {
     const policy = await context.newPage({ viewport: { width, height: width === 390 ? 844 : 900 } });
+    await policy.setViewportSize({ width, height: width === 390 ? 844 : 900 });
     await policy.goto('http://localhost/mytest/?page_id=99&preview=true#chinh-sach-van-chuyen', { waitUntil: 'domcontentloaded', timeout: 20000 });
     await policy.waitForTimeout(250);
     const tabs = policy.locator('.arden-policy-tabs [role=tab]');
@@ -80,6 +82,7 @@ const normalize = value => (value || '').replace(/\s+/g, ' ').trim();
 
   for (const width of widths) {
     const fabric = await context.newPage({ viewport: { width, height: width === 390 ? 844 : 900 } });
+    await fabric.setViewportSize({ width, height: width === 390 ? 844 : 900 });
     await fabric.goto('http://localhost/mytest/?page_id=100&preview=true', { waitUntil: 'domcontentloaded', timeout: 20000 });
     await fabric.waitForTimeout(250);
     const input = fabric.locator('input[placeholder*="Tìm theo tên vải"]');
@@ -131,7 +134,7 @@ const normalize = value => (value || '').replace(/\s+/g, ' ').trim();
 
   await browser.close();
   const report = { generatedAt: new Date().toISOString(), checks, summary: { total: checks.length, passed: checks.filter(x => x.pass).length, failed: checks.filter(x => !x.pass).length } };
-  fs.writeFileSync(path.join(root, 'wordpress/audit/task08_6c-focused.json'), JSON.stringify(report, null, 2));
+  fs.writeFileSync(path.join(root, 'wordpress/audit', process.env.ARDEN_FOCUSED_OUTPUT || 'task08_6c-focused.json'), JSON.stringify(report, null, 2));
   console.log(JSON.stringify(report.summary));
   checks.filter(x => !x.pass).forEach(x => console.log('FAIL', x.name, JSON.stringify(x.detail)));
   if (report.summary.failed) process.exitCode = 1;
